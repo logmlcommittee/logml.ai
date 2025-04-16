@@ -2,7 +2,7 @@
 title: "Pragya Singh"
 sidebar: false
 sortby: "Singh, Pragya"
-description: "Imperial College London"
+description: "University of Oxford"
 image: pragya.jpg
 toc: false
 about:
@@ -15,6 +15,6 @@ about:
 ---
 
 
-Pragya recently finished her masters in Artificial Intelligence at Imperial College London. 
-Prior to that, she finished her undergraduate in Engineering Physics from IIT Roorkee and worked as a quantitative researcher at Goldman Sachs.
+Pragya is an incoming PhD student in the Intelligent Earth CDT program at the University of Oxford. 
+She finished her Master's in Artificial Intelligence at Imperial College London and, prior to that, worked as a quantitative researcher at Goldman Sachs.
 Her research interests include geometric and topological machine learning, especially their applications to natural sciences.
