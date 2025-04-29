@@ -34,6 +34,9 @@ height: 300px;
 The summer school is designed for early-career researchers, primarily PhD students, but Master's students, postdoctoral researchers, and industry professionals are also welcome to apply. 
 While Bachelor's students may be considered, preference will be given to those at the Master's level and above.
 
+To support the organization and activities of the summer school, a registration fee will apply for selected participants: 
+£250 for PhD, Master's, and Bachelor's students, £300 for postdoctoral researchers, and £350 for industry professionals.
+
 For any questions, please contact [logml.committee@gmail.com](mailto:logml.committee@gmail.com).
 
 <strong style="color: #73313a">Applications close on April 6th, AoE (Anywhere on Earth).</strong>
