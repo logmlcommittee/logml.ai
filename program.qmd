@@ -1,42 +1,205 @@
+## Tentative Schedule
+
+<style>
+  .scroll-wrapper {
+    max-height: 600px;     /* Height of the schedule that is visible */
+    overflow-y: auto;
+    overflow-x: auto;      
+    border: 1px solid #ccc;
+  }
+  .schedule-table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+  .schedule-table th,
+  .schedule-table td {
+    border: 1px solid #444;
+    text-align: center;
+    vertical-align: middle;
+    padding: 8px;
+    word-wrap: break-word;
+  }
+  /* Row heights for time-based scaling */
+  .h40 { height: 40px; }        /* 30-minutes */
+  .h80 { height: 80px; }        /* 60-minutes */
+  .h160 { height: 160px; }      /* 2-hours */
+  .h320 { height: 320px; }      /* 4-hours */
+
+  /* Cell types, including the coloured cells */
+  .header { background-color: #ffffff; font-weight: bold; }
+  .time { background-color: #ffffff; text-align: right; font-weight: bold; }
+  .green { background-color: #d9ead3; }
+  .blue { background-color: #c9daf8; }
+  .blue-dark { background-color: #9fc5e8; }
+  .grey { background-color: #f3f3f3; }
+  .peach { background-color: #fce5cd; }
+  .pink { background-color: #ead1dc; }
+</style>
+
+<div class="scroll-wrapper">
+<table class="schedule-table">
+    <tr>
+        <th class="header">Time</th>
+        <th class="header">Monday 7 July</th>
+        <th class="header">Tuesday 8 July</th>
+        <th class="header">Wednesday 9 July</th>
+        <th class="header">Thursday 10 July</th>
+        <th class="header">Friday 11 July</th>
+    </tr>
+
+    <tr>
+        <td class="time h80" rowspan="2">8:00 - 9:00</td>
+        <td class="green" rowspan="3">Registration +<br>Welcome Breakfast at V&amp;A</td>
+        <td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td class="time h40">9:00 - 9:30</td>
+        <td class="grey">Tea and coffee</td>
+        <td class="grey">Tea and coffee</td>
+        <td class="grey">Tea and coffee</td>
+        <td class="grey">Tea and coffee</td>
+    </tr>
+
+    <tr>
+        <td class="time h80" rowspan="2">9:30 - 10:30</td>
+        <td class="blue" rowspan="2">Invited Tutorial:<br>Marco Cuturi</td>
+        <td class="blue" rowspan="2">Invited Tutorial:<br>Coralia Cartis</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Tolga Birdal</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Alice Barbora Tumpach</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Filippo Maria Bianchi</td>
+    </tr>
+
+    <tr> </tr>
+
+    <tr>
+        <td class="time h40">10:30 - 11:00</td>
+        <td class="grey">Coffee break</td>
+        <td class="grey">Coffee break</td>
+        <td class="grey">Coffee break</td>
+        <td class="grey">Coffee break</td>
+        <td class="peach" rowspan="5">Projects presentations<br>(open air in Hyde Park – with food provided)</td>
+    </tr>
+
+    <tr>
+        <td class="time h80" rowspan="2">11:00 - 12:00</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Marinka Zitnik</td>
+        <td class="blue" rowspan="2">Invited Tutorial:<br>Estelle Massart</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Bastian Rieck</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Francisco J Ruiz</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td class="time h80" rowspan="2">12:00 - 13:00</td>
+        <td class="grey" rowspan="2">Lunch break</td>
+        <td class="grey" rowspan="2">Lunch break</td>
+        <td class="grey" rowspan="2">12:10pm: Group photo in front of Royal Albert Hall<br>Lunch break</td>
+        <td class="grey" rowspan="2">Lunch break</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td class="time h320" rowspan="8">13:00 - 17:00</td>
+        <td class="peach" rowspan="8">Project time</td>
+        <td class="peach" rowspan="8">Project time</td>
+        <td class="grey" rowspan="8">Afternoon off<br>(project rooms still available for project time if desired)</td>
+        <td class="peach" rowspan="8">Project time</td>
+        <td rowspan="13"></td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr>
+        <td class="time h80" rowspan="2">17:00 - 18:00</td>
+        <td class="pink" rowspan="3">Poster session</td>
+        <td rowspan="3"></td>
+        <td class="green" rowspan="5">Social Event:<br>Company night</td>
+        <td rowspan="2"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td class="time h40">18:00 - 18:30</td>
+        <td class="green" rowspan="3">Social Event:<br>Dinner and live music at Blues Kitchen</td>
+    </tr>
+    <tr>
+        <td class="time h80" rowspan="2">From 18:30</td>
+        <td rowspan="2"></td>
+        <td class="green" rowspan="2">Social Event:<br>Bouldering night</td>
+    </tr>
+</table>
+</div>
+
+## Event Details
+
+::: {.callout-note}
+### Socials
+_(Subject to change up to the day of the event)_
+
 ---
-titpagetitle: "Schedule | LOGML"
-title: Schedule
-sidebar: false
-page-layout: full
-title-block-banner: true 
+
+#### **📌 Poster Session**
+- Poster competition (prizes to be announced on the day of the event)
+- Poster presentation open air in front of Queen’s Tower (South Kensington Campus) - indoor alternative in case of rain
+
 ---
 
-The provisional schedule of the events is available here. The timezone is London time. The talks are held in LT 308 (third floor) in the Huxley building.
+#### **🥐 Welcome Breakfast at Victoria and Albert Museum**
+- Breakfast and registration in [Gamble Room]( https://www.vandaimages.com/results.asp?cat1=Gamble+Room&X8=19-02-07) inside the V&A
+- Continental breakfast provided by [Benugo](https://www.benugo.com/) for all LOGML participants
+- Private tour available for participants from 9:00
 
-You can add the events to your calendar via [iCal](https://calendar.google.com/calendar/ical/logml.committee%40gmail.com/public/basic.ics).
+---
 
+#### **🧗 Bouldering Night**
+- Bouldering, DJ and dinner at [White City Bouldering](https://www.google.com/maps/place/White+City+Bouldering/@51.5094485,-0.2321965,15z/data=!3m1!5s0x48760fd07c4faf0d:0x55f0c588f4d12046!4m6!3m5!1s0x48760f2e75033aaf:0xfc392b5ae678af54!8m2!3d51.5094485!4d-0.2230555!16s%2Fg%2F11pyc5_4hk?hl=de&entry=ttu&g_ep=EgoyMDI1MDUwNi4wIKXMDSoASAFQAw%3D%3D) from 18:30 to 22:30
+- Dinner provided by [Ichiba London](https://www.japancentre.com/en) (Hot and cold japanese food)
+- Shoes and chalk are provided
+- Introductory courses for beginners are available at the beginning of the night
+- 2 bouldering experts available throughout the night
+- Full hire of the bouldering gym - open only to LOGML participants
 
-![](img/calendar.png)
+---
 
-*   **Joan Bruna: Quantitative Benefits of Rank in Attention Layers** [(Slides)](files/JBruna-slides.pdf)
+#### **🎷 Dinner and Live Music at Blues Kitchen**
+- Pub Food, drinks and live music provided to LOGML participants at [Blues Kitchen Shoreditch](https://maps.app.goo.gl/URzxvsk4tvRi7rBy6) from 18:00 to 2:00
+- Live music from 21, then DJ and dance floor open for the rest of the night
+- Private hire of [tequila bar room](https://hirespace.com/Spaces/London/138578/The-Blues-Kitchen-Shoreditch/Tequila-Bar/Events), accessible only to LOGML participants
 
-    Abstract: Attention-based mechanisms are widely used in machine learning, most prominently in transformers and graph neural networks.
-    However, hyperparameters such as the rank of the attention matrices and the number of heads are kept nearly the same in all realizations of this architecture, without any theoretical justification.
-    While the total number of parameters ( a proxy for `capacity' in the language of modern scaling laws) only depends on the product of rank and number of heads, in this talk
-we will show dramatic tradeoffs between these two parameters.
-    Namely, we present a simple and natural target function that can be represented using a single full-rank attention head for any context length, but that provably cannot be approximated by low-rank attention unless the number of heads is exponential in the embedding dimension, even for small context lengths.
-    Moreover, we prove that, for short context lengths, adding depth allows the target to be approximated by low-rank attention. For long contexts, we conjecture that full-rank attention is necessary.
-    Joint work with Noah Amsel and Gilad Yehudai.
+---
 
-*   **Kathryn Hess Bellwald: Cochains are all you need** [(Slides)](files/KHessBellwald-slides.pdf)
+#### **🧺 Project Presentations in Hyde Park**
+- Picnic in Hyde Park - type of food to be confirmed 
+- Availability of marquee in case of rain
+- Each group will present the results of their weekly projects (around 15 minutes presentations with questions)
+:::
 
-    Abstract: I will present results from the thesis of my recently graduated student Kelly Maggs, a diverse collection of fruitful applications of the classical algebra-topological notion of “cochains” in signal processing, machine learning, and gene expression analysis. The first of these applications concerns the interplay between discrete Morse theory and combinatorial Hodge theory. The second involves the use of differential k-forms in Euclidean space to represent simplices in a simplicial complex and thus facilitate interpretability and geometric consistency in geometric deep learning, without message passing. The last application leads to a pipeline for detecting closed biological processes of various types (e.g., the cell cycle) from single-cell RNA seq data, based on persistent cohomology and lead-lag theory for embedded simplicial complexes. Before sketching these applications, I will introduce the notion of cochains and explain how they encode the interplay between geometry and topology.
+---
 
-*   **Vishnu Jejjala: Deep Learning Topology** [(Slides)](files/VJejjala-slides.pdf)
+::: {.callout-note}
+### Provisional Titles of Talks  
+_(Subject to change up to the day of the event)_
 
-*   **Pietro Lio: Diffusion and geometric models for medicine**
+**Filippo Maria Bianchi** (University of Norway) - _‘Hierarchical pooling in Graph Neural Networks’_
 
-*   **Peter Lu: Tutorial on Optimal Transport** [(Slides)](files/PLu-slides.pdf)
+**Tolga Birdal** (Imperial College London) - _‘Topological Deep Learning: Going Beyond Graph Data’_
 
-*   **Anthea Monod: A Tropical Geometric Perspective on Deep Learning**
+**Coralia Cartis** (Oxford University) - _‘Introduction to Riemannian geometry and optimization for machine learning (Parth I)’_
 
-*   **Islem Rekik: The landscape of generative GNNs in network neuroscience**
+**Estelle Massart** (UCLouvain) - _‘Introduction to Riemannian geometry and optimization for machine learning (Parth II)’_
 
-*   **Michalis Vazirgiannis: Multimodal Graph Generative AI and applications to biomedical domain**
+**Marco Cuturi** (Apple / CREST-ENSAE) - _TBD_ 
 
-    Graph generative models are recently gaining significant interest in current application domains. They are commonly used to model social networks, knowledge graphs, molecules and proteins. In this talk we will present the potential of graph generative models and our recent relevant efforts in the biomedical domain. More specifically we present a novel architecture that generates medical records as graphs with privacy guarantees. We capitalize and modify the graph Variational autoencoders (VAEs) architecture. We train the generative model with the well known MIMIC medical database and achieve generated data that are very similar to the real ones yet provide privacy guarantees. We achieve there as well promising results with potential for future application in broader biomedical related tasks. Finally we present ongoing research directions for multi modal generative models involving graphs and applications to protein function text generation – the prot2text model.
+**Bastian Rieck** (University of Fribourg) - _‘Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning’_
+
+**Francisco J Ruiz** (Google DeepMind) - _‘AI for mathematical and algorithmic discoveries’_
+
+**Alice Barbara Tumpach** (Wolfgang Pauli Institute, Vienna) - _‘Infinite-dimensional Geometry and AI’_
+
+**Marinka Zitnik** (Harvard University) - _‘From molecules to therapies: Scientific discovery in the age of AI’_
+:::
