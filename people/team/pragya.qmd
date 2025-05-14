@@ -9,9 +9,9 @@ about:
   id: person-profile
   template: trestles
   links:
-    - icon: linkedin
-      text: linkedin
-      href: https://www.linkedin.com/in/pragya-singh7/
+    - icon: link
+      text: website
+      href: https://pragyasingh7.github.io/
 ---
 
 
