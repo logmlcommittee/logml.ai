@@ -189,9 +189,9 @@ _(Subject to change up to the day of the event)_
 
 **Tolga Birdal** (Imperial College London) - _‘Topological Deep Learning: Going Beyond Graph Data’_
 
-**Coralia Cartis** (Oxford University) - _‘Introduction to Riemannian geometry and optimization for machine learning (Parth I)’_
+**Coralia Cartis** (Oxford University) - _‘Introduction to Riemannian geometry and optimization for machine learning (Part I)’_
 
-**Estelle Massart** (UCLouvain) - _‘Introduction to Riemannian geometry and optimization for machine learning (Parth II)’_
+**Estelle Massart** (UCLouvain) - _‘Introduction to Riemannian geometry and optimization for machine learning (Part II)’_
 
 **Marco Cuturi** (Apple / CREST-ENSAE) - _TBD_ 
 
