@@ -2,37 +2,49 @@
 title: Sponsors
 page-layout: full
 ---
-<br>
-<br>
 
-<p>We gratefully acknowledge sponsorship from:</p>
+<style>
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-items: center;
+}
 
+.sponsor-cell {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-<br>
-<br>
+.sponsor-logo {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+</style>
 
-::: {layout="[[1,1, 1], [1, 1, 1]]"}
+We gratefully acknowledge sponsorship from:
 
-![](img/sponsors/G-Research.png)
-
-![](img/sponsors/genentech.png)
-
-![](img/sponsors/Heilbronn-Logo.png)
-
-![](img/sponsors/IJCAI.jpg)
-
-![](img/sponsors/Imperial.png)
-
-![](img/sponsors/LSGNT-Logo.png)
-
-<img src="img/sponsors/roche.png" width="230" height="140" alt="Image description">
-
-![](img/sponsors/valence.png)
-
-
-![](img/sponsors/schmidtsciences_primary_color.png)
-
-![](img/sponsors/DeepMind.png)
-
-
-:::
+<div class="sponsor-grid">
+<div class="sponsor-cell">
+<img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="img/sponsors/LSGNT-Logo.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="img/sponsors/G-Research.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="img/sponsors/Huawei.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="img/sponsors/Imperial.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="img/sponsors/Erlangen-Hub.png" class="sponsor-logo">
+</div>
+</div>

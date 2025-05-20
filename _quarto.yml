@@ -26,8 +26,8 @@ website:
         href: projects.qmd
       - href: policies.qmd
         text: Policies
-      # - href: sponsors.qmd
-      #   text: Sponsors
+      - href: sponsors.qmd
+        text: Sponsors
       - href: program.qmd
         text: Schedule
       - href: logml2024/speaker.qmd
@@ -82,6 +82,8 @@ website:
         href: mailto:logml.committee@gmail.com
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/logml.bsky.social
+      - icon: twitter
+        href: https://x.com/singh_pragya_?s=21
 
 format:
   html:

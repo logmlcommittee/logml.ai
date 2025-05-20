@@ -115,6 +115,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Policies</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link active" href="./sponsors.html" aria-current="page"> 
+<span class="menu-text">Sponsors</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./program.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
@@ -179,52 +183,47 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><br> <br></p>
-<p>
-We gratefully acknowledge sponsorship from:
-</p>
-<p><br> <br></p>
-<div>
+<style>
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-items: center;
+}
 
+.sponsor-cell {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sponsor-logo {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+</style>
+<p>We gratefully acknowledge sponsorship from:</p>
+<div class="sponsor-grid">
+<div class="sponsor-cell">
+<p><img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo"></p>
 </div>
-<div class="quarto-layout-panel" data-layout="[[1,1, 1], [1, 1, 1]]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/G-Research.png" class="img-fluid"></p>
+<div class="sponsor-cell">
+<p><img src="img/sponsors/LSGNT-Logo.png" class="sponsor-logo"></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/genentech.png" class="img-fluid"></p>
+<div class="sponsor-cell">
+<p><img src="img/sponsors/G-Research.png" class="sponsor-logo"></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/Heilbronn-Logo.png" class="img-fluid"></p>
+<div class="sponsor-cell">
+<p><img src="img/sponsors/Huawei.png" class="sponsor-logo"></p>
 </div>
+<div class="sponsor-cell">
+<p><img src="img/sponsors/Imperial.png" class="sponsor-logo"></p>
 </div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/IJCAI.jpg" class="img-fluid"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/Imperial.png" class="img-fluid"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/LSGNT-Logo.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<p><img src="img/sponsors/roche.png" width="230" height="140" alt="Image description"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/valence.png" class="img-fluid"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/schmidtsciences_primary_color.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="img/sponsors/DeepMind.png" class="img-fluid"></p>
-</div>
+<div class="sponsor-cell">
+<p><img src="img/sponsors/Erlangen-Hub.png" class="sponsor-logo"></p>
 </div>
 </div>
 
@@ -687,6 +686,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="https://bsky.app/profile/logml.bsky.social">
 <p><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></p>
 </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/singh_pragya_?s=21">
+      <i class="bi bi-twitter" role="img">
+</i> 
+    </a>
   </li>  
 </ul>
     </div>
