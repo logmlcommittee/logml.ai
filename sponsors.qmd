@@ -30,21 +30,21 @@ We gratefully acknowledge sponsorship from:
 
 <div class="sponsor-grid">
 <div class="sponsor-cell">
-<img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo">
+<img src="img/sponsors/Imperial.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="img/sponsors/Erlangen-Hub.png" class="sponsor-logo">
 </div>
 <div class="sponsor-cell">
 <img src="img/sponsors/LSGNT-Logo.png" class="sponsor-logo">
 </div>
 <div class="sponsor-cell">
-<img src="img/sponsors/G-Research.png" class="sponsor-logo">
-</div>
-<div class="sponsor-cell">
 <img src="img/sponsors/Huawei.png" class="sponsor-logo">
 </div>
 <div class="sponsor-cell">
-<img src="img/sponsors/Imperial.png" class="sponsor-logo">
+<img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo">
 </div>
 <div class="sponsor-cell">
-<img src="img/sponsors/Erlangen-Hub.png" class="sponsor-logo">
+<img src="img/sponsors/G-Research.png" class="sponsor-logo">
 </div>
 </div>
