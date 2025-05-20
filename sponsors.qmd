@@ -13,7 +13,7 @@ page-layout: full
 
 .sponsor-cell {
   width: 300px;
-  height: 300px;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,9 +26,17 @@ page-layout: full
 }
 </style>
 
-We gratefully acknowledge sponsorship from:
+We gratefully acknowledge funding from 
+the Heilbronn Institute for Mathematical Research and the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
+Imperial College London, the Erlangen AI Hub, LSGNT, Huawei, and G-research.
 
 <div class="sponsor-grid">
+<div class="sponsor-cell">
+<img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="img/sponsors/EPSRC.png" class="sponsor-logo">
+</div>
 <div class="sponsor-cell">
 <img src="img/sponsors/Imperial.png" class="sponsor-logo">
 </div>
@@ -40,9 +48,6 @@ We gratefully acknowledge sponsorship from:
 </div>
 <div class="sponsor-cell">
 <img src="img/sponsors/Huawei.png" class="sponsor-logo">
-</div>
-<div class="sponsor-cell">
-<img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo">
 </div>
 <div class="sponsor-cell">
 <img src="img/sponsors/G-Research.png" class="sponsor-logo">
