@@ -1,0 +1,12 @@
+---
+title: "Call for Sponsors"
+format:
+  html:
+    toc: false
+---
+
+We are excited to announce sponsorship opportunities for our event. You can preview our sponsorship brochure below, or download it [here](files/sponsorship_brochure.pdf).
+
+```{=html}
+<iframe src="files/sponsorship_brochure.pdf" width="800" height="470"></iframe>
+```
