@@ -30,8 +30,8 @@ website:
         text: Schedule
       - href: sponsors.qmd
         text: Sponsors
-      - href: call_for_sponsors.qmd
-        text: "Call for Sponsors"
+      # - href: call_for_sponsors.qmd
+      #   text: "Call for Sponsors"
       - href: logml2024/speaker.qmd
         text: "Archives"
  

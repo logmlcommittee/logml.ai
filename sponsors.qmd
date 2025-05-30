@@ -1,7 +1,10 @@
 ---
-title: Sponsors
+titlepagetitle: "Sponsors | LOGML"
 page-layout: full
+sidebar: false
 ---
+
+## Sponsors
 
 <style>
 .sponsor-grid {
@@ -12,7 +15,7 @@ page-layout: full
 }
 
 .sponsor-cell {
-  width: 300px;
+  width: 250px;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -53,3 +56,14 @@ Imperial College London, the Erlangen AI Hub, LSGNT, Huawei, and G-research.
 <img src="img/sponsors/G-Research.png" class="sponsor-logo">
 </div>
 </div>
+
+
+
+## Call for Sponsors
+
+We are excited to announce sponsorship opportunities for our event. 
+You can preview our sponsorship tiers below, or download the complete brochure [here](files/sponsorship_brochure.pdf).
+
+If you are interested in sponsoring, please contact us at [logml.committee@gmail.com](mailto:logml.committee@gmail.com).
+
+![](files/funding_tiers.png)
