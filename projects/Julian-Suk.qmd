@@ -16,7 +16,7 @@ about:
 
 ## Julian Suk
 
-Julian is a postdoctoral researcher at the Lab for AI in Medicine at the Technical University of Munich (TUM). 
+Julian is a postdoctoral researcher at the Munich Center for Machine Learning (MCML) and Institute for AI and Informatics in Medicine at the Technical University of Munich (TUM). 
 His research interest is geometric deep learning applied to cardiovascular hemodynamics modelling and cortical surface analysis. 
 Julian received a MSc in applied mathematics from TUM and his PhD from the University of Twente. 
 During his PhD, Julian completed an internship at Qualcomm AI Research in Amsterdam.
