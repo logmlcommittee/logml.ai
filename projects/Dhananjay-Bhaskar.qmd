@@ -4,14 +4,17 @@ sidebar: false
 author: "Dhananjay Bhaskar"
 categories: []
 sortby: "Bhaskar, Dhananjay"
-image: Dhananjay-Bhaskar.png
+image: Dhananjay-Bhaskar-and-Ines.png
 about:
   id: project-profile
   template: solana
   links:
     - icon: website
-      text: website
+      text: website - Dhananjay
       href: https://dbhaskar92.github.io/
+    - icon: website
+      text: website - Inés
+      href: https://sites.google.com/view/ines-garcia-redondo/home
 ---
 
 ## Dhananjay Bhaskar
@@ -22,6 +25,12 @@ He has been recognized with several prestigious fellowships, including the Boehr
 Dhananjay earned his Ph.D. in Biomedical Engineering and Master’s in Data Science from Brown University. 
 He completed his undergraduate studies at the University of British Columbia, where he majored in Computer Science and Mathematics. 
 Beyond research, he is an advocate of inclusivity in science, earning the Yale Postdoctoral Association's Outstanding Contribution Award for advancing diversity and professional development initiatives.
+
+## Inés García-Redondo
+
+Inés García-Redondo is a final-year PhD student in the Department of Mathematics at Imperial College London and a member of the London School of Geometry and Number Theory. 
+Her research focuses on topological data analysis, particularly in its use within machine learning systems to investigate the mathematical foundations of AI. 
+Prior to her PhD, she completed a master’s degree in mathematics, as well as undergraduate degrees in both mathematics and physics, from the Complutense University of Madrid.
 
 ## Project
 
