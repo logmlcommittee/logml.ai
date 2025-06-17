@@ -1,9 +1,9 @@
 ---
 title: "Fairness-Aware GraphRAG for Trustworthy and Equitable Document Retrieval"
 sidebar: false
-author: "Guadalupe Gonzalez, Chirag Agarwal"
+author: "Guadalupe Gonzalez, Chirag Agarwal, Kyle Higgins"
 categories: []
-sortby: "Gonzalez, Guadalupe, Agarwal, Chirag"
+sortby: "Gonzalez, Guadalupe, Agarwal, Chirag, Higgins, Kyle"
 image: Guadalupe-Gonzalez-and-Chirag-Agarwal-and-Kyle-Higgins.png
 about:
   id: project-profile

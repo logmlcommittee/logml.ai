@@ -1,9 +1,9 @@
 ---
 title: "Topological Machine Learning for Brain Dynamics"
 sidebar: false
-author: "Dhananjay Bhaskar"
+author: "Dhananjay Bhaskar, Inés García-Redondo"
 categories: []
-sortby: "Bhaskar, Dhananjay"
+sortby: "Bhaskar, Dhananjay, García-Redondo, Inés"
 image: Dhananjay-Bhaskar-and-Ines.png
 about:
   id: project-profile
