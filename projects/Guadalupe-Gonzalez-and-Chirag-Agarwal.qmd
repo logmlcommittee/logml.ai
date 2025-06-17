@@ -4,7 +4,7 @@ sidebar: false
 author: "Guadalupe Gonzalez, Chirag Agarwal"
 categories: []
 sortby: "Gonzalez, Guadalupe, Agarwal, Chirag"
-image: Guadalupe-Gonzalez-and-Chirag-Agarwal.png
+image: Guadalupe-Gonzalez-and-Chirag-Agarwal-and-Kyle-Higgins.png
 about:
   id: project-profile
   template: solana
@@ -15,6 +15,9 @@ about:
     - icon: website
       text: website - Chirag
       href: https://chirag-agarwall.github.io/
+    - icon: website
+      text: website - Kyle
+      href: https://profiles.imperial.ac.uk/k.higgins22
 ---
 
 ## Guadalupe Gonzalez
@@ -31,6 +34,14 @@ Chirag Agarwal is an Assistant Professor at the University of Virginia with appo
 Dr. Agarwal researches on developing Scalable Trustworthy Machine Learning Frameworks that go beyond training models for specific downstream tasks and satisfy trustworthy properties, such as explainability, fairness, and robustness. 
 He has authored in top-tier machine learning and computer vision conferences and leading scientific journals. 
 His research has received Spotlight and Oral presentations at NeurIPS, ICML, CVPR, and ICIP, and received industrial grants from Adobe, Microsoft, and Google to support his work on Trustworthy Machine Learning.
+
+## Kyle Higgins
+
+Kyle Higgins is a President’s Scholar at Imperial College London, pursuing a PhD in Clinical Medical Research with focus in Cancer Informatics. 
+He is advised by Krill Veselkov and Head of the Department of Surgery and Cancer, George Hanna. 
+He has previously worked in bioinformatics at Harvard Medical School and high energy physics at Brookhaven National Lab. 
+Kyle's past work has focused on applying reinforcement learning to recommend personalized treatments for H. pylori infection (Nature Communcations) and applying foundation models for identification of gastric inflammation (Diagnostics). 
+Kyle’s most recent research lies at the intersection of graph machine learning and bioinformatics, with a special focus on integrating data from diverse patient modalities including omics, radiology images, and patient metadata to identify systems-level drivers of disease.
 
 ## Project
 

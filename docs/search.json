@@ -1796,6 +1796,13 @@
     "text": "Chirag Agarwal\nChirag Agarwal is an Assistant Professor at the University of Virginia with appointments in the Data Science School and the Department of Computer Science. Dr. Agarwal researches on developing Scalable Trustworthy Machine Learning Frameworks that go beyond training models for specific downstream tasks and satisfy trustworthy properties, such as explainability, fairness, and robustness. He has authored in top-tier machine learning and computer vision conferences and leading scientific journals. His research has received Spotlight and Oral presentations at NeurIPS, ICML, CVPR, and ICIP, and received industrial grants from Adobe, Microsoft, and Google to support his work on Trustworthy Machine Learning."
   },
   {
+    "objectID": "projects/Guadalupe-Gonzalez-and-Chirag-Agarwal.html#kyle-higgins",
+    "href": "projects/Guadalupe-Gonzalez-and-Chirag-Agarwal.html#kyle-higgins",
+    "title": "Fairness-Aware GraphRAG for Trustworthy and Equitable Document Retrieval",
+    "section": "Kyle Higgins",
+    "text": "Kyle Higgins\nKyle Higgins is a President’s Scholar at Imperial College London, pursuing a PhD in Clinical Medical Research with focus in Cancer Informatics. He is advised by Krill Veselkov and Head of the Department of Surgery and Cancer, George Hanna. He has previously worked in bioinformatics at Harvard Medical School and high energy physics at Brookhaven National Lab. Kyle’s past work has focused on applying reinforcement learning to recommend personalized treatments for H. pylori infection (Nature Communcations) and applying foundation models for identification of gastric inflammation (Diagnostics). Kyle’s most recent research lies at the intersection of graph machine learning and bioinformatics, with a special focus on integrating data from diverse patient modalities including omics, radiology images, and patient metadata to identify systems-level drivers of disease."
+  },
+  {
     "objectID": "projects/Guadalupe-Gonzalez-and-Chirag-Agarwal.html#project",
     "href": "projects/Guadalupe-Gonzalez-and-Chirag-Agarwal.html#project",
     "title": "Fairness-Aware GraphRAG for Trustworthy and Equitable Document Retrieval",
