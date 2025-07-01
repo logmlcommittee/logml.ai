@@ -52,6 +52,19 @@ Imperial College London, the Erlangen AI Hub, LSGNT, Huawei, and G-research.
 <div class="sponsor-cell">
 <img src="img/sponsors/G-Research.png" class="sponsor-logo">
 </div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/IdealLondonLogo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/UCLLogo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/WilbeLabLogo.png" class="sponsor-logo">
+</div>
+
 </div>
 
 
