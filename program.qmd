@@ -23,9 +23,11 @@
     word-wrap: break-word;
   }
   /* Row heights for time-based scaling */
+  .h20 { height: 20px; }        /* 15-minutes */
   .h40 { height: 40px; }        /* 30-minutes */
   .h80 { height: 80px; }        /* 60-minutes */
   .h160 { height: 160px; }      /* 2-hours */
+  .h240 { height: 240px; }      /* 3-hours */
   .h320 { height: 320px; }      /* 4-hours */
 
   /* Cell types, including the coloured cells */
@@ -74,11 +76,12 @@
 
     <tr>
         <td class="time h40">10:00 - 10:30</td>
-        <td class="blue" rowspan="2">Invited Tutorial:<br>Marco Cuturi</td>
+        <td class="grey">Registration at Imperial</td>
     </tr>
 
     <tr>
         <td class="time h40">10:30 - 11:00</td>
+        <td class="blue" rowspan="2">Invited Tutorial:<br>Marco Cuturi</td>
         <td class="grey">Coffee break</td>
         <td class="grey">Coffee break</td>
         <td class="grey">Coffee break</td>
@@ -87,7 +90,6 @@
 
     <tr>
         <td class="time h40">11:00 - 11:30</td>
-        <td class="grey">Coffee break</td>
         <td class="blue" rowspan="2">Invited Tutorial:<br>Estelle Massart</td>
         <td class="blue" rowspan="2">Invited talk:<br>Bastian Rieck</td>
         <td class="blue" rowspan="2">Invited talk:<br>Francisco J Ruiz</td>
@@ -95,11 +97,12 @@
 
     <tr>
         <td class="time h40">11:30 - 12:00</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Marinka Zitnik</td>
+        <td class="grey">Coffee break</td>
     </tr>
 
     <tr>
         <td class="time h40">12:00 - 12:30</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Marinka Zitnik</td>
         <td class="grey" rowspan="2">Lunch break</td>
         <td class="grey" rowspan="2">12:10pm: Group photo in front of Royal Albert Hall<br>Lunch break</td>
         <td class="grey" rowspan="2">Lunch break</td>
@@ -107,20 +110,25 @@
 
     <tr>
         <td class="time h40">12:30 - 13:00</td>
-        <td class="grey" rowspan="2">Lunch break</td>
+
     </tr>
 
     <tr>
         <td class="time h40">13:00 - 13:30</td>
+        <td class="grey" rowspan="2">Lunch break</td>
         <td class="peach" rowspan="8">Project time</td>
         <td class="grey" rowspan="8">Afternoon off<br>(project rooms still available for project time if desired)</td>
         <td class="peach" rowspan="8">Project time</td>
         <td rowspan="13"></td>
     </tr>
+
+    <tr>
+        <td class="time h40">13:30 - 14:00</td>
+    </tr>
     
     <tr>
-        <td class="time h320" rowspan="7">13:30 - 17:00</td>
-        <td class="peach" rowspan="7">Project time</td>
+        <td class="time h240" rowspan="6">14:00 - 17:00</td>
+        <td class="peach" rowspan="6">Project time</td>
     </tr>
 
     <tr></tr>
@@ -207,7 +215,7 @@ _(Subject to change up to the day of the event)_
 
 **Estelle Massart** (UCLouvain) - _‘Introduction to Riemannian geometry and optimization for machine learning (Part II)’_
 
-**Marco Cuturi** (Apple / CREST-ENSAE) - _TBD_ 
+**Marco Cuturi** (Apple / CREST-ENSAE) - _'A Survey of Optimal Transport and its Interplay with Flow Models'_ 
 
 **Bastian Rieck** (University of Fribourg) - _‘Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning’_
 
