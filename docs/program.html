@@ -188,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
     width: 100%;
     table-layout: fixed;
     font-family: sans-serif;
-    font-size: 14px;
+    font-size: 13px;
   }
   .schedule-table th,
   .schedule-table td {
@@ -201,9 +201,11 @@ ul.task-list li input[type="checkbox"] {
   /* Row heights for time-based scaling */
   .h20 { height: 20px; }        /* 15-minutes */
   .h40 { height: 40px; }        /* 30-minutes */
+  .h60 { height: 60px; }        /* 45-minutes */
   .h80 { height: 80px; }        /* 60-minutes */
+  .h100 { height: 100px; }      /* 1-hour 15-minutes */
   .h160 { height: 160px; }      /* 2-hours */
-  .h240 { height: 240px; }      /* 3-hours */
+  .h260 { height: 260px; }      /* 3-hours 15-minutes */
   .h320 { height: 320px; }      /* 4-hours */
 
   /* Cell types, including the coloured cells */
@@ -314,8 +316,8 @@ Coffee break
 <td class="grey">
 Coffee break
 </td>
-<td class="peach" rowspan="5">
-Project presentations<br>(open air in Hyde Park – with food provided)
+<td class="peach" rowspan="4">
+Project presentations
 </td>
 </tr>
 <tr>
@@ -351,7 +353,7 @@ Invited talk:<br>Marinka Zitnik
 Lunch break
 </td>
 <td class="grey" rowspan="2">
-12:10pm: Group photo in front of Royal Albert Hall<br>Lunch break
+12:10: Group photo<br> at Royal Albert Hall<br>Lunch break
 </td>
 <td class="grey" rowspan="2">
 Lunch break
@@ -361,37 +363,40 @@ Lunch break
 <td class="time h40">
 12:30 - 13:00
 </td>
+<td>
+</td>
 </tr>
 <tr>
-<td class="time h40">
-13:00 - 13:30
+<td class="time h60">
+13:00 - 13:45
 </td>
-<td class="grey" rowspan="2">
+<td class="grey">
 Lunch break
-</td>
-<td class="peach" rowspan="8">
-Project time
-</td>
-<td class="grey" rowspan="8">
-Afternoon off<br>(project rooms still available for project time if desired)
-</td>
-<td class="peach" rowspan="8">
-Project time
-</td>
-<td rowspan="13">
-</td>
-</tr>
-<tr>
-<td class="time h40">
-13:30 - 14:00
-</td>
-</tr>
-<tr>
-<td class="time h240" rowspan="6">
-14:00 - 17:00
 </td>
 <td class="peach" rowspan="6">
 Project time
+</td>
+<td class="grey" rowspan="6">
+Afternoon off<br>(project rooms still available for project time if desired)
+</td>
+<td class="peach" rowspan="6">
+Project time
+</td>
+<td class="green" rowspan="2">
+Social Event: Lunch at Chiswick House and Gardens
+</td>
+</tr>
+<tr>
+<td class="time h100">
+13:45 - 15:00
+</td>
+<td class="peach" rowspan="5">
+Project time
+</td>
+</tr>
+<tr>
+<td class="time h160" rowspan="5">
+13:45 - 17:00
 </td>
 </tr>
 <tr>
@@ -462,7 +467,7 @@ Socials
 <h4 class="anchored" data-anchor-id="poster-session"><strong>📌 Poster Session</strong></h4>
 <ul>
 <li>Poster competition (prizes to be announced on the day of the event)</li>
-<li>Poster presentation open air in front of Queen’s Tower (South Kensington Campus) - indoor alternative in case of rain</li>
+<li>Poster presentation at Imperial College London (South Kensington Campus)</li>
 </ul>
 <hr>
 </section>
@@ -479,11 +484,22 @@ Socials
 <h4 class="anchored" data-anchor-id="bouldering-night"><strong>🧗 Bouldering Night</strong></h4>
 <ul>
 <li>Bouldering, DJ and dinner at <a href="https://www.google.com/maps/place/White+City+Bouldering/@51.5094485,-0.2321965,15z/data=!3m1!5s0x48760fd07c4faf0d:0x55f0c588f4d12046!4m6!3m5!1s0x48760f2e75033aaf:0xfc392b5ae678af54!8m2!3d51.5094485!4d-0.2230555!16s%2Fg%2F11pyc5_4hk?hl=de&amp;entry=ttu&amp;g_ep=EgoyMDI1MDUwNi4wIKXMDSoASAFQAw%3D%3D">White City Bouldering</a> from 18:30 to 22:30</li>
-<li>Dinner provided by <a href="https://www.japancentre.com/en">Ichiba London</a> (Hot and cold japanese food)</li>
+<li>Dinner provided by <a href="https://www.jakobs.co.uk/">Jakobs</a></li>
 <li>Shoes and chalk are provided</li>
 <li>Introductory courses for beginners are available at the beginning of the night</li>
 <li>2 bouldering experts available throughout the night</li>
 <li>Full hire of the bouldering gym - open only to LOGML participants</li>
+</ul>
+<hr>
+</section>
+<section id="company-night-at-idealondon" class="level4">
+<h4 class="anchored" data-anchor-id="company-night-at-idealondon">💼 Company Night at IdeaLondon</h4>
+<ul>
+<li>Hosted at <a href="https://www.idealondon.co.uk/">IdeaLondon</a> with snacks and drinks<br>
+</li>
+<li>Includes short presentations by participating companies<br>
+</li>
+<li>Followed by informal networking and discussions</li>
 </ul>
 <hr>
 </section>
@@ -496,12 +512,12 @@ Socials
 </ul>
 <hr>
 </section>
-<section id="project-presentations-in-hyde-park" class="level4">
-<h4 class="anchored" data-anchor-id="project-presentations-in-hyde-park"><strong>🧺 Project Presentations in Hyde Park</strong></h4>
+<section id="project-presentations" class="level4">
+<h4 class="anchored" data-anchor-id="project-presentations"><strong>🧺 Project Presentations</strong></h4>
 <ul>
-<li>Picnic in Hyde Park - type of food to be confirmed</li>
-<li>Availability of marquee in case of rain</li>
-<li>Each group will present the results of their weekly projects (around 15 minutes presentations with questions)</li>
+<li>Final presentations will be held from 10:30 to 12:30 at Imperial College London</li>
+<li>Lunch will follow from 13:00 onwards at <a href="https://chiswickhouseandgardens.org.uk/">Chiswick House and Gardens</a></li>
+<li>Each group will present the results of their weekly projects (5 minutes presentation)</li>
 </ul>
 </section>
 </div>

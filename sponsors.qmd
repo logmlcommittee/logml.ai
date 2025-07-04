@@ -4,8 +4,6 @@ page-layout: full
 sidebar: false
 ---
 
-## Sponsors
-
 <style>
 .sponsor-grid {
   display: grid;
@@ -31,7 +29,7 @@ sidebar: false
 
 We gratefully acknowledge funding from 
 the Heilbronn Institute for Mathematical Research and the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
-Imperial College London, the Erlangen AI Hub, LSGNT, Huawei, and G-research.
+Imperial College London, the Erlangen AI Hub, LSGNT, G-research, IdeaLondon, and Prob AI.
 
 <div class="sponsor-grid">
 <div class="sponsor-cell">
@@ -69,15 +67,8 @@ Imperial College London, the Erlangen AI Hub, LSGNT, Huawei, and G-research.
 <img src="img/sponsors/ProbAILogo.png" class="sponsor-logo">
 </div>
 
+<div class="sponsor-cell">
+<img src="img/sponsors/CIRCLEGroup.png" class="sponsor-logo">
 </div>
 
-
-
-## Call for Sponsors
-
-We are excited to announce sponsorship opportunities for our event. 
-You can preview our sponsorship tiers below, or download the complete brochure [here](files/sponsorship_brochure.pdf).
-
-If you are interested in sponsoring, please contact us at [logml.committee@gmail.com](mailto:logml.committee@gmail.com).
-
-![](files/funding_tiers.png)
+</div>
