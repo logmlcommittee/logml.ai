@@ -119,27 +119,21 @@
     <tr>
         <td class="time h60">13:00 - 13:45</td>
         <td class="grey" >Lunch break</td>
-        <td class="peach" rowspan="6">Project time</td>
-        <td class="grey" rowspan="6">Afternoon off<br>(project rooms still available for project time if desired)</td>
-        <td class="peach" rowspan="6">Project time</td>
+        <td class="peach" rowspan="3">Project time</td>
+        <td class="grey" rowspan="3">Afternoon off<br>(project rooms still available for project time if desired)</td>
+        <td class="peach" rowspan="3">Project time</td>
         <td class="green" rowspan="2">Social Event: Lunch at Chiswick House and Gardens</td>
     </tr>
     
     <tr>
         <td class="time h100">13:45 - 15:00</td>
-        <td class="peach" rowspan="5">Project time</td>
+        <td class="peach" rowspan="2">Project time</td>
     </tr>
 
     <tr>
-        <td class="time h160" rowspan="5">13:45 - 17:00</td>
+        <td class="time h160">13:45 - 17:00</td>
     </tr>
 
-    <tr></tr>
-    <tr></tr>
-    <tr></tr>
-    <tr></tr>
-    <tr></tr>
-    <tr></tr>
     <tr>
         <td class="time h80" rowspan="2">17:00 - 18:00</td>
         <td class="pink" rowspan="3">Poster session<br><span style="font-size: 0.8em;">(CAGB: CL Lvl 2)</span></td>
