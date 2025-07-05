@@ -1,4 +1,4 @@
-## Tentative Schedule
+## Schedule
 
 <style>
   .scroll-wrapper {
@@ -70,10 +70,10 @@
 
     <tr>
         <td class="time h40">9:30 - 10:00</td>
-        <td class="blue" rowspan="2">Invited Tutorial:<br>Coralia Cartis</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Tolga Birdal</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Alice Barbora Tumpach</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Filippo Maria Bianchi</td>
+        <td class="blue" rowspan="2">Invited Tutorial:<br>Coralia Cartis<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
+        <td class="blue" rowspan="2">Invited talk:<br>Tolga Birdal<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
+        <td class="blue" rowspan="2">Invited talk:<br>Alice Barbora Tumpach<br><span style="font-size: 0.8em;">(SAF: LT G34)</span></td>
+        <td class="blue" rowspan="2">Invited talk:<br>Filippo Maria Bianchi<br><span style="font-size: 0.8em;">(Skempton: LT 201)</span></td>
     </tr>
 
     <tr>
@@ -83,18 +83,18 @@
 
     <tr>
         <td class="time h40">10:30 - 11:00</td>
-        <td class="blue" rowspan="2">Invited Tutorial:<br>Marco Cuturi</td>
+        <td class="blue" rowspan="2">Invited Tutorial:<br>Marco Cuturi<br><span style="font-size: 0.8em;">(CAGB: LT 200)</span></td>
         <td class="grey">Coffee break</td>
         <td class="grey">Coffee break</td>
         <td class="grey">Coffee break</td>
-        <td class="peach" rowspan="4">Project presentations</td>
+        <td class="peach" rowspan="4">Project presentations<br><span style="font-size: 0.8em;">(Skempton: LT 201)</span></td>
     </tr>
 
     <tr>
         <td class="time h40">11:00 - 11:30</td>
-        <td class="blue" rowspan="2">Invited Tutorial:<br>Estelle Massart</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Bastian Rieck</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Francisco J Ruiz</td>
+        <td class="blue" rowspan="2">Invited Tutorial:<br>Estelle Massart<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
+        <td class="blue" rowspan="2">Invited talk:<br>Bastian Rieck<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
+        <td class="blue" rowspan="2">Invited talk:<br>Francisco J Ruiz<br><span style="font-size: 0.8em;">(SAF: LT G34)</span></td>
     </tr>
 
     <tr>
@@ -104,7 +104,7 @@
 
     <tr>
         <td class="time h40">12:00 - 12:30</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Marinka Zitnik</td>
+        <td class="blue" rowspan="2">Invited talk:<br>Marinka Zitnik<br><span style="font-size: 0.8em;">(CAGB: LT 200)</span></td>
         <td class="grey" rowspan="2">Lunch break</td>
         <td class="grey" rowspan="2">12:10: Group photo<br> at Royal Albert Hall<br>Lunch break</td>
         <td class="grey" rowspan="2">Lunch break</td>
@@ -142,7 +142,7 @@
     <tr></tr>
     <tr>
         <td class="time h80" rowspan="2">17:00 - 18:00</td>
-        <td class="pink" rowspan="3">Poster session</td>
+        <td class="pink" rowspan="3">Poster session<br><span style="font-size: 0.8em;">(CAGB: CL Lvl 2)</span></td>
         <td rowspan="3"></td>
         <td class="green" rowspan="5">Social Event:<br>Company night</td>
         <td rowspan="2"></td>
@@ -216,7 +216,7 @@ _(Subject to change up to the day of the event)_
 ---
 
 ::: {.callout-note}
-### Provisional Titles of Talks  
+### Titles of Talks  
 _(Subject to change up to the day of the event)_
 
 **Filippo Maria Bianchi** (University of Norway) - _‘Hierarchical pooling in Graph Neural Networks’_
@@ -237,3 +237,21 @@ _(Subject to change up to the day of the event)_
 
 **Marinka Zitnik** (Harvard University) - _‘From molecules to therapies: Scientific discovery in the age of AI’_
 :::
+
+## Directions
+
+##### South Kensington Campus Map
+
+![](img/directions/SouthKensingtonCampus.png)
+
+##### City and Guilds Building (CAGB), Level 2 Map
+
+![](img/directions/CityAndGuildsBuildingL2.png)
+
+##### Huxley Building, Level 3 Map
+
+![](img/directions/HuxleyBuildingL3.png)
+
+##### Skempton Building, Level 2 Map
+
+![](img/directions/SkemptonBuildingL2.png)
