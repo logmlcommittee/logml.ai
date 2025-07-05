@@ -68,6 +68,10 @@ Imperial College London, the Erlangen AI Hub, LSGNT, G-research, IdeaLondon, and
 </div>
 
 <div class="sponsor-cell">
+<img src="img/sponsors/Huawei.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
 <img src="img/sponsors/CIRCLEGroup.png" class="sponsor-logo">
 </div>
 
