@@ -249,3 +249,7 @@ _(Subject to change up to the day of the event)_
 ##### Skempton Building, Level 2 Map
 
 ![](img/directions/SkemptonBuildingL2.png)
+
+##### Sir Alexander Fleming (SAF) Building Map
+
+![](img/directions/SAFBuilding.png)
