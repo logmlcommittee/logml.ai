@@ -138,12 +138,13 @@
         <td class="time h80" rowspan="2">17:00 - 18:00</td>
         <td class="pink" rowspan="3">Poster session<br><span style="font-size: 0.8em;">(CAGB: CL Lvl 2)</span></td>
         <td rowspan="3"></td>
-        <td class="green" rowspan="5">Social Event:<br>Company night</td>
+        <td rowspan="2"></td>
         <td rowspan="2"></td>
     </tr>
     <tr></tr>
     <tr>
         <td class="time h40">18:00 - 18:30</td>
+        <td class="green" rowspan="3">Social Event:<br>Company night</td>
         <td class="green" rowspan="3">Social Event:<br>Dinner and live music at Blues Kitchen</td>
     </tr>
     <tr>
@@ -202,8 +203,8 @@ _(Subject to change up to the day of the event)_
 
 #### **🧺 Project Presentations**
 - Final presentations will be held from 10:30 to 12:30 at Imperial College London
-- Lunch will follow from 13:00 onwards at [Chiswick House and Gardens](https://chiswickhouseandgardens.org.uk/)
 - Each group will present the results of their weekly projects (5 minutes presentation)
+- Lunch will follow from 13:00 onwards at [Chiswick House and Gardens](https://chiswickhouseandgardens.org.uk/)
 
 :::
 
