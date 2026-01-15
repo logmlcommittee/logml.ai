@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "LOGML 2025"
+  title: "LOGML 2026"
   favicon: favicon.ico
   twitter-card:
-    title: "LOGML 2025"
-    description: "London Geometry and Machine Learning Summer School, July 7-11 2025"
+    title: "LOGML 2026"
+    description: "London Geometry and Machine Learning Summer School, July 13-17 2026"
     image: "https://www.logml.ai/img/logo.png"
     card-style: summary
     site: "@LogmlSchool"
@@ -20,16 +20,16 @@ website:
     left:
       - href: people.qmd
         text: People
-      - text: Speakers
-        href: speaker.qmd
-      - text: "Projects & Mentors"
-        href: projects.qmd
+      # - text: Speakers
+      #   href: speaker.qmd
+      # - text: "Projects & Mentors"
+      #   href: projects.qmd
       - href: policies.qmd
         text: Policies
-      - href: program.qmd
-        text: Schedule
-      - href: sponsors.qmd
-        text: Sponsors
+      # - href: program.qmd
+      #   text: Schedule
+      # - href: sponsors.qmd
+      #   text: Sponsors
       # - href: call_for_sponsors.qmd
       #   text: "Call for Sponsors"
       - href: logml2025/speaker.qmd
@@ -78,7 +78,7 @@ website:
         
               
   page-footer: 
-    left: "Copyright © 2025, LOGML Team" 
+    left: "Copyright © 2026, LOGML Team" 
     right: 
       - icon: youtube
         href: https://www.youtube.com/channel/UC7m0STJK9e4BbD-elwS4bNw

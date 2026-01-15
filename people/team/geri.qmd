@@ -1,0 +1,21 @@
+---
+title: "Geri Skenderi"
+sidebar: false
+sortby: "Skenderi, Geri"
+description: "Bocconi University & Bocconi Institute for Data Science and Analytics"
+image: geri.JPG
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=F_FT7TUAAAAJ&view_op=list_works&sortby=pubdate
+    - text: "{{< fa brands x-twitter >}}"
+      href: https://x.com/geriskenderi
+---
+
+
+Geri is a Postdoctoral Researcher at the Bocconi Institute for Data Science and Analytics, in the Machine Learning and Statistical Physics group. 
+His current research lies at the intersection of AI and Geometry, aiming to understand the representation learning capabilities of modern Neural Networks, in particular of Graph Neural Networks. 
+He did his PhD in Computer Science at the University of Verona under the supervision of Prof. Marco Cristani, and he was a J1 visiting scholar at the DSE Lab of Michigan State University, headed by Prof. Jiliang Tang.

@@ -22,34 +22,15 @@ height: 300px;
 
 <img src="img/logo.png" align="left" width="100px" style="margin-right: 30px" />
 
-<h1>LOGML Summer School 2025</h1>
+<h1>LOGML Summer School 2026</h1>
 
-<h2 style="color: #73313a">London, 7-11 July 2025</h2>
+<h2 style="color: #73313a">London, 13-17 July 2026*</h2>
 
-<p>LOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to collaborate on a variety of problems at the intersection of geometry and machine learning. There will be a selection of group projects, each overseen by an experienced mentor, talks by leading figures in the field, a variety of social events and a company networking night.</p>
+<p>LOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to collaborate on a variety of problems at the intersection of geometry and machine learning. There will be a selection of group projects, each overseen by an experienced mentor, talks by leading figures in the field, and a variety of social events.</p>
 
-::: {.callout-note}
-## Participant Applications (Closed)
+<p>Several working groups that started at LOGML went on to form longer-term collaborations leading to publications in notable conferences and journals, including:</p>
 
-The summer school is designed for early-career researchers, primarily PhD students, but Master's students, postdoctoral researchers, and industry professionals are also welcome to apply. 
-While Bachelor's students may be considered, preference will be given to those at the Master's level and above.
-
-To support the organization and activities of the summer school, a registration fee will apply for selected participants: 
-£250 for PhD, Master's, and Bachelor's students, £300 for postdoctoral researchers, and £350 for industry professionals.
-
-For any questions, please contact [logml.committee@gmail.com](mailto:logml.committee@gmail.com).
-
-<strong style="color: #73313a">Applications close on April 6th, AoE (Anywhere on Earth).</strong>
-
-<strong style="color: #73313a">All acceptance decisions have now been communicated. We thank all applicants for their interest and enthusiasm.</strong>
-
-:::
-
-::: {.callout-note}
-## Mentor Applications (Closed)
-Mentors guide a small group of passionate early career researchers on a week-long project of their choosing at the intersection of geometry and machine learning.
-
-LOGML is not merely a summer school; it's an incubator for innovation at the intersection of geometry and machine learning. Several working groups that started at LOGML went on to form longer-term collaborations leading to publications in notable conferences and journals, including:
+::: {style="border: 1px solid #e9ecef; padding: 20px; border-radius: 10px; background-color: #f8f9fa; margin-bottom: 30px;"}
 
 * [Connecting Neural Models Latent Geometries with Relative Geodesic Representations (Workshop on Symmetry and Geometry in Neural Representations, NeurIPS 2024)](https://openreview.net/pdf?id=gYTblmieFc)
 * [Group-invariant machine learning on the Kreuzer-Skarke dataset (Physics Letters B, 2024)](https://doi.org/10.1016/j.physletb.2024.138996)
@@ -62,16 +43,9 @@ LOGML is not merely a summer school; it's an incubator for innovation at the int
 * [Towards Training GNNs Using Explanation Directed Message Passing (LOG conference, 2022)](https://proceedings.mlr.press/v198/giunchiglia22a.html)
 * [Eqivariant Subgraph Aggregation Networks (ICLR 2022, Spotlight)](https://openreview.net/pdf?id=dFbKQaRk15w)
 
-Here's what you can anticipate:
-
-* <strong>Deep dive into collaborative research:</strong> You'll steer a group of typically five early-career researchers, working closely on a well-defined project. While 15 hours of the week are earmarked for project working time, the energy and enthusiasm often see groups dedicating more.
-* <strong>Drive tangible outcomes:</strong> The LOGML experience is intensive, yet the time frame is concise. With only one week available, it's essential to zero in on achievable milestones. In the past, mentors have found success in adapting existing algorithms to fresh datasets, implementing a pilot for a theoretical idea, or laying the theoretical foundations for a longer-term project.
-* <strong>Engage & enlighten:</strong> Apart from the project work, the week will be filled with lectures by leading figures in the field, as well as a company and networking night.
-
-
-<strong style="color: #73313a">Applications close on February 16th, AoE (Anywhere on Earth).</strong>
-
 :::
 
-<p>You can find a list of previous years' projects and speakers under "Archives" above.</p>
+<p>You can find a list of previous years' projects and speakers under <a href="logml2025/speaker.qmd">Archives</a> above.</p>
+
+<p><em>*These are tentative dates and subject to change.</em></p>
 
