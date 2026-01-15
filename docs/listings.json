@@ -24,6 +24,20 @@
     ]
   },
   {
+    "listing": "/logml2025/speaker.html",
+    "items": [
+      "/logml2025/speakers2025/filippo.html",
+      "/logml2025/speakers2025/tolga.html",
+      "/logml2025/speakers2025/coralia.html",
+      "/logml2025/speakers2025/marco.html",
+      "/logml2025/speakers2025/estelle.html",
+      "/logml2025/speakers2025/bastian.html",
+      "/logml2025/speakers2025/francisco.html",
+      "/logml2025/speakers2025/barbara.html",
+      "/logml2025/speakers2025/marinka.html"
+    ]
+  },
+  {
     "listing": "/logml2022/speaker.html",
     "items": [
       "/logml2022/speakers2022/keynote/heather-harrington.html",
@@ -88,7 +102,7 @@
       "/projects/Fabrizio-Frasca.html",
       "/projects/Caterina-Graziani.html",
       "/projects/Anthea-Monod-and-Omer-Bobrowski.html",
-      "/projects/Guadalupe-Gonzalez-and-Chirag-Agarwal.html",
+      "/projects/Guadalupe-Gonzalez-and-Chirag-Agarwal-and-Kyle-Higgins.html",
       "/projects/Julian-Suk.html",
       "/projects/Vijay-Prakash-Dwivedi.html",
       "/projects/Michael-Murray.html",
@@ -101,7 +115,7 @@
       "/projects/Donato-Crisostomi.html",
       "/projects/Estefania-Loayza-Romero.html",
       "/projects/Jiayi-Li.html",
-      "/projects/Dhananjay-Bhaskar.html",
+      "/projects/Dhananjay-Bhaskar-and-Ines.html",
       "/projects/Owen-Queen.html",
       "/projects/Veronica-Lachi.html"
     ]
@@ -189,25 +203,51 @@
     ]
   },
   {
-    "listing": "/logml2024/projects.html",
+    "listing": "/logml2025/projects.html",
     "items": [
-      "/logml2024/projects2024/project15/index.html",
-      "/logml2024/projects2024/project8/index.html",
-      "/logml2024/projects2024/project5/index.html",
-      "/logml2024/projects2024/project4/index.html",
-      "/logml2024/projects2024/project16/index.html",
-      "/logml2024/projects2024/project6/index.html",
-      "/logml2024/projects2024/project14/index.html",
-      "/logml2024/projects2024/project13/index.html",
-      "/logml2024/projects2024/project2/index.html",
-      "/logml2024/projects2024/project12/index.html",
-      "/logml2024/projects2024/project10/index.html",
-      "/logml2024/projects2024/project9/index.html",
-      "/logml2024/projects2024/project7/index.html",
-      "/logml2024/projects2024/project1/index.html",
-      "/logml2024/projects2024/project3/index.html",
-      "/logml2024/projects2024/project11/index.html"
+      "/logml2025/projects2025/project8/index.html",
+      "/logml2025/projects2025/project3/index.html",
+      "/logml2025/projects2025/project1/index.html",
+      "/logml2025/projects2025/project9/index.html",
+      "/logml2025/projects2025/project11/index.html",
+      "/logml2025/projects2025/project18/index.html",
+      "/logml2025/projects2025/project13/index.html",
+      "/logml2025/projects2025/project19/index.html",
+      "/logml2025/projects2025/project6/index.html",
+      "/logml2025/projects2025/project16/index.html",
+      "/logml2025/projects2025/project12/index.html",
+      "/logml2025/projects2025/project2/index.html",
+      "/logml2025/projects2025/project15/index.html",
+      "/logml2025/projects2025/project5/index.html",
+      "/logml2025/projects2025/project7/index.html",
+      "/logml2025/projects2025/project10/index.html",
+      "/logml2025/projects2025/project4/index.html",
+      "/logml2025/projects2025/project14/index.html",
+      "/logml2025/projects2025/project17/index.html"
     ]
+  },
+  {
+    "listing": "/logml2025/people.html",
+    "items": [
+      "/logml2025/people2025/team/vincenzo.html",
+      "/logml2025/people2025/team/max.html",
+      "/logml2025/people2025/team/simone.html",
+      "/logml2025/people2025/team/valentina.html",
+      "/logml2025/people2025/team/daniel.html",
+      "/logml2025/people2025/team/pragya.html",
+      "/logml2025/people2025/team/arne.html",
+      "/logml2025/people2025/team/zhengang.html",
+      "/logml2025/people2025/advisors/xavier.html",
+      "/logml2025/people2025/advisors/bronstein.html",
+      "/logml2025/people2025/advisors/arnaud.html",
+      "/logml2025/people2025/advisors/heather.html",
+      "/logml2025/people2025/advisors/jure.html",
+      "/logml2025/people2025/advisors/anthea.html"
+    ]
+  },
+  {
+    "listing": "/logml2024/projects.html",
+    "items": []
   },
   {
     "listing": "/logml2024/speaker.html",

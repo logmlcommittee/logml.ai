@@ -1,0 +1,77 @@
+---
+title: Sponsors
+page-layout: full
+---
+
+<style>
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-items: center;
+}
+
+.sponsor-cell {
+  width: 250px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sponsor-logo {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+</style>
+
+We gratefully acknowledge funding from 
+the Heilbronn Institute for Mathematical Research and the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
+Imperial College London, the Erlangen AI Hub, LSGNT, G-research, IdeaLondon, and Prob AI.
+
+<div class="sponsor-grid">
+<div class="sponsor-cell">
+<img src="sponsors2025/Heilbronn-Logo.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="sponsors2025/EPSRC.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="sponsors2025/Imperial.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="sponsors2025/Erlangen-Hub.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="sponsors2025/LSGNT-Logo.png" class="sponsor-logo">
+</div>
+<div class="sponsor-cell">
+<img src="sponsors2025/G-Research.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="sponsors2025/IdealLondonLogo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="sponsors2025/UCLLogo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="sponsors2025/WilbeLabLogo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="sponsors2025/ProbAILogo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="sponsors2025/Huawei.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="sponsors2025/CIRCLEGroup.png" class="sponsor-logo">
+</div>
+
+</div>

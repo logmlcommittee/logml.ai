@@ -32,7 +32,7 @@ website:
         text: Sponsors
       # - href: call_for_sponsors.qmd
       #   text: "Call for Sponsors"
-      - href: logml2024/speaker.qmd
+      - href: logml2025/speaker.qmd
         text: "Archives"
  
     right: 
@@ -51,6 +51,12 @@ website:
       background: light
       search: false
       contents:
+        - section: "LOGML 2025"
+          contents:
+            - logml2025/speaker.qmd
+            - logml2025/projects.qmd
+            - logml2025/sponsors.qmd
+            - logml2025/people.qmd
         - section: "LOGML 2024"
           contents:
             - logml2024/speaker.qmd

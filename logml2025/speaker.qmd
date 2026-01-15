@@ -1,0 +1,18 @@
+---
+title: Speakers
+titpagetitle: "Speakers | LOGML"
+listing:
+    contents: "speakers2025/*.qmd"
+    type: grid
+    sort: sortby
+    image-height: 200px
+    grid-columns: 4
+    page-size: 999
+    fields: [title, description, image]
+    grid-item-align: left
+page-layout: full
+comments: false
+---
+
+
+

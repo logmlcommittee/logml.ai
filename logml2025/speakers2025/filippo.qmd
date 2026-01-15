@@ -1,0 +1,38 @@
+---
+title: "Filippo Maria Bianchi"
+sidebar: false
+description: "UiT the Arctic University of Norway"
+sortby: "Bianchi, Filippo Maria"
+image: filippo.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://sites.google.com/view/filippombianchi/home
+
+---
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../speaker.html">Speakers</a></li>
+    <li class="breadcrumb-item active">Filippo Maria Bianchi</li>
+
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+Filippo Maria Bianchi is an Associate Professor in the Department of Mathematics and Statistics at UiT the Arctic University of Norway and a Senior Researcher at NORCE The Norwegian Research Centre. 
+He serves as Vice-Chair of the IEEE Task Force on Learning for Structured Data, is a member of the ELLIS Society, the Graph Machine Learning Group in Lugano, and the IEEE Task Force on Reservoir Computing, and is a co-founder of the Northernmost Graph Machine Learning group.
+
+His research lies at the intersection of machine learning, dynamical systems, and complex networks. 
+Together with his team, he has developed state-of-the-art Graph Neural Network architectures and advanced deep learning models for time series and relational data, enabling the processing of complex spatio-temporal information. 
+In applied settings, he primarily works on energy analytics and remote sensing.
