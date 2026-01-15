@@ -15,4 +15,6 @@ about:
 ---
 
 
-Zhengang Zhong is a postdoctoral researcher at the University of Warwick. Prior to joining Warwick, he completed his PhD at Imperial College London and received the Diplom degree from the Technical University of Dresden. His research is about learning and decision-making under uncertainty, focusing on optimal control and variational problems on graphs.
+Zhengang Zhong is a postdoctoral researcher at the University of Warwick. 
+Prior to joining Warwick, he completed his PhD at Imperial College London and received the Diplom degree from the Technical University of Dresden. 
+His research is about learning and decision-making under uncertainty, focusing on optimal control and variational problems on graphs.

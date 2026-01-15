@@ -159,8 +159,11 @@
   {
     "listing": "/people.html",
     "items": [
+      "/people/team/lennart.html",
       "/people/team/simone.html",
       "/people/team/valentina.html",
+      "/people/team/yiming.html",
+      "/people/team/nikita.html",
       "/people/team/pragya.html",
       "/people/team/geri.html",
       "/people/team/arne.html",

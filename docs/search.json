@@ -948,18 +948,25 @@
     "text": "Home\n    People\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFilippo Maria Bianchi\n\n\nUiT the Arctic University of Norway\n\n\n\n\n\n\n\n\n\n\n\n\n\nTolga Birdal\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nCoralia Cartis\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarco Cuturi\n\n\nApple, CREST - ENSAE, Institut Polytechnique de Paris\n\n\n\n\n\n\n\n\n\n\n\n\n\nEstelle Massart\n\n\nUCLouvain\n\n\n\n\n\n\n\n\n\n\n\n\n\nBastian Rieck\n\n\nUniversity of Fribourg\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrancisco J. R. Ruiz\n\n\nGoogle DeepMind\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlice Barbara Tumpach\n\n\nWolfgang Pauli Institute (WPI), Vienna\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarinka Zitnik\n\n\nHarvard University\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/team/valentina.html",
-    "href": "people/team/valentina.html",
-    "title": "Valentina Giunchiglia",
+    "objectID": "people/team/geri.html",
+    "href": "people/team/geri.html",
+    "title": "Geri Skenderi",
     "section": "",
-    "text": "Valentina is a second-year PhD student jointly affiliated with Imperial College London and Harvard University funded by the Medical Research Council, under the supervision of Prof. Marinka Zitnik and Prof. Adam Hampshire. Her work lies at the intersection of artificial intelligence, biology, and health, with a focus on neuroscience. She is interested in a holistic study of diseases across multiple levels — from cellular and genetic to brain structure and clinical phenotypes — to drive advancements in precision medicine. To achieve this, she works on research spanning bioinformatics, artificial intelligence, and clinical and behavioural analysis, with the aim to gain expertise that enables her to leverage diverse data types and insights for precision medicine. Specifically, she is focused on developing multimodal foundation models that integrate diverse data types to effectively capture the complexity of diseases while embedding context-aware knowledge. Her long-term research goal is to investigate diseases using multimodal data (e.g., imaging, omics, and electronic health records) to capture diverse disease characteristics and identify precise, clinically applicable treatments."
+    "text": "Geri is a Postdoctoral Researcher at the Bocconi Institute for Data Science and Analytics, in the Machine Learning and Statistical Physics group. His current research lies at the intersection of AI and Geometry, aiming to understand the representation learning capabilities of modern Neural Networks, in particular of Graph Neural Networks. He did his PhD in Computer Science at the University of Verona under the supervision of Prof. Marco Cristani, and he was a J1 visiting scholar at the DSE Lab of Michigan State University, headed by Prof. Jiliang Tang."
   },
   {
-    "objectID": "people/team/simone.html",
-    "href": "people/team/simone.html",
-    "title": "Simone Foti",
+    "objectID": "people/team/zhengang.html",
+    "href": "people/team/zhengang.html",
+    "title": "Zhengang Zhong",
     "section": "",
-    "text": "Simone is a Postdoctoral Research Associate in the Department of Computing at Imperial College London. Previously, he obtained a PhD at the University College London (UCL) by researching “Latent Disentanglement for the Analysis and Generation of Digital Human Shapes”, which found applications in computer vision, graphics and plastic surgery. During the PhD, he gained industry experience as a Research Scientist Intern at Disney Research Studios (Zurich) and Adobe Research (Paris). Simone also obtained an MRes in Medical Imaging from UCL, an MSc in Biomedical Engineering at Politecnico di Milano, and a BSc in Computer Science at the University of Trieste. Currently, his research interest lies at the intersection of geometric deep learning, computer graphics, and computer vision. Through his research, Simone strives to understand how to solve problems in non-Euclidean domains such as graphs and meshes. He is currently working on multiple projects ranging from shape and texture generation, latent disentanglement, mesh sampling, and 3D reconstruction."
+    "text": "Zhengang Zhong is a postdoctoral researcher at the University of Warwick. Prior to joining Warwick, he completed his PhD at Imperial College London and received the Diplom degree from the Technical University of Dresden. His research is about learning and decision-making under uncertainty, focusing on optimal control and variational problems on graphs."
+  },
+  {
+    "objectID": "people/team/pragya.html",
+    "href": "people/team/pragya.html",
+    "title": "Pragya Singh",
+    "section": "",
+    "text": "Pragya is a first-year PhD student in the Intelligent Earth CDT program at the University of Oxford. She finished her Master’s in Artificial Intelligence at Imperial College London and, prior to that, worked as a quantitative researcher at Goldman Sachs.\nHer current focus in on AI for materials discovery, especially to tackle environmental challenges. She previously worked on geometric machine learning in fields like neurobiology, molecular chemistry, and theoretical physics."
   },
   {
     "objectID": "people/team/arne.html",
@@ -967,6 +974,13 @@
     "title": "Arne Wolf",
     "section": "",
     "text": "Arne is doing his PhD at Imperial College London (LSGNT) under the supervision of Anthea Monod. He is working on adapting ideas from geometry and topology to discrete settings. Concretely, he is interested in different tools of topological data analysis like persistent homology and Hodge Laplacians for simplicial complexes and other discrete structures."
+  },
+  {
+    "objectID": "people/team/lennart.html",
+    "href": "people/team/lennart.html",
+    "title": "Lennart Bastian",
+    "section": "",
+    "text": "Lennart is a Post-doctoral Research Scientist at Imperial College London, working with the Circle Group of Prof. Tolga Birdal, where he pursues topics at the intersection of geometry, topology, and machine learning. His research is funded by the UK Royal Society under the Newton International Fellowship.\n\n\nHe completed his PhD with highest distinction (summa cum laude) at the Chair for Computer Aided Medical Procedures (CAMP) in Munich, supervised by Prof. Nassir Navab, where he also coordinated research of the Surgical Data Science team. His M.Sc. thesis, “SDP Solvers with Optimal Storage Requirements and Applications,” was completed in Applied Mathematics at the Technical University of Munich under the supervision of Prof. Michael Ulbrich. He holds a Bachelor’s in Mathematics and Computer Science from New York University’s Courant Institute, with an emphasis on the biological sciences."
   },
   {
     "objectID": "program.html",
@@ -2216,7 +2230,7 @@
     "href": "people.html#organising-committee",
     "title": "LOGML 2026",
     "section": "Organising Committee",
-    "text": "Organising Committee\n\n\n\n\n\n\n\n\n\n\nSimone Foti\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nValentina Giunchiglia\n\n\nImperial College London, Harvard University\n\n\n\n\n\n\n\n\n\n\n\n\n\nPragya Singh\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeri Skenderi\n\n\nBocconi University & Bocconi Institute for Data Science and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\nArne Wolf\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhengang Zhong\n\n\nUniversity of Warwick\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Organising Committee\n\n\n\n\n\n\n\n\n\n\nLennart Bastian\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimone Foti\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nValentina Giunchiglia\n\n\nImperial College London, Harvard University\n\n\n\n\n\n\n\n\n\n\n\n\n\nYiming Huang\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Malik\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nPragya Singh\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeri Skenderi\n\n\nBocconi University & Bocconi Institute for Data Science and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\nArne Wolf\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhengang Zhong\n\n\nUniversity of Warwick\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#scientific-advisory-committee",
@@ -2226,18 +2240,32 @@
     "text": "Scientific Advisory Committee\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/team/pragya.html",
-    "href": "people/team/pragya.html",
-    "title": "Pragya Singh",
+    "objectID": "people/team/yiming.html",
+    "href": "people/team/yiming.html",
+    "title": "Yiming Huang",
     "section": "",
-    "text": "Pragya is a first-year PhD student in the Intelligent Earth CDT program at the University of Oxford. She finished her Master’s in Artificial Intelligence at Imperial College London and, prior to that, worked as a quantitative researcher at Goldman Sachs.\nHer current focus in on AI for materials discovery, especially to tackle environmental challenges. She previously worked on geometric machine learning in fields like neurobiology, molecular chemistry, and theoretical physics."
+    "text": "Yiming Huang is a PhD student and Lee Family scholar at the Department of Computing, Imperial College London. Previously, he obtained an MSc in Computer Science from the University of Electronic Science and Technology of China (UESTC). His research interests primarily focus on developing novel topological deep learning methods for understanding complex and higher-order graph structures. His broader interests also include generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications."
   },
   {
-    "objectID": "people/team/zhengang.html",
-    "href": "people/team/zhengang.html",
-    "title": "Zhengang Zhong",
+    "objectID": "people/team/nikita.html",
+    "href": "people/team/nikita.html",
+    "title": "Nikita Malik",
     "section": "",
-    "text": "Zhengang Zhong is a postdoctoral researcher at the University of Warwick. Prior to joining Warwick, he completed his PhD at Imperial College London and received the Diplom degree from the Technical University of Dresden. His research is about learning and decision-making under uncertainty, focusing on optimal control and variational problems on graphs."
+    "text": "Nikita Malik is a final-year PhD scholar at the Indian Institute of Technology Delhi, India, and a recipient of the prestigious Prime Minister’s Research Fellowship (PMRF). She works under the supervision of Prof. Sandeep Kumar, focusing on the development of secure, robust, and privacy-preserving Graph Machine Learning (GML) models, with applications spanning federated learning and hyperbolic geometry.\nHer research includes pioneering contributions to robustness in hyperbolic graph neural networks (Hy-GNNs). She developed the first defense frameworks specifically designed for hyperbolic GNNs, along with a novel hyperbolic adversarial attack, HyperAttacker, which exploits geometric properties such as Gromov δ-hyperbolicity. She has also worked extensively on privacy-preserving, decentralized dimensionality reduction techniques, proposing the SENSE framework for generating global low-dimensional embeddings using private and distributed variants of t-SNE, UMAP, and contrastive neighbor embedding methods.\nBeyond graph learning, Nikita is interested in topology-based studies of brain dynamics, aiming to model and analyze temporal neural processes using topological neural networks.\nCurrently, she is a PhD intern at the Samsung R&D Institute Bangalore (SRIB), working alongside her doctoral research with the SNAP (Samsung Neural Acceleration Platform) team. Her work focuses on on-device AI, emphasizing the optimization of AI pipelines under strict data security constraints. SRIB is recognized as Samsung’s largest R&D center outside South Korea, known for fostering a strong culture of innovation and collaborative research."
+  },
+  {
+    "objectID": "people/team/simone.html",
+    "href": "people/team/simone.html",
+    "title": "Simone Foti",
+    "section": "",
+    "text": "Simone is a Postdoctoral Research Associate in the Department of Computing at Imperial College London. Previously, he obtained a PhD at the University College London (UCL) by researching “Latent Disentanglement for the Analysis and Generation of Digital Human Shapes”, which found applications in computer vision, graphics and plastic surgery. During the PhD, he gained industry experience as a Research Scientist Intern at Disney Research Studios (Zurich) and Adobe Research (Paris). Simone also obtained an MRes in Medical Imaging from UCL, an MSc in Biomedical Engineering at Politecnico di Milano, and a BSc in Computer Science at the University of Trieste. Currently, his research interest lies at the intersection of geometric deep learning, computer graphics, and computer vision. Through his research, Simone strives to understand how to solve problems in non-Euclidean domains such as graphs and meshes. He is currently working on multiple projects ranging from shape and texture generation, latent disentanglement, mesh sampling, and 3D reconstruction."
+  },
+  {
+    "objectID": "people/team/valentina.html",
+    "href": "people/team/valentina.html",
+    "title": "Valentina Giunchiglia",
+    "section": "",
+    "text": "Valentina is a second-year PhD student jointly affiliated with Imperial College London and Harvard University funded by the Medical Research Council, under the supervision of Prof. Marinka Zitnik and Prof. Adam Hampshire. Her work lies at the intersection of artificial intelligence, biology, and health, with a focus on neuroscience. She is interested in a holistic study of diseases across multiple levels — from cellular and genetic to brain structure and clinical phenotypes — to drive advancements in precision medicine. To achieve this, she works on research spanning bioinformatics, artificial intelligence, and clinical and behavioural analysis, with the aim to gain expertise that enables her to leverage diverse data types and insights for precision medicine. Specifically, she is focused on developing multimodal foundation models that integrate diverse data types to effectively capture the complexity of diseases while embedding context-aware knowledge. Her long-term research goal is to investigate diseases using multimodal data (e.g., imaging, omics, and electronic health records) to capture diverse disease characteristics and identify precise, clinically applicable treatments."
   },
   {
     "objectID": "call_for_sponsors.html",
@@ -3162,12 +3190,5 @@
     "title": "Valentina Giunchiglia",
     "section": "",
     "text": "Home\n    People\n    Organising Committee\n    Valentina Giunchiglia\n  \n\nValentina Giunchiglia is a first year PhD student funded by the Medical Research Council, specialising in Artificial Intelligence and Computational Neuroscience.\nHer research interests focus on building top-down and bottom-up computational models of the brain to better understand and treat different neurodegenerative diseases (e.g. Multiple Sclerosis, Parkinson’s or Alzheimer’s). She is interested in working on research projects that cross the boundaries between artificial intelligence (AI) and the clinics, with the aim of making AI actually applicable in clinical practice. She works on data-centric and explainable AI, with a special interest towards graph machine learning."
-  },
-  {
-    "objectID": "people/team/geri.html",
-    "href": "people/team/geri.html",
-    "title": "Geri Skenderi",
-    "section": "",
-    "text": "Geri is a Postdoctoral Researcher at the Bocconi Institute for Data Science and Analytics, in the Machine Learning and Statistical Physics group. His current research lies at the intersection of AI and Geometry, aiming to understand the representation learning capabilities of modern Neural Networks, in particular of Graph Neural Networks. He did his PhD in Computer Science at the University of Verona under the supervision of Prof. Marco Cristani, and he was a J1 visiting scholar at the DSE Lab of Michigan State University, headed by Prof. Jiliang Tang."
   }
 ]
