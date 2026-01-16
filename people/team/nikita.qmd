@@ -23,10 +23,6 @@ about:
 Nikita Malik is a final-year PhD scholar at the Indian Institute of Technology Delhi, India, and a recipient of the prestigious Prime Minister’s Research Fellowship (PMRF). 
 She works under the supervision of Prof. Sandeep Kumar, focusing on the development of secure, robust, and privacy-preserving Graph Machine Learning (GML) models, with applications spanning federated learning and hyperbolic geometry.
 
-Her research includes pioneering contributions to robustness in hyperbolic graph neural networks (Hy-GNNs). 
-She developed the first defense frameworks specifically designed for hyperbolic GNNs, along with a novel hyperbolic adversarial attack, HyperAttacker, which exploits geometric properties such as Gromov δ-hyperbolicity. 
-She has also worked extensively on privacy-preserving, decentralized dimensionality reduction techniques, proposing the SENSE framework for generating global low-dimensional embeddings using private and distributed variants of t-SNE, UMAP, and contrastive neighbor embedding methods.
-
 Beyond graph learning, Nikita is interested in topology-based studies of brain dynamics, aiming to model and analyze temporal neural processes using topological neural networks.
 
 Currently, she is a PhD intern at the Samsung R&D Institute Bangalore (SRIB), working alongside her doctoral research with the SNAP (Samsung Neural Acceleration Platform) team. 
