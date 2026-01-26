@@ -955,11 +955,18 @@
     "text": "Geri is a Postdoctoral Researcher at the Bocconi Institute for Data Science and Analytics, in the Machine Learning and Statistical Physics group. His current research lies at the intersection of AI and Geometry, aiming to understand the representation learning capabilities of modern Neural Networks, in particular of Graph Neural Networks. He did his PhD in Computer Science at the University of Verona under the supervision of Prof. Marco Cristani, and he was a J1 visiting scholar at the DSE Lab of Michigan State University, headed by Prof. Jiliang Tang."
   },
   {
-    "objectID": "people/team/zhengang.html",
-    "href": "people/team/zhengang.html",
-    "title": "Zhengang Zhong",
+    "objectID": "people/team/caterina.html",
+    "href": "people/team/caterina.html",
+    "title": "Caterina Graziani",
     "section": "",
-    "text": "Zhengang Zhong is a postdoctoral researcher at the University of Warwick. Prior to joining Warwick, he completed his PhD at Imperial College London and received the Diplom degree from the Technical University of Dresden. His research is about learning and decision-making under uncertainty, focusing on optimal control and variational problems on graphs."
+    "text": "Caterina Graziani is a Research Associate in Artificial Intelligence at the University of Siena from February 2024.\nShe earned both Bachelor’s and Master’s degree in Mathematics and then obtained her PhD in Artificial Intelligence at the University of Siena in 2024, under the supervision of Prof. Monica Bianchini, Prof. Moreno Falaschi, and Prof. Franco Scarselli. In her PhD thesis, she studied the expressive power of GNNs beyond the Weisfeiler-Lehman test. During her PhD she spent four months at the Machine Learning Research Unit of the Technical University of Vienna under the supervision of Prof. Thomas Gartner. Her research interests lie in the Mathematics of Deep Learning, with a focus on expressivity, approximation, and generalization in Graph Neural Networks, as well as Bioinformatics applications of neuro-symbolic methods."
+  },
+  {
+    "objectID": "people/team/kevin.html",
+    "href": "people/team/kevin.html",
+    "title": "Kevin Mancini",
+    "section": "",
+    "text": "Kevin Mancini received his B.S. degree in Computer Engineering from the Alma Mater Studiorum – University of Bologna, Italy, in 2018, and his M.S. degree in Computer Science from Imperial College London, United Kingdom, in 2024, where he was awarded the ”Splunk Prize for Excellence in MSc Individual Project” for the best individual project in data science and machine learning within the department. He is currently pursuing an M.S. degree in Applied Mathematics and Theoretical Physics at Sapienza University, Rome, Italy. His research focuses on machine learning and deep learning on graphs."
   },
   {
     "objectID": "people/team/simone.html",
@@ -2244,7 +2251,7 @@
     "href": "people.html#organising-committee",
     "title": "LOGML 2026",
     "section": "Organising Committee",
-    "text": "Organising Committee\n\n\n\n\n\n\n\n\n\n\nLennart Bastian\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyla Roksan Caglar\n\n\nIcahn School of Medicine at Mount Sinai\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimone Foti\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nValentina Giunchiglia\n\n\nImperial College London, Harvard University\n\n\n\n\n\n\n\n\n\n\n\n\n\nYiming Huang\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nMohit Kataria\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Malik\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nKevin Mancini\n\n\nSapienza University of Rome\n\n\n\n\n\n\n\n\n\n\n\n\n\nPatryk Rygiel\n\n\nUniversity of Twente, Amsterdam UMC\n\n\n\n\n\n\n\n\n\n\n\n\n\nPragya Singh\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeri Skenderi\n\n\nBocconi University & Bocconi Institute for Data Science and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\nArne Wolf\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhengang Zhong\n\n\nUniversity of Warwick\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Organising Committee\n\n\n\n\n\n\n\n\n\n\nLennart Bastian\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyla Roksan Caglar\n\n\nIcahn School of Medicine at Mount Sinai\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Esteban Casadevall\n\n\nUniversity of Amsterdam\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimone Foti\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nValentina Giunchiglia\n\n\nImperial College London, Harvard University\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaterina Graziani\n\n\nUniversity of Siena\n\n\n\n\n\n\n\n\n\n\n\n\n\nYiming Huang\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nMohit Kataria\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Malik\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nKevin Mancini\n\n\nSapienza University of Rome\n\n\n\n\n\n\n\n\n\n\n\n\n\nPatryk Rygiel\n\n\nUniversity of Twente, Amsterdam UMC\n\n\n\n\n\n\n\n\n\n\n\n\n\nPragya Singh\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeri Skenderi\n\n\nBocconi University & Bocconi Institute for Data Science and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\nArne Wolf\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhengang Zhong\n\n\nUniversity of Warwick\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#scientific-advisory-committee",
@@ -2282,11 +2289,18 @@
     "text": "Pragya is a first-year PhD student in the Intelligent Earth CDT program at the University of Oxford. She finished her Master’s in Artificial Intelligence at Imperial College London and, prior to that, worked as a quantitative researcher at Goldman Sachs.\nHer current focus in on AI for materials discovery, especially to tackle environmental challenges. She previously worked on geometric machine learning in fields like neurobiology, molecular chemistry, and theoretical physics."
   },
   {
-    "objectID": "people/team/kevin.html",
-    "href": "people/team/kevin.html",
-    "title": "Kevin Mancini",
+    "objectID": "people/team/maria.html",
+    "href": "people/team/maria.html",
+    "title": "Maria Esteban Casadevall",
     "section": "",
-    "text": "Kevin Mancini received his B.S. degree in Computer Engineering from the Alma Mater Studiorum – University of Bologna, Italy, in 2018, and his M.S. degree in Computer Science from Imperial College London, United Kingdom, in 2024, where he was awarded the ”Splunk Prize for Excellence in MSc Individual Project” for the best individual project in data science and machine learning within the department. He is currently pursuing an M.S. degree in Applied Mathematics and Theoretical Physics at Sapienza University, Rome, Italy. His research focuses on machine learning and deep learning on graphs."
+    "text": "Maria is a first-year ELLIS PhD student at the University of Amsterdam (AMLab) supervised by Prof.Erik Bekkers and co-supervised by Prof.Søren Hauberg. Her research interests lie in the intersection of machine learning, geometry and topology. She is currently working on understanding diffusion models through the lens of information geometry."
+  },
+  {
+    "objectID": "people/team/zhengang.html",
+    "href": "people/team/zhengang.html",
+    "title": "Zhengang Zhong",
+    "section": "",
+    "text": "Zhengang Zhong is a postdoctoral researcher at the University of Warwick. Prior to joining Warwick, he completed his PhD at Imperial College London and received the Diplom degree from the Technical University of Dresden. His research is about learning and decision-making under uncertainty, focusing on optimal control and variational problems on graphs."
   },
   {
     "objectID": "people/team/valentina.html",
