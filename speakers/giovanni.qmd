@@ -1,0 +1,35 @@
+---
+title: "Giovanni Luca Marchetti"
+sidebar: false
+description: "Royal Institute of Technology (KTH), Stockholm"
+sortby: "Marchetti, Giovanni Luca"
+image: giovanni.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://giovanni-marchetti.github.io/
+
+---
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../speaker.html">Speakers</a></li>
+    <li class="breadcrumb-item active">Giovanni Luca Marchetti</li>
+
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+Giovanni Luca Marchetti is a PostDoc at the department of mathematics of the Royal Institute of Technology (KTH), Stockholm. 
+He completed his PhD in deep learning at KTH, and his BSc and MSc in pure mathematics at La Sapienza University, Rome. 
+He is interested in the interplay between tools from pure mathematics and machine learning, such as algebro-geometric aspects of deep neural networks, manifold/representation learning, geometric density estimation, and topological data analysis.

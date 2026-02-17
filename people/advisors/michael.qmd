@@ -1,0 +1,37 @@
+---
+title: "Michael Schaub"
+sidebar: false
+sortby: "Schaub, Michael"
+description: "RWTH Aachen University"
+image: michael.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://michaelschaub.github.io/
+
+---
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Michael Schaub</li>
+
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+Michael Schaub studied Electrical Engineering and Information Technology at ETH Zurich with a focus on communication systems. After completing an MSc in Biomedical Engineering at Imperial College London (Neurotechnology stream), Michael moved to the Mathematics Department to obtain his PhD under the supervision of Prof. Mauricio Barahona and Prof. Sophia Yaliraki.
+
+Following his PhD, Michael Schaub worked in Belgium as a Postdoctoral Research Fellow, held jointly at the Université catholique de Louvain and the University of Namur. In November 2016, he moved to the Massachusetts Institute of Technology (MIT) as a Postdoctoral Research Associate. From July 2017 onwards, Michael was a Marie Skłodowska-Curie Fellow at MIT and the University of Oxford, before joining RWTH Aachen University as an assistant professor in June 2020, supported by the NRW Return Programme (2019).
+
+Michael Schaub was awarded an ERC Starting Grant in 2022 and has been a member of the Junges Kolleg at the North-Rhine Westphalian Academy of Sciences and Arts, as well as a Junior Fellow of the German Informatics Society. Since September 2025, Michael has served as a full professor for Computational Network Science at the Department of Computer Science and the Department of Biology. Since summer 2025, he has also been a co-director of the Center for Computational Life Sciences at RWTH Aachen University.
