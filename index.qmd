@@ -32,6 +32,7 @@ height: 300px;
 
 ::: {style="border: 1px solid #e9ecef; padding: 20px; border-radius: 10px; background-color: #f8f9fa; margin-bottom: 30px;"}
 
+* [Lost in Serialization: Invariance and Generalization of LLM Graph Reasoners (Workshop on Graphs and more Complex structures for Learning and Reasoning, AAAI 2026)](https://arxiv.org/pdf/2511.10234)
 * [Connecting Neural Models Latent Geometries with Relative Geodesic Representations (Workshop on Symmetry and Geometry in Neural Representations, NeurIPS 2024)](https://openreview.net/pdf?id=gYTblmieFc)
 * [Group-invariant machine learning on the Kreuzer-Skarke dataset (Physics Letters B, 2024)](https://doi.org/10.1016/j.physletb.2024.138996)
 * [Implicit Convolutional Kernels for Steerable CNNs (NeurIPS, 2023 )](https://arxiv.org/abs/2212.06096)
