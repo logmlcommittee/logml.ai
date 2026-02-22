@@ -5,4 +5,11 @@ library(mlr3misc)
 library(htmltools)
 library(data.table)
 library(reactable)
+
+# Add Google Fonts programmatically
+htmltools::tagList(
+  tags$link(rel = "preconnect", href = "https://fonts.googleapis.com"),
+  tags$link(rel = "preconnect", href = "https://fonts.gstatic.com", crossorigin = "anonymous"),
+  tags$link(href = "https://fonts.googleapis.com/css2?family=Roboto:wght@400;800&display=swap", rel = "stylesheet")
+)
 ```

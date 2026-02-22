@@ -14,8 +14,8 @@ website:
   navbar:
     pinned: true
     logo: "logo.png"
-    background: "#73313A"
-    foreground: "#FFFFFF"
+    background: "#2a446a"
+    foreground: "#F0EFEB"
     width: 3000px
     left:
       - href: people.qmd
@@ -38,10 +38,12 @@ website:
     right: 
       - icon: youtube
         href: https://www.youtube.com/channel/UC7m0STJK9e4BbD-elwS4bNw
-      - icon: twitter
-        href: https://twitter.com/LogmlSchool
+      - icon: twitter-x
+        href: https://x.com/LogmlSchool
       - icon: linkedin
         href: https://www.linkedin.com/company/logml/
+      - icon: envelope
+        href: mailto:logml.committee@gmail.com
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/logml.bsky.social
 
@@ -82,16 +84,14 @@ website:
     right: 
       - icon: youtube
         href: https://www.youtube.com/channel/UC7m0STJK9e4BbD-elwS4bNw
-      - icon: twitter
-        href: https://twitter.com/LogmlSchool
+      - icon: twitter-x
+        href: https://x.com/LogmlSchool
       - icon: linkedin
         href: https://www.linkedin.com/company/logml/
       - icon: envelope
         href: mailto:logml.committee@gmail.com
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/logml.bsky.social
-      - icon: twitter
-        href: https://x.com/singh_pragya_?s=21
 
 format:
   html:

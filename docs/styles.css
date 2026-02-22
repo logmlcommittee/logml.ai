@@ -1,6 +1,78 @@
 /* css styles */
 
+.title, h1 {
+  font-family: 'Roboto', inherit !important;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+  
+  /* Gradient Logic */
+  background: linear-gradient(90deg, #23395B 0%, #2F6364 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  
+  /* Layout Fixes */
+  display: block;          /* Return to block to respect container width */
+  width: auto;             /* Allow it to fill the available space */
+  overflow: visible;       /* Ensure no text is clipped */
+  line-height: 1.2;        /* Prevents letters from being cut off vertically */
+  margin-top: 0.5rem;
+}
 
+/* Gradient effect in the navigation bar */
+.navbar {
+  /* A gradient from the Deep Navy to the Transformative Teal */
+  background: linear-gradient(135deg, #23395B 0%, #2F6364 100%) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Ensure the text stays readable (Cloud Dancer - pantone color of the year 2026) */
+.navbar-title, .nav-link {
+  color: #F0EEE9 !important;
+}
+
+
+/* Gradient effect in the page footer */
+.nav-footer {
+  background: linear-gradient(90deg, #3B3B3D 0%, #23395B 50%, #2F6364 100%) !important;
+  color: #F0EEE9 !important; /* Cloud Dancer for footer text */
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Ensure footer links and icons are also Cloud Dancer */
+.nav-footer a, .nav-footer i {
+  color: #F0EEE9 !important;
+  transition: color 0.3s ease;
+}
+
+/* Targets the main page title (h1) and section headers (h2) */
+h1, h2, .title {
+  color: #2a446a !important;
+  font-family: 'Roboto', sans-serif !important;
+  letter-spacing: -0.03em !important;
+  font-weight: 800 !important;
+  
+  /* Resetting gradient/transparency artifacts */
+  background: none !important;
+  -webkit-text-fill-color: #2a446a !important;
+  background-clip: unset !important;
+  
+  /* Layout: Ensure text doesn't cut off or hide behind logos */
+  display: block;
+  width: auto;
+  overflow: visible;
+  white-space: normal; 
+}
+
+/* Specific fix for the breadcrumb links to match the brand color */
+.breadcrumb-item.active {
+  color: #2a446a;
+  opacity: 1;
+}
+
+/* ---------------------------------------------------- */
 
 .hero {
     width: 67%;
