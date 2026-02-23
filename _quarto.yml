@@ -36,16 +36,18 @@ website:
         text: "Archives"
  
     right: 
-      - icon: youtube
-        href: https://www.youtube.com/channel/UC7m0STJK9e4BbD-elwS4bNw
-      - icon: twitter-x
-        href: https://x.com/LogmlSchool
-      - icon: linkedin
-        href: https://www.linkedin.com/company/logml/
       - icon: envelope
         href: mailto:logml.committee@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/company/logml/
+      - icon: twitter-x
+        href: https://x.com/LogmlSchool
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/logml.bsky.social
+      - icon: youtube
+        href: https://www.youtube.com/@logmlsummerschool
+      - icon: instagram
+        href: https://www.instagram.com/logml.ig/
 
   sidebar:
     - title: "Archives"
@@ -82,16 +84,18 @@ website:
   page-footer: 
     left: "Copyright © 2026, LOGML Team" 
     right: 
-      - icon: youtube
-        href: https://www.youtube.com/channel/UC7m0STJK9e4BbD-elwS4bNw
-      - icon: twitter-x
-        href: https://x.com/LogmlSchool
-      - icon: linkedin
-        href: https://www.linkedin.com/company/logml/
       - icon: envelope
         href: mailto:logml.committee@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/company/logml/
+      - icon: twitter-x
+        href: https://x.com/LogmlSchool
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/logml.bsky.social
+      - icon: youtube
+        href: https://www.youtube.com/@logmlsummerschool
+      - icon: instagram
+        href: https://www.instagram.com/logml.ig/
 
 format:
   html:
