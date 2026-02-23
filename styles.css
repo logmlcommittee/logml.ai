@@ -1,5 +1,24 @@
 /* css styles */
 
+.announcement-box {
+    padding: 12px 20px; /* Reduced vertical padding */
+    border-radius: 10px;
+    background-color: #f8f9fa; /* Matches publication box */
+    border: 1px solid #e9ecef; /* Matches publication box border */
+    margin: 10px 0 20px 0; /* Reduced top/bottom margin */
+    text-align: left;
+  }
+  
+  .announcement-box h3 {
+    color: #2a446a;
+    margin: 0 0 5px 0; /* Tightens space between title and text */
+    font-size: 1.2rem;
+  }
+
+  .announcement-box p {
+    margin: 0;
+  }
+
 .title, h1 {
   font-family: 'Roboto', inherit !important;
   letter-spacing: -0.03em;

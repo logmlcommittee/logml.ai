@@ -49,5 +49,3 @@ height: 300px;
 :::
 
 <p>You can find a list of previous years' projects and speakers under <a href="logml2025/speaker.qmd">Archives</a> above.</p>
-
-
