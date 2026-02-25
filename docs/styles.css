@@ -1,22 +1,34 @@
 /* css styles */
 
 .announcement-box {
-    padding: 12px 20px; /* Reduced vertical padding */
+    padding: 20px; /* Slightly more padding looks better with more text */
     border-radius: 10px;
-    background-color: #f8f9fa; /* Matches publication box */
-    border: 1px solid #e9ecef; /* Matches publication box border */
-    margin: 10px 0 20px 0; /* Reduced top/bottom margin */
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    margin: 10px 0 20px 0;
     text-align: left;
   }
   
   .announcement-box h3 {
     color: #2a446a;
-    margin: 0 0 5px 0; /* Tightens space between title and text */
+    margin: 0 0 15px 0; /* Increased to separate title from first paragraph */
     font-size: 1.2rem;
   }
 
-  .announcement-box p {
-    margin: 0;
+  /* The Fix: Add bottom margin to paragraphs and lists */
+  .announcement-box p, 
+  .announcement-box ul {
+    margin-bottom: 1rem; 
+  }
+
+  /* Tighten spacing between list items but keep gap for the whole list */
+  .announcement-box li {
+    margin-bottom: 8px;
+  }
+
+  /* Remove margin from the very last element so the box padding looks even */
+  .announcement-box *:last-child {
+    margin-bottom: 0;
   }
 
 .title, h1 {

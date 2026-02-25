@@ -5,3 +5,36 @@ sidebar: false
 
 
 ### Mentor Applications
+
+<div class="announcement-box">
+
+<p>Applications for group project mentors are now open! <span style="color: #2a446a; font-weight: bold;">Kindly apply using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2O0a7QwcLd_fwkPhPLUe5FmCKSSEGA46sRl-b9R8ayK7T-g/viewform?usp=header" style="font-weight: bold;">form</a></span>.</p>
+
+<p>Mentors lead a small group of passionate, early-career researchers on a week-long project of their choosing at the intersection of geometry and machine learning.</p>
+
+<p>LOGML is more than a summer school; it is an incubator for innovation. Several working groups initiated at LOGML have evolved into long-term collaborations, resulting in publications at top-tier venues such as NeurIPS, ICLR, and TMLR (see the full list <a href="index.qmd">here</a>). </p>
+
+
+What to Expect:
+
+* <strong>Collaborative Research:</strong> You will steer a team of approximately five researchers, working closely on a well-defined project. While 15 hours of the week are officially earmarked for project time, the high energy of the event often inspires groups to dedicate more.
+
+* <strong>Tangible Outcomes:</strong> The LOGML experience is intensive. With one week to work, success comes from focusing on achievable milestones—such as adapting algorithms to new datasets, pilot-testing a theoretical idea, or laying the foundation for a future paper.
+
+* <strong>Networking & Engagement:</strong> Beyond project work, the week features keynote lectures from leading figures in the field, fun social activities, and several networking events.
+
+Financial support for travel and accommodation will also be provided for all accepted mentors.</p>
+
+<br><strong style="color: #2a446a">Applications close on 18 March 2026, AoE (Anywhere on Earth).</strong>
+
+</div>
+
+### Participant Applications
+
+<div class="announcement-box">
+
+<p>Thank you for your interest! </p>
+
+<p>We expect to open participant applications in late March or early April 2026. Please check our website around that time or follow us on social media for the latest updates.</p>
+
+</div>
