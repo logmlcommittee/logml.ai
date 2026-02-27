@@ -969,39 +969,46 @@
     "text": "Martin is a first-year ELLIS PhD student at the University of Fribourg (AIDOS Lab) with supervision from Prof. Bastian Rieck and co-supervision by Prof.Søren Hauberg. His research interests are applications of graph theory, topology and geometry to machine learning. Currently he is working on studying metrics in the space of attributed graphs."
   },
   {
-    "objectID": "people/team/maria.html",
-    "href": "people/team/maria.html",
-    "title": "Maria Esteban Casadevall",
+    "objectID": "people/team/kamilia.html",
+    "href": "people/team/kamilia.html",
+    "title": "Kamilia Zaripova",
     "section": "",
-    "text": "Maria is a first-year ELLIS PhD student at the University of Amsterdam (AMLab) supervised by Prof.Erik Bekkers and co-supervised by Prof.Søren Hauberg. Her research interests lie in the intersection of machine learning, geometry and topology. She is currently working on understanding diffusion models through the lens of information geometry."
+    "text": "Kamilia is a PhD candidate in Computer Science at the Technical University of Munich (TUM), working at the intersection of machine learning, knowledge graphs, and biomedical AI. Her research focuses on graph-based methods for rare disease diagnosis and gene prioritization, with an emphasis on interpretable models that integrate clinical phenotypes, biological knowledge graphs, and multimodal data. She is particularly interested in combining medical imaging with genetic and clinical information to build robust multimodal learning systems for precision medicine.\nBeyond her research, she co-organizes the GRAIL workshop at MICCAI 4 years in a row and is involved in mentoring students in machine learning and biomedical data science. She has also supported several early-stage AI and health-tech startups as a technical mentor."
   },
   {
-    "objectID": "people/team/pragya.html",
-    "href": "people/team/pragya.html",
-    "title": "Pragya Singh",
+    "objectID": "people/team/simone.html",
+    "href": "people/team/simone.html",
+    "title": "Simone Foti",
     "section": "",
-    "text": "Pragya is a first-year PhD student in the Intelligent Earth CDT program at the University of Oxford. She finished her Master’s in Artificial Intelligence at Imperial College London and, prior to that, worked as a quantitative researcher at Goldman Sachs.\nHer current focus in on AI for materials discovery, especially to tackle environmental challenges. She previously worked on geometric machine learning in fields like neurobiology, molecular chemistry, and theoretical physics."
+    "text": "Simone is a Postdoctoral Research Associate in the Department of Computing at Imperial College London. Previously, he obtained a PhD at the University College London (UCL) by researching “Latent Disentanglement for the Analysis and Generation of Digital Human Shapes”, which found applications in computer vision, graphics and plastic surgery. During the PhD, he gained industry experience as a Research Scientist Intern at Disney Research Studios (Zurich) and Adobe Research (Paris). Simone also obtained an MRes in Medical Imaging from UCL, an MSc in Biomedical Engineering at Politecnico di Milano, and a BSc in Computer Science at the University of Trieste. Currently, his research interest lies at the intersection of geometric deep learning, computer graphics, and computer vision. Through his research, Simone strives to understand how to solve problems in non-Euclidean domains such as graphs and meshes. He is currently working on multiple projects ranging from shape and texture generation, latent disentanglement, mesh sampling, and 3D reconstruction."
   },
   {
-    "objectID": "people/team/patryk.html",
-    "href": "people/team/patryk.html",
-    "title": "Patryk Rygiel",
+    "objectID": "people/team/mohit.html",
+    "href": "people/team/mohit.html",
+    "title": "Mohit Kataria",
     "section": "",
-    "text": "Patryk is a third-year PhD candidate in the EU Horizon VASCUL-AID project at the University of Twente and a guest researcher at the Amsterdam University Medical Center, supervised by dr. Jelmer M. Wolterink, prof. dr. Christoph Brune and prof. dr. Kak Khee Yeung. He is a former visiting student at NVIDIA and an AI research scientist at the med-tech startup Hemolens Diagnostics with two international medical device patents to his name. His current research focuses on AI for Science and Health, encompassing development of neural surrogates for complex physics simulations (i.e. hemodynamics) and geometric deep learning methods for risk assessment of cardiovascular diseases. Next to his work, he is actively involved in AI community by being a member of the ML in PL Association and co-organizer of several AI events across Europe."
+    "text": "Mohit is a fifth-year PhD student at IIT Delhi, advised by Prof. Sandeep Kumar. His research focuses on improving the scalability of graph machine learning. At IIT Delhi, his work spans graph coarsening, scalable graph structure learning, and privacy-preserving personalized federated learning for graphs. He is also interested in topology-inspired graph ML, with applications in biomedical and neuroscience. In addition, he has worked with Adobe Research, where he contributed to LLM-based agentic frameworks."
   },
   {
-    "objectID": "people/team/yaman.html",
-    "href": "people/team/yaman.html",
-    "title": "Yaman Kındap",
+    "objectID": "people/team/leyla.html",
+    "href": "people/team/leyla.html",
+    "title": "Leyla Roksan Caglar",
     "section": "",
-    "text": "Yaman is a Postdoctoral Research Associate in the Department of Computing at Imperial College London. His research focuses on statistical signal processing and machine learning for complex dynamical systems, with particular emphasis on Bayesian modelling using non-Gaussian stochastic processes. He completed his PhD at the University of Cambridge, where his work studied the use of non-Gaussian process priors for learning functions with rapid temporal variation. His research lies at the intersection of learning, optimisation, and uncertainty quantification, with applications including risk management in finance and climate modelling, as well as target tracking in autonomous systems. He has also worked as a data scientist in finance and retail, developing forecasting and pricing models."
+    "text": "Leyla is a Postdoctoral Fellow in the Windreich Department for AI & Human Health at the Icahn School of Medicine at Mount Sinai. Her work lies at the intersection of neuroscience, AI, and cognitive science, integrating approaches from geometry, topology, and information theory to understand how systems with different learning mechanisms (i.e.: biological and artificial neural networks) acquire, generalize, and represent perceptual information.\nAfter receiving her PhD in Computational Cognitive Neuroscience from Rutgers University’s Brain Imaging Center, she was also a joint-postdoc in the Concepts and Actions Lab at Carnegie Mellon University and in the ProAction Lab at the University of Coimbra. Before that, she spent multiple years researching how children acquire and apply causal reasoning and inference in the Computational Cognitive Development Lab and at the Central European University’s Cognitive Science Department. and received an MA in linguistics from the Utrecht University."
   },
   {
-    "objectID": "people/team/arne.html",
-    "href": "people/team/arne.html",
-    "title": "Arne Wolf",
+    "objectID": "people/team/nikita.html",
+    "href": "people/team/nikita.html",
+    "title": "Nikita Malik",
     "section": "",
-    "text": "Arne is doing his PhD at Imperial College London (LSGNT) under the supervision of Anthea Monod. He is working on adapting ideas from geometry and topology to discrete settings. Concretely, he is interested in different tools of topological data analysis like persistent homology and Hodge Laplacians for simplicial complexes and other discrete structures."
+    "text": "Nikita Malik is a final-year PhD scholar at the Indian Institute of Technology Delhi, India, and a recipient of the prestigious Prime Minister’s Research Fellowship (PMRF). She works under the supervision of Prof. Sandeep Kumar, focusing on the development of secure, robust, and privacy-preserving Graph Machine Learning (GML) models, with applications spanning federated learning and hyperbolic geometry.\nBeyond graph learning, Nikita is interested in topology-based studies of brain dynamics, aiming to model and analyze temporal neural processes using topological neural networks.\nCurrently, she is a PhD intern at the Samsung R&D Institute Bangalore (SRIB), working alongside her doctoral research with the SNAP (Samsung Neural Acceleration Platform) team. Her work focuses on on-device AI, emphasizing the optimization of AI pipelines under strict data security constraints. SRIB is recognized as Samsung’s largest R&D center outside South Korea, known for fostering a strong culture of innovation and collaborative research."
+  },
+  {
+    "objectID": "people/team/yiming.html",
+    "href": "people/team/yiming.html",
+    "title": "Yiming Huang",
+    "section": "",
+    "text": "Yiming Huang is a PhD student and Lee Family scholar at the Department of Computing, Imperial College London. Previously, he obtained an MSc in Computer Science from the University of Electronic Science and Technology of China (UESTC). His research interests primarily focus on developing novel topological deep learning methods for understanding complex and higher-order graph structures. His broader interests also include generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications."
   },
   {
     "objectID": "people/team/lennart.html",
@@ -1029,7 +1036,7 @@
     "href": "people.html#organising-committee",
     "title": "LOGML 2026",
     "section": "Organising Committee",
-    "text": "Organising Committee\n\n\n\n\n\n\n\n\n\n\nLennart Bastian\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyla Roksan Caglar\n\n\nIcahn School of Medicine at Mount Sinai\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartin Carrasco\n\n\nUniversity of Fribourg\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Esteban Casadevall\n\n\nUniversity of Amsterdam\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimone Foti\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nValentina Giunchiglia\n\n\nImperial College London, Harvard University\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaterina Graziani\n\n\nUniversity of Siena\n\n\n\n\n\n\n\n\n\n\n\n\n\nYiming Huang\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nMohit Kataria\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nYaman Kındap\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Malik\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nKevin Mancini\n\n\nSapienza University of Rome\n\n\n\n\n\n\n\n\n\n\n\n\n\nPatryk Rygiel\n\n\nUniversity of Twente, Amsterdam UMC\n\n\n\n\n\n\n\n\n\n\n\n\n\nPragya Singh\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeri Skenderi\n\n\nBocconi University & Bocconi Institute for Data Science and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\nArne Wolf\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhengang Zhong\n\n\nUniversity of Warwick\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Organising Committee\n\n\n\n\n\n\n\n\n\n\nLennart Bastian\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nDhananjay Bhaskar\n\n\nUniversity of Wisconsin-Madison\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyla Roksan Caglar\n\n\nIcahn School of Medicine at Mount Sinai\n\n\n\n\n\n\n\n\n\n\n\n\n\nMartin Carrasco\n\n\nUniversity of Fribourg\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Esteban Casadevall\n\n\nUniversity of Amsterdam\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimone Foti\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nValentina Giunchiglia\n\n\nImperial College London, Harvard University\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaterina Graziani\n\n\nUniversity of Siena\n\n\n\n\n\n\n\n\n\n\n\n\n\nYiming Huang\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nMohit Kataria\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nYaman Kındap\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Malik\n\n\nIndian Institute of Technology Delhi\n\n\n\n\n\n\n\n\n\n\n\n\n\nKevin Mancini\n\n\nSapienza University of Rome\n\n\n\n\n\n\n\n\n\n\n\n\n\nPatryk Rygiel\n\n\nUniversity of Twente, Amsterdam UMC\n\n\n\n\n\n\n\n\n\n\n\n\n\nPragya Singh\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeri Skenderi\n\n\nBocconi University & Bocconi Institute for Data Science and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\nArne Wolf\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nKamilia Zaripova\n\n\nTechnical University of Munich (TUM)\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhengang Zhong\n\n\nUniversity of Warwick\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#scientific-advisory-committee",
@@ -2268,39 +2275,39 @@
     "text": "Home\n    People\n    Smita Krishnaswamy\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nSmita Krishnaswamy is an Associate Professor in the departments of Computer Science (SEAS) and Genetics (YSM). She is part of the programs in Applied Mathematics, Computational Biology & Bioinformatics and Interdisciplinary Neuroscience. She is also affiliated with the Yale Institute for the foundations of data science, Wu-Tsai Institute, Yale Cancer Center. Smita’s lab works on fundamental deep learning and machine learning developments for representing and learning from big data. Her techniques incorporate mathematical priors from graph spectral theory, manifold learning, signal processing, and topology into machine learning and deep learning frameworks, in order to denoise and model the underlying systems faithfully for predictive insight. Currently her methods are being widely used for data denoising, visualization, generative modeling, dynamics. modeling, comparative analysis and domain transfer in datasets arising from stem cell biology, cancer, immunology and structural biology (among others).\nSmita teaches several courses including: Deep Learning Theory and Applications, Unsupervised learning, and Geometric and Topological Methods in Machine Learning. Prior to joining Yale, Smita completed her postdoctoral training at Columbia University in the systems biology department where she focused on learning computational models of cellular signaling from single-cell mass cytometry data. She obtained her Ph.D. from EECS department at University of Michigan where her research focused on algorithms for automated synthesis and probabilistic verification of nanoscale logic circuits. Following her time in Michigan, Smita spent 2 years at IBM’s TJ Watson Research Center as a researcher in the systems division where she worked on automated bug finding and error correction in logic. Smita’s work over the years has won several awards including the NSF CAREER Award, Sloan Faculty Fellowship, and Blavatnik fund for Innovation."
   },
   {
-    "objectID": "people/team/yiming.html",
-    "href": "people/team/yiming.html",
-    "title": "Yiming Huang",
+    "objectID": "people/team/arne.html",
+    "href": "people/team/arne.html",
+    "title": "Arne Wolf",
     "section": "",
-    "text": "Yiming Huang is a PhD student and Lee Family scholar at the Department of Computing, Imperial College London. Previously, he obtained an MSc in Computer Science from the University of Electronic Science and Technology of China (UESTC). His research interests primarily focus on developing novel topological deep learning methods for understanding complex and higher-order graph structures. His broader interests also include generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications."
+    "text": "Arne is doing his PhD at Imperial College London (LSGNT) under the supervision of Anthea Monod. He is working on adapting ideas from geometry and topology to discrete settings. Concretely, he is interested in different tools of topological data analysis like persistent homology and Hodge Laplacians for simplicial complexes and other discrete structures."
   },
   {
-    "objectID": "people/team/nikita.html",
-    "href": "people/team/nikita.html",
-    "title": "Nikita Malik",
+    "objectID": "people/team/yaman.html",
+    "href": "people/team/yaman.html",
+    "title": "Yaman Kındap",
     "section": "",
-    "text": "Nikita Malik is a final-year PhD scholar at the Indian Institute of Technology Delhi, India, and a recipient of the prestigious Prime Minister’s Research Fellowship (PMRF). She works under the supervision of Prof. Sandeep Kumar, focusing on the development of secure, robust, and privacy-preserving Graph Machine Learning (GML) models, with applications spanning federated learning and hyperbolic geometry.\nBeyond graph learning, Nikita is interested in topology-based studies of brain dynamics, aiming to model and analyze temporal neural processes using topological neural networks.\nCurrently, she is a PhD intern at the Samsung R&D Institute Bangalore (SRIB), working alongside her doctoral research with the SNAP (Samsung Neural Acceleration Platform) team. Her work focuses on on-device AI, emphasizing the optimization of AI pipelines under strict data security constraints. SRIB is recognized as Samsung’s largest R&D center outside South Korea, known for fostering a strong culture of innovation and collaborative research."
+    "text": "Yaman is a Postdoctoral Research Associate in the Department of Computing at Imperial College London. His research focuses on statistical signal processing and machine learning for complex dynamical systems, with particular emphasis on Bayesian modelling using non-Gaussian stochastic processes. He completed his PhD at the University of Cambridge, where his work studied the use of non-Gaussian process priors for learning functions with rapid temporal variation. His research lies at the intersection of learning, optimisation, and uncertainty quantification, with applications including risk management in finance and climate modelling, as well as target tracking in autonomous systems. He has also worked as a data scientist in finance and retail, developing forecasting and pricing models."
   },
   {
-    "objectID": "people/team/leyla.html",
-    "href": "people/team/leyla.html",
-    "title": "Leyla Roksan Caglar",
+    "objectID": "people/team/patryk.html",
+    "href": "people/team/patryk.html",
+    "title": "Patryk Rygiel",
     "section": "",
-    "text": "Leyla is a Postdoctoral Fellow in the Windreich Department for AI & Human Health at the Icahn School of Medicine at Mount Sinai. Her work lies at the intersection of neuroscience, AI, and cognitive science, integrating approaches from geometry, topology, and information theory to understand how systems with different learning mechanisms (i.e.: biological and artificial neural networks) acquire, generalize, and represent perceptual information.\nAfter receiving her PhD in Computational Cognitive Neuroscience from Rutgers University’s Brain Imaging Center, she was also a joint-postdoc in the Concepts and Actions Lab at Carnegie Mellon University and in the ProAction Lab at the University of Coimbra. Before that, she spent multiple years researching how children acquire and apply causal reasoning and inference in the Computational Cognitive Development Lab and at the Central European University’s Cognitive Science Department. and received an MA in linguistics from the Utrecht University."
+    "text": "Patryk is a third-year PhD candidate in the EU Horizon VASCUL-AID project at the University of Twente and a guest researcher at the Amsterdam University Medical Center, supervised by dr. Jelmer M. Wolterink, prof. dr. Christoph Brune and prof. dr. Kak Khee Yeung. He is a former visiting student at NVIDIA and an AI research scientist at the med-tech startup Hemolens Diagnostics with two international medical device patents to his name. His current research focuses on AI for Science and Health, encompassing development of neural surrogates for complex physics simulations (i.e. hemodynamics) and geometric deep learning methods for risk assessment of cardiovascular diseases. Next to his work, he is actively involved in AI community by being a member of the ML in PL Association and co-organizer of several AI events across Europe."
   },
   {
-    "objectID": "people/team/mohit.html",
-    "href": "people/team/mohit.html",
-    "title": "Mohit Kataria",
+    "objectID": "people/team/pragya.html",
+    "href": "people/team/pragya.html",
+    "title": "Pragya Singh",
     "section": "",
-    "text": "Mohit is a fifth-year PhD student at IIT Delhi, advised by Prof. Sandeep Kumar. His research focuses on improving the scalability of graph machine learning. At IIT Delhi, his work spans graph coarsening, scalable graph structure learning, and privacy-preserving personalized federated learning for graphs. He is also interested in topology-inspired graph ML, with applications in biomedical and neuroscience. In addition, he has worked with Adobe Research, where he contributed to LLM-based agentic frameworks."
+    "text": "Pragya is a first-year PhD student in the Intelligent Earth CDT program at the University of Oxford. She finished her Master’s in Artificial Intelligence at Imperial College London and, prior to that, worked as a quantitative researcher at Goldman Sachs.\nHer current focus in on AI for materials discovery, especially to tackle environmental challenges. She previously worked on geometric machine learning in fields like neurobiology, molecular chemistry, and theoretical physics."
   },
   {
-    "objectID": "people/team/simone.html",
-    "href": "people/team/simone.html",
-    "title": "Simone Foti",
+    "objectID": "people/team/maria.html",
+    "href": "people/team/maria.html",
+    "title": "Maria Esteban Casadevall",
     "section": "",
-    "text": "Simone is a Postdoctoral Research Associate in the Department of Computing at Imperial College London. Previously, he obtained a PhD at the University College London (UCL) by researching “Latent Disentanglement for the Analysis and Generation of Digital Human Shapes”, which found applications in computer vision, graphics and plastic surgery. During the PhD, he gained industry experience as a Research Scientist Intern at Disney Research Studios (Zurich) and Adobe Research (Paris). Simone also obtained an MRes in Medical Imaging from UCL, an MSc in Biomedical Engineering at Politecnico di Milano, and a BSc in Computer Science at the University of Trieste. Currently, his research interest lies at the intersection of geometric deep learning, computer graphics, and computer vision. Through his research, Simone strives to understand how to solve problems in non-Euclidean domains such as graphs and meshes. He is currently working on multiple projects ranging from shape and texture generation, latent disentanglement, mesh sampling, and 3D reconstruction."
+    "text": "Maria is a first-year ELLIS PhD student at the University of Amsterdam (AMLab) supervised by Prof.Erik Bekkers and co-supervised by Prof.Søren Hauberg. Her research interests lie in the intersection of machine learning, geometry and topology. She is currently working on understanding diffusion models through the lens of information geometry."
   },
   {
     "objectID": "people/team/kevin.html",

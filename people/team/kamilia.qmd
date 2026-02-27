@@ -1,0 +1,24 @@
+---
+title: "Kamilia Zaripova"
+sidebar: false
+sortby: "Zaripova, Kamilia"
+description: "Technical University of Munich (TUM)"
+image: kamilia.jpg
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=ZQ1CQkQAAAAJ&hl=ru
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/kamilia-mullakaeva/
+---
+
+
+Kamilia is a PhD candidate in Computer Science at the Technical University of Munich (TUM), working at the intersection of machine learning, knowledge graphs, and biomedical AI. 
+Her research focuses on graph-based methods for rare disease diagnosis and gene prioritization, with an emphasis on interpretable models that integrate clinical phenotypes, biological knowledge graphs, and multimodal data.
+She is particularly interested in combining medical imaging with genetic and clinical information to build robust multimodal learning systems for precision medicine.
+
+Beyond her research, she co-organizes the GRAIL workshop at MICCAI 4 years in a row and is involved in mentoring students in machine learning and biomedical data science. She has also supported several early-stage AI and health-tech startups as a technical mentor.

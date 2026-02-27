@@ -1,0 +1,19 @@
+---
+title: "Dhananjay Bhaskar"
+sidebar: false
+sortby: "Bhaskar, Dhananjay"
+description: "University of Wisconsin-Madison"
+image: dhananjay.jpeg
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=9vji8eoAAAAJ&hl=en
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/dhananjay-bhaskar-53391362/
+    - icon: twitter-x
+      href: https://x.com/dbhaskar92
+---

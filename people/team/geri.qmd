@@ -11,7 +11,7 @@ about:
   links:
     - text: "{{< fa brands google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?hl=en&user=F_FT7TUAAAAJ&view_op=list_works&sortby=pubdate
-    - text: "{{< fa brands x-twitter >}}"
+    - icon: twitter-x
       href: https://x.com/geriskenderi
 ---
 
