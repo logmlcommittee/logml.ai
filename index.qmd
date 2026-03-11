@@ -26,6 +26,13 @@ height: 300px;
 
 <h2>London, 13-17 July 2026</h2>
 
+<div style="margin: 30px 0; width: 100%; text-align: center;">
+  <img src="img/group_photo_2025.jpg" 
+       alt="LOGML Group Photo" 
+       style="width: 100%; max-width: 900px; border-radius: 12px; border: 1px solid #ddd;"
+       onerror="this.style.display='none'; console.log('Image not found at: ' + this.src);">
+</div>
+
 <p>LOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to collaborate on a variety of problems at the intersection of geometry and machine learning. There will be a selection of group projects, each overseen by an experienced mentor, talks by leading figures in the field, and a variety of social events.</p>
 
 <div class="announcement-box">
@@ -55,5 +62,3 @@ height: 300px;
 :::
 
 <p>You can find a list of previous years' projects and speakers under <a href="logml2025/speaker.qmd">Archives</a> above.</p>
-
-
