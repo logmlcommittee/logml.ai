@@ -67,9 +67,13 @@
     "listing": "/speaker.html",
     "items": [
       "/speakers/ismail.html",
+      "/speakers/xiaowen.html",
+      "/speakers/olga.html",
       "/speakers/stefanie.html",
       "/speakers/giovanni.html",
       "/speakers/nicholas.html",
+      "/speakers/dorina.html",
+      "/speakers/soledad.html",
       "/speakers/pascal.html"
     ]
   },
@@ -94,6 +98,8 @@
       "/people/team/kamilia.html",
       "/people/team/zhengang.html",
       "/people/advisors/tolga.html",
+      "/people/advisors/johannes.html",
+      "/people/advisors/miranda.html",
       "/people/advisors/smita.html",
       "/people/advisors/michael.html"
     ]

@@ -1,7 +1,7 @@
 ---
 title: "Ismail Ilkan Ceylan"
 sidebar: false
-description: "TU Vienna"
+description: "TU Vienna, AITHYRA, University of Oxford"
 sortby: "Ceylan, Ismail Ilkan"
 image: ismail.jpg
 toc: false
@@ -32,8 +32,9 @@ about:
 
 Ismail Ilkan Ceylan is an Associate Professor at TU Vienna and an Adjunct Principal Investigator at AITHYRA, having previously served as an Assistant Professor (Departmental Lecturer) at the University of Oxford.
 
-His research interests are broadly in AI & machine learning with a particular focus on graph machine learning, which includes a class of challenging problems that can be naturally characterised using relational structures. 
-This is a highly interactive field, where techniques from machine learning (e.g., deep learning, graph representation learning, probabilistic methods), knowledge representation (e.g., logical reasoning, knowledge graphs), and theoretical computer science (complexity theory, graph theory) are relevant. 
+His research focuses on AI and ML, particularly graph machine learning, which explores learning from complex relational structures. 
+His long-term goal is to develop reliable and robust learning systems capable of reasoning over relational patterns across diverse domains. 
+This research draws on techniques from machine learning (e.g., foundation models, graph neural networks, geometric deep learning) and theoretical computer science (e.g., logic, probability, graph theory, descriptive complexity). 
 Ismail aims to theoretically quantify the capabilities and limitations of existing model architectures and then use these theoretical findings to develop novel architectures from first principles to eventually apply the resulting models in critical real-world domains.
 
 He earned his Ph.D. from TU Dresden, receiving several distinctions for his dissertation, including the prestigious E.W. Beth Dissertation Prize.

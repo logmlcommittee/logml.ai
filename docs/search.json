@@ -945,7 +945,7 @@
     "href": "speaker.html",
     "title": "Speakers",
     "section": "",
-    "text": "Home\n    Speakers\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsmail Ilkan Ceylan\n\n\nTU Vienna\n\n\n\n\n\n\n\n\n\n\n\n\n\nStefanie Jegelka\n\n\nMIT, TUM\n\n\n\n\n\n\n\n\n\n\n\n\n\nGiovanni Luca Marchetti\n\n\nRoyal Institute of Technology (KTH), Stockholm\n\n\n\n\n\n\n\n\n\n\n\n\n\nNicholas Sharp\n\n\nNVIDIA\n\n\n\n\n\n\n\n\n\n\n\n\n\nPascal Welke\n\n\nLancaster University Leipzig, TU Vienna\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Home\n    Speakers\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsmail Ilkan Ceylan\n\n\nTU Vienna, AITHYRA, University of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nXiaowen Dong\n\n\nUniversity of Oxford\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlga Fink\n\n\nEPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\nStefanie Jegelka\n\n\nMIT, TUM\n\n\n\n\n\n\n\n\n\n\n\n\n\nGiovanni Luca Marchetti\n\n\nRoyal Institute of Technology (KTH), Stockholm\n\n\n\n\n\n\n\n\n\n\n\n\n\nNicholas Sharp\n\n\nNVIDIA\n\n\n\n\n\n\n\n\n\n\n\n\n\nDorina Thanou\n\n\nEPFL\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoledad Villar\n\n\nJohns Hopkins University\n\n\n\n\n\n\n\n\n\n\n\n\n\nPascal Welke\n\n\nLancaster University Leipzig, TU Vienna\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/team/geri.html",
@@ -1011,6 +1011,13 @@
     "text": "Lennart is a Post-doctoral Research Scientist at Imperial College London, working with the Circle Group of Prof. Tolga Birdal, where he pursues topics at the intersection of geometry, topology, and machine learning. His research is funded by the UK Royal Society under the Newton International Fellowship.\n\n\nHe completed his PhD with highest distinction (summa cum laude) at the Chair for Computer Aided Medical Procedures (CAMP) in Munich, supervised by Prof. Nassir Navab, where he also coordinated research of the Surgical Data Science team. His M.Sc. thesis, “SDP Solvers with Optimal Storage Requirements and Applications,” was completed in Applied Mathematics at the Technical University of Munich under the supervision of Prof. Michael Ulbrich. He holds a Bachelor’s in Mathematics and Computer Science from New York University’s Courant Institute, with an emphasis on the biological sciences."
   },
   {
+    "objectID": "people/advisors/miranda.html",
+    "href": "people/advisors/miranda.html",
+    "title": "Miranda Cheng",
+    "section": "",
+    "text": "Home\n    People\n    Miranda Cheng\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nMiranda Chih-Ning Cheng is a Taiwanese mathematician and theoretical physicist who works as an associate professor at the University of Amsterdam. She is known for formulating the umbral moonshine conjectures and for her work on the connections between K3 surfaces and string theory."
+  },
+  {
     "objectID": "people/advisors/michael.html",
     "href": "people/advisors/michael.html",
     "title": "Michael Schaub",
@@ -1036,7 +1043,7 @@
     "href": "people.html#scientific-advisory-committee",
     "title": "LOGML 2026",
     "section": "Scientific Advisory Committee",
-    "text": "Scientific Advisory Committee\n\n\n\n\n\n\n\n\n\n\nTolga Birdal\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nSmita Krishnaswamy\n\n\nYale University\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichael Schaub\n\n\nRWTH Aachen University\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Scientific Advisory Committee\n\n\n\n\n\n\n\n\n\n\nTolga Birdal\n\n\nImperial College London\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohannes Brandstetter\n\n\nJohannes Kepler University, Emmi AI\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiranda Cheng\n\n\nUniversity of Amsterdam\n\n\n\n\n\n\n\n\n\n\n\n\n\nSmita Krishnaswamy\n\n\nYale University\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichael Schaub\n\n\nRWTH Aachen University\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -1656,6 +1663,20 @@
     "text": "website\n  \n\n\n\nRon Kimmel is a Professor of Computer Science (and Electrical and Computer Engineering by courtesy) at the Technion where he holds the Montreal Chair in Sciences. He held a post-doctoral position at UC Berkeley and a visiting professorship at Stanford University. He has worked in various areas of shape reconstruction and analysis in computer vision, image processing, deep learning of big geometric data, and computer graphics. Kimmel’s interest in recent years has been understanding of machine learning, medical imaging and specifically computational oncology/pathology, precision medicine, optimization of solvers to problems with a geometric flavor, and applications of metric, spectral, Riemannian, and differential geometries. Kimmel is an IEEE Fellow and SIAM Fellow for his contributions to image processing, shape reconstruction and geometric analysis. He is the founder of the Geometric Image Processing Lab. and a founder and advisor of several successful image processing and analysis companies."
   },
   {
+    "objectID": "speakers/dorina.html",
+    "href": "speakers/dorina.html",
+    "title": "Dorina Thanou",
+    "section": "",
+    "text": "Home\n    Speakers\n    Dorina Thanou\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nDorina Thanou is a senior researcher and lecturer at EPFL, leading strategic research initiatives on AI for Health and Science under the EPFL AI Center. Her research interests include graph-based signal processing for data representation and analysis, as well as machine learning, with a particular focus on the design of interpretable and robust models for biomedicine. She is currently leading many interdisciplinary collaborations that aim at fostering the adoption of AI in medicine and health."
+  },
+  {
+    "objectID": "speakers/olga.html",
+    "href": "speakers/olga.html",
+    "title": "Olga Fink",
+    "section": "",
+    "text": "Home\n    Speakers\n    Olga Fink\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nOlga Fink has been Assistant Professor of Intelligent Maintenance and Operations Systems at EPFL since March 2022. She is also a research affiliate at the Massachusetts Institute of Technology and an expert at Innosuisse in the field of ICT. Olga’s research focuses on hybrid algorithms fusing physics-based models and deep learning algorithms; hybrid operational digital twins; transfer learning; self-supervised learning; deep reinforcement learning; and multi-agent systems for intelligent maintenance and operations of infrastructure and complex assets."
+  },
+  {
     "objectID": "speakers/nicholas.html",
     "href": "speakers/nicholas.html",
     "title": "Nicholas Sharp",
@@ -1688,7 +1709,21 @@
     "href": "speakers/ismail.html",
     "title": "Ismail Ilkan Ceylan",
     "section": "",
-    "text": "Home\n    Speakers\n    Ismail Ilkan Ceylan\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nIsmail Ilkan Ceylan is an Associate Professor at TU Vienna and an Adjunct Principal Investigator at AITHYRA, having previously served as an Assistant Professor (Departmental Lecturer) at the University of Oxford.\nHis research interests are broadly in AI & machine learning with a particular focus on graph machine learning, which includes a class of challenging problems that can be naturally characterised using relational structures. This is a highly interactive field, where techniques from machine learning (e.g., deep learning, graph representation learning, probabilistic methods), knowledge representation (e.g., logical reasoning, knowledge graphs), and theoretical computer science (complexity theory, graph theory) are relevant. Ismail aims to theoretically quantify the capabilities and limitations of existing model architectures and then use these theoretical findings to develop novel architectures from first principles to eventually apply the resulting models in critical real-world domains.\nHe earned his Ph.D. from TU Dresden, receiving several distinctions for his dissertation, including the prestigious E.W. Beth Dissertation Prize. Ismail is also the recipient of the Marco Cadoli Best Paper Prize at KR 2016 and co-authored a paper which was awarded the Best Paper Prize at ICDT 2020. He has been recognised as a distinguished reviewer or PC member in top AI/ML conferences, including NeurIPS, ICLR, IJCAI and AAAI."
+    "text": "Home\n    Speakers\n    Ismail Ilkan Ceylan\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nIsmail Ilkan Ceylan is an Associate Professor at TU Vienna and an Adjunct Principal Investigator at AITHYRA, having previously served as an Assistant Professor (Departmental Lecturer) at the University of Oxford.\nHis research focuses on AI and ML, particularly graph machine learning, which explores learning from complex relational structures. His long-term goal is to develop reliable and robust learning systems capable of reasoning over relational patterns across diverse domains. This research draws on techniques from machine learning (e.g., foundation models, graph neural networks, geometric deep learning) and theoretical computer science (e.g., logic, probability, graph theory, descriptive complexity). Ismail aims to theoretically quantify the capabilities and limitations of existing model architectures and then use these theoretical findings to develop novel architectures from first principles to eventually apply the resulting models in critical real-world domains.\nHe earned his Ph.D. from TU Dresden, receiving several distinctions for his dissertation, including the prestigious E.W. Beth Dissertation Prize. Ismail is also the recipient of the Marco Cadoli Best Paper Prize at KR 2016 and co-authored a paper which was awarded the Best Paper Prize at ICDT 2020. He has been recognised as a distinguished reviewer or PC member in top AI/ML conferences, including NeurIPS, ICLR, IJCAI and AAAI."
+  },
+  {
+    "objectID": "speakers/xiaowen.html",
+    "href": "speakers/xiaowen.html",
+    "title": "Xiaowen Dong",
+    "section": "",
+    "text": "Home\n    Speakers\n    Xiaowen Dong\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nXiaowen Dong is an associate professor in the Department of Engineering Science at the University of Oxford, where he is a member of the Machine Learning Research Group. Prior to joining Oxford, he was a postdoctoral associate in the MIT Media Lab, and received his PhD degree from the Swiss Federal Institute of Technology (EPFL). His main research interests concern signal processing and machine learning techniques for analysing data with complex structures, and their applications in social, urban, and financial network analysis."
+  },
+  {
+    "objectID": "speakers/soledad.html",
+    "href": "speakers/soledad.html",
+    "title": "Soledad Villar",
+    "section": "",
+    "text": "Home\n    Speakers\n    Soledad Villar\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nSoledad Villar is an Assistant Professor in Applied Mathematics and Statistics at Johns Hopkins University. Prior to that she worked with Joan Bruna and Afonso Bandeira at New York University and was affiliated with the Simons Foundation in New York City and UC Berkeley. She received her PhD from UT Austin supervised by Rachel Ward. Her research interests include equivariant machine learning, graph neural networks and mathematical foundations of deep learning. She is also interest in applications to computational biology."
   },
   {
     "objectID": "speakers/giovanni.html",
@@ -2266,6 +2301,13 @@
     "title": "Smita Krishnaswamy",
     "section": "",
     "text": "Home\n    People\n    Smita Krishnaswamy\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nSmita Krishnaswamy is an Associate Professor in the departments of Computer Science (SEAS) and Genetics (YSM). She is part of the programs in Applied Mathematics, Computational Biology & Bioinformatics and Interdisciplinary Neuroscience. She is also affiliated with the Yale Institute for the foundations of data science, Wu-Tsai Institute, Yale Cancer Center. Smita’s lab works on fundamental deep learning and machine learning developments for representing and learning from big data. Her techniques incorporate mathematical priors from graph spectral theory, manifold learning, signal processing, and topology into machine learning and deep learning frameworks, in order to denoise and model the underlying systems faithfully for predictive insight. Currently her methods are being widely used for data denoising, visualization, generative modeling, dynamics. modeling, comparative analysis and domain transfer in datasets arising from stem cell biology, cancer, immunology and structural biology (among others).\nSmita teaches several courses including: Deep Learning Theory and Applications, Unsupervised learning, and Geometric and Topological Methods in Machine Learning. Prior to joining Yale, Smita completed her postdoctoral training at Columbia University in the systems biology department where she focused on learning computational models of cellular signaling from single-cell mass cytometry data. She obtained her Ph.D. from EECS department at University of Michigan where her research focused on algorithms for automated synthesis and probabilistic verification of nanoscale logic circuits. Following her time in Michigan, Smita spent 2 years at IBM’s TJ Watson Research Center as a researcher in the systems division where she worked on automated bug finding and error correction in logic. Smita’s work over the years has won several awards including the NSF CAREER Award, Sloan Faculty Fellowship, and Blavatnik fund for Innovation."
+  },
+  {
+    "objectID": "people/advisors/johannes.html",
+    "href": "people/advisors/johannes.html",
+    "title": "Johannes Brandstetter",
+    "section": "",
+    "text": "Home\n    People\n    Johannes Brandstetter\n\n  \n\n\n  \n \n \n  \n   \n  \n    \n     website\n  \n\n\n\nJohannes Brandstetter leads the “AI for Data-Driven Simulations” group at the Institute for Machine Learning, JKU - Johannes Kepler Universität Linz, with the aim of advancing data-driven simulations at industry scale. Additionally, he is a Co-founder and Chief Scientist at Emmi AI — a push towards the data-driven revolution in science and engineering."
   },
   {
     "objectID": "people/team/yiming.html",

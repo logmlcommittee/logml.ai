@@ -1,0 +1,35 @@
+---
+title: "Dorina Thanou"
+sidebar: false
+description: "EPFL"
+sortby: "Thanou, Dorina"
+image: dorina.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://people.epfl.ch/dorina.thanou?lang=en
+
+---
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../speaker.html">Speakers</a></li>
+    <li class="breadcrumb-item active">Dorina Thanou</li>
+
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+Dorina Thanou is a senior researcher and lecturer at EPFL, leading strategic research initiatives on AI for Health and Science under the EPFL AI Center. 
+Her research interests include graph-based signal processing for data representation and analysis, as well as machine learning, with a particular focus on the design of interpretable and robust models for biomedicine. 
+She is currently leading many interdisciplinary collaborations that aim at fostering the adoption of AI in medicine and health.
