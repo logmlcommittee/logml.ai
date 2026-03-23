@@ -34,7 +34,7 @@ Smita Krishnaswamy is an Associate Professor in the departments of Computer Scie
 She is part of the programs in Applied Mathematics, Computational Biology & Bioinformatics and Interdisciplinary Neuroscience. 
 She is also affiliated with the Yale Institute for the foundations of data science, Wu-Tsai Institute, Yale Cancer Center. 
 Smita's lab works on fundamental deep learning and machine learning developments for representing and learning from big data. 
-Her techniques incorporate mathematical priors from graph spectral theory, manifold learning, signal processing, and topology into machine learning and deep learning frameworks, in order to denoise and model the underlying systems faithfully for predictive insight. 
+Her techniques incorporate mathematical priors from dynamic systems theory, graph spectral theory, manifold learning, signal processing, and topology into machine learning and deep learning frameworks, in order to denoise and model the underlying systems faithfully for interpretable prediction and virtual modeling. 
 Currently her methods are being widely used for data denoising, visualization, generative modeling, dynamics. modeling, comparative analysis and domain transfer in datasets arising from stem cell biology, cancer, immunology and structural biology (among others).
 
 Smita teaches several courses including: Deep Learning Theory and Applications, Unsupervised learning, and Geometric and Topological Methods in Machine Learning. 

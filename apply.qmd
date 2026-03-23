@@ -8,8 +8,10 @@ sidebar: false
 
 <div class="announcement-box">
 
-<p>Applications for group project mentors are now open! <span style="color: #2a446a; font-weight: bold;">Kindly apply using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2O0a7QwcLd_fwkPhPLUe5FmCKSSEGA46sRl-b9R8ayK7T-g/viewform?usp=header" style="font-weight: bold;">form</a></span>.</p>
+<p><span style="color: #2a446a; font-weight: bold;">Applications for this cycle are now closed! </span> 
 
+Thank you to everyone who applied. We are currently reviewing applications and will soon be reaching out to accepted mentors.</p>
+<div style="height: 1px; background: linear-gradient(to right, transparent, #d1d1d1, transparent); margin: 30px 0;"></div>
 <p>Mentors lead a small group of passionate, early-career researchers on a week-long project of their choosing at the intersection of geometry and machine learning.</p>
 
 <p>LOGML is more than a summer school; it is an incubator for innovation. Several working groups initiated at LOGML have evolved into long-term collaborations, resulting in publications at top-tier venues such as NeurIPS, ICLR, and TMLR (see the full list <a href="index.qmd">here</a>). </p>
@@ -24,8 +26,6 @@ What to Expect:
 * <strong>Networking & Engagement:</strong> Beyond project work, the week features keynote lectures from leading figures in the field, fun social activities, and several networking events.
 
 Financial support for travel and accommodation will also be provided for all accepted mentors.</p>
-
-<br><strong style="color: #2a446a">Applications close on 22 March 2026, AoE (Anywhere on Earth).</strong>
 
 </div>
 
