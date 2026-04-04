@@ -5,8 +5,22 @@ format:
     toc: false
 ---
 
-We are excited to announce sponsorship opportunities for our event. You can preview our sponsorship brochure below, or download it [here](files/sponsorship_brochure.pdf).
+<div class="announcement-box">
 
-```{=html}
-<iframe src="files/sponsorship_brochure.pdf" width="800" height="470"></iframe>
-```
+<p>We are excited to announce sponsorship opportunities for our event.</p>
+
+<p>Why partner with LOGML?</p>
+
+* **Visibility** among a highly selective audience of researchers, students, and industry practitioners
+* **Brand presence** across event platforms, website, and promotional material
+* **Direct engagement** through networking sessions and dedicated company interactions
+* **Access to CVs and talent pool** of participants post-event
+* **Presentation opportunities** to showcase your work, products, or research
+* **On-ground presence** via booths and branded materials
+* **Custom collaboration** options tailored to your organization’s goals
+
+<p>We offer multiple sponsorship tiers, designed to provide increasing visibility and engagement opportunities.</p>
+
+<p>If you’re interested in partnering with us, please reach out at [logml.committee@gmail.com](mailto:logml.committee@gmail.com) or fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSepjvRwSJR4DkLosVmCPMP0_EsmxNR0CF_Ze3zzzj7lWynP8A/viewform?usp=header">Sponsership Form</a>.</p>
+
+</div>

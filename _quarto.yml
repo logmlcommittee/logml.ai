@@ -30,12 +30,12 @@ website:
       #   text: Schedule
       # - href: sponsors.qmd
       #   text: Sponsors
-      # - href: call_for_sponsors.qmd
-      #   text: "Call for Sponsors"
       - href: logml2025/speaker.qmd
         text: "Archives"
       - href: apply.qmd
         text: "Apply"
+      - href: call_for_sponsors.qmd
+        text: "Call for Sponsors"
  
     right: 
       - icon: envelope
