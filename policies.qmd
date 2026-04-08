@@ -13,13 +13,17 @@ We encourage anyone with concerns regarding accessibility, diversity, or inclusi
 
 Note: this document is not final and will be subject to changes by the time of the event.
 
-## Speaker and mentors
+## Speakers, Mentors, and Participants
 ​
 The Organisers are committed to inviting speakers and mentors representative of all people. This includes ensuring a diverse representation of research subjects and fields, gender, and ethnic backgrounds among our speakers and mentors.
 
 In particular, we attempt to counteract the underrepresentation of women in STEM by making sure that at least 20% of speakers and mentors are non-male. We also strongly encourage applications by non-men and minorities and will reserve 20% of the participant spots for underrepresented groups.
 
 The Organisers will, to the best of their abilities, ensure traditionally under-represented groups in AI and STEM are aware of the event and encouraged to apply, e.g., by reaching out to university and department diversity officers.
+
+**How are project proposals evaluated?**
+
+Each project proposal is evaluated by at least 4 organizers, who assign a score based on the quality of the project submission, and qualifications of the applicant based on mentorship and research experience, as well as the mentor-project fit. To ensure impartiality, the initial project evaluation is conducted blindly, independent of the applicant’s personal or professional background.
 
 ## Disabilities
 ​
