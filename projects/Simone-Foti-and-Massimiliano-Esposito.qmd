@@ -1,10 +1,10 @@
 ---
 title: "AnisoSphere: Learning Anisotropic Geodesic Convolutions for Global Weather Prediction"
 sidebar: false
-author: "Massimiliano Esposito, Simone Foti"
+author: "Simone Foti, Massimiliano Esposito"
 categories: []
-sortby: "Esposito, Massimiliano, Foti, Simone"
-image: Massimiliano-Esposito-and-Simone-Foti.png
+sortby: "Foti, Simone, Esposito, Massimiliano"
+image: Simone-Foti-and-Massimiliano-Esposito.png
 about:
   id: project-profile
   template: solana
@@ -17,14 +17,6 @@ about:
       href: https://www.linkedin.com/in/massimilianoesposito/
 ---
 
-## Massimiliano Esposito
-
-Max is a research scientist at IBM. 
-He holds a PhD from Imperial College, with a thesis in harmonic analysis on the non-linear quantisation of pseudo-differential operators. 
-His research at IBM focuses on AI for science, with a particular emphasis on AI for quantum computing, AI for nuclear fusion, and AI for materials discovery. 
-In his spare time, he enjoys football, swimming, and considering how AI can improve maths discoveries and thinking.
-
-
 ## Simone Foti
 
 Simone Foti is a Postdoctoral Researcher at Imperial College London, having completed a PhD at University College London and held 
@@ -33,9 +25,20 @@ computer graphics, and computer vision. Through his work, he solves problems in 
 and general geometries represented as meshes. Simone's primary focus is building machine learning models that respect the geometry of 
 the space in which they operate, with applications ranging from AR/VR and movie production to plastic surgery and AI for Earth Science.
 
+
+## Massimiliano Esposito
+
+Max Esposito is a Research Scientist at IBM, working on AI for Science, with a particular focus on AI for mathematics, 
+combinatorial optimisation, and algorithmic discovery. His research interests span pure mathematics, especially harmonic analysis, 
+as well as geometric deep learning and reinforcement learning.
+
+He holds a PhD in Pure Mathematics from Imperial College London, where he worked on a new quantisation scheme in quantum mechanics, 
+and a master’s degree from King’s College London, where he graduated top of his year.
+
+
 ## Project
 
-![](Massimiliano-Esposito-and-Simone-Foti-info.png){fig-align="center" width="100%"}
+![](Simone-Foti-and-Massimiliano-Esposito-info.png){fig-align="center" width="100%"}
 
 Data-driven global weather prediction is now matching traditional physics-based models [[1]](#ref1), but modeling planetary dynamics 
 natively on the sphere presents fundamental geometric hurdles. While Spherical CNNs [[2]](#ref2) and Neural Operators [[3]](#ref3) successfully 

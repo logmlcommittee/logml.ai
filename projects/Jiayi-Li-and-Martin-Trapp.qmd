@@ -19,7 +19,7 @@ about:
 
 ## Jiayi Li
 
-Short bio: Dr. Jiayi Li is a postdoctoral fellow in the Section of Mathematics and Artificial Intelligence
+Dr. Jiayi Li is a postdoctoral fellow in the Section of Mathematics and Artificial Intelligence
 at the Max Planck Institute CBG in Dresden, Germany. Her research lies at the intersection of algebraic 
 geometry and theoretical machine learning. She received her PhD from the University of California, Los Angeles, 
 where she was a member of the Mathematical Machine Learning Group. Her work focuses on mathematical and 

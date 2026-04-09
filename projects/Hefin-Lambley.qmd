@@ -14,6 +14,15 @@ about:
       href: https://warwick.ac.uk/htlambley
 ---
 
+## Hefin Lambley
+
+Hefin Lambley is a final-year PhD student at the Mathematics Institute of the
+University of Warwick and incoming Dirichlet postdoctoral fellow at the Freie
+Universität Berlin. His research interests include uncertainty quantification,
+machine learning, and inverse problems. He is particularly interested in the 
+mathematical foundations of machine-learning methods for functional data, 
+including the development of resolution-independent algorithms for unsupervised
+learning and generative modelling.
 
 ## Project
 
