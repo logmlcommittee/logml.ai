@@ -1,0 +1,42 @@
+---
+title: "Singular learning theory for LLM interpretability and alignment"
+sidebar: false
+author: "Sergio Estan Ruiz"
+categories: []
+sortby: "Ruiz, Sergio Estan"
+image: Sergio-Estan-Ruiz.png
+about:
+  id: project-profile
+  template: solana
+  links:
+    - icon: link
+      text: Sergio
+      href: https://sergioestanruiz.github.io/
+---
+
+## Sergio Estan Ruiz
+
+Sergio is a PhD student at Imperial College London under Prof. Guy Nason, where he looks at interpretability and machine learning for public policy. 
+Previously, he completed Part III at Cambridge where he transitioned from pure mathematics to machine learning via a thesis on topological data analysis. 
+Currently, his research interests range from network time series modelling, to interpretability of LLMs and singular learning theory. 
+
+## Project
+
+![](Sergio-Estan-Ruiz-info.png){fig-align="center" width="100%"}
+
+Singular Learning Theory (SLT) is a Bayesian theory of learning which tries to understand statistical properties of parametric models via the geometry of an associated loss landscape. 
+In SLT, the Local Learning Coefficient (LLC) is a measure of the local degeneracy of the loss surface and it's related to quantities of interest like the expected generalisation error of the model. 
+Recently, SLT has been employed as an interpretability tool to characterise phenomena like grokking [[1]](#ref1) or to understand phase transitions and circuit formation during the training of small language models [[2]](#ref2). 
+
+The aim of this project is to utilise tools from SLT to understand modern phenomena at the heart of LLM research. 
+We will collectively decide the specific aim of the project, but I will prepare some possible research directions from which we can choose as a group. 
+As an example, we could analyse jailbreak susceptibilities in language models. 
+We could finetune base models with different safety techniques and evaluate the evolution of the LLC as the model moves through the loss landscape. 
+How are the LLC trajectories related to the model's susceptibilities to jailbreaks?
+
+
+### References
+
+<a name="ref1"></a>[1] Ben Cullen et al, Grokking as a Phase Transition between Competing Basins: a Singular Learning Theory Approach. ArXiv preprint, URL: <a href="https://arxiv.org/abs/2603.01192">https://arxiv.org/abs/2603.01192</a>
+
+<a name="ref2"></a>[2] Jesse Hoogland et al, Loss Landscape Degeneracy and Stagewise Development in Transformers. ArXiv preprint, URL: <a href="https://arxiv.org/abs/2402.02364 ">https://arxiv.org/abs/2402.02364</a>

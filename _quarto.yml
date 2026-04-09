@@ -22,8 +22,8 @@ website:
         text: People
       - text: Speakers
         href: speaker.qmd
-      # - text: "Projects & Mentors"
-      #   href: projects.qmd
+      - text: "Projects & Mentors"
+        href: projects.qmd
       - href: policies.qmd
         text: Policies
       # - href: program.qmd
@@ -32,10 +32,10 @@ website:
       #   text: Sponsors
       - href: logml2025/speaker.qmd
         text: "Archives"
-      - href: apply.qmd
-        text: "Apply"
       - href: call_for_sponsors.qmd
         text: "Call for Sponsors"
+      - href: apply.qmd
+        text: "Apply"
  
     right: 
       - icon: envelope

@@ -1,0 +1,56 @@
+---
+title: "Posterior Geometry and Variational Inference for Bayesian Complexity in Neural Networks"
+sidebar: false
+author: "Jiayi Li, Martin Trapp"
+categories: []
+sortby: "Li, Jiayi, Trapp, Martin"
+image: Jiayi-Li-and-Martin-Trapp.png
+about:
+  id: project-profile
+  template: solana
+  links:
+    - icon: link
+      text: Jiayi
+      href: https://jl2ml.github.io
+    - icon: link
+      text: Martin
+      href: https://trappmartin.github.io
+---
+
+## Jiayi Li
+
+Short bio: Dr. Jiayi Li is a postdoctoral fellow in the Section of Mathematics and Artificial Intelligence
+at the Max Planck Institute CBG in Dresden, Germany. Her research lies at the intersection of algebraic 
+geometry and theoretical machine learning. She received her PhD from the University of California, Los Angeles, 
+where she was a member of the Mathematical Machine Learning Group. Her work focuses on mathematical and 
+statistical machine learning, with a particular interest in developing algebraic methods to better 
+understand the training dynamics and generalization behavior of modern neural networks.
+
+## Martin Trapp
+
+Dr. Martin Trapp is an Assistant Professor in Machine Learning at KTH Royal Institute of Technology, 
+WASP fellow, and a member of the ELLIS society working on probabilistic machine learning. Previously, 
+he was an Academy of Finland-funded independent postdoctoral researcher at Aalto University. His 
+research interests are in scalable and principled methods in probabilistic machine learning with a 
+focus on tractable models and Bayesian statistics.
+
+## Project
+
+Singular learning theory (SLT) is a framework for understanding modern machine-learning models 
+in settings where classical statistical assumptions break down. A central quantity in SLT is 
+the local learning coefficient (LLC), which captures the effective local complexity around a 
+trained solution. Because exact LLC formulas are difficult to derive for realistic models, 
+empirical estimation is especially valuable, particularly for large-scale models. Existing 
+tools based on stochastic gradient Langevin dynamics (SGLD) provide a strong starting point, 
+but they can require delicate hyperparameter tuning. In this project, we explore whether 
+variational inference can provide a more scalable and stable route to LLC estimation.
+
+Students joining the project can expect a mix of paper reading, method implementation, and 
+empirical evaluation. Depending on the background and interests of the group, the work can 
+lean more toward theory or more toward experiments, but in all cases it will involve comparing 
+inference procedures in terms of accuracy, stability, and scalability. A good fit would be 
+students with solid Python and machine-learning foundations, and some comfort with probability, 
+optimization, or Bayesian methods; experience with variational inference is helpful but not 
+required. The project offers an opportunity to learn singular learning theory, gain hands-on 
+experience with scalable inference methods, and practice turning mathematical ideas into 
+carefully designed machine-learning experiments.

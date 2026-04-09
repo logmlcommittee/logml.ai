@@ -1,0 +1,25 @@
+---
+title: "Learning Physics on Meshes: Geometry-Aware Neural Operators"
+sidebar: false
+author: "Mustafa Hajij"
+categories: []
+sortby: "Hajij, Mustafa"
+image: Mustafa-Hajij.png
+about:
+  id: project-profile
+  template: solana
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=6fwWEFoAAAAJ&hl=en
+---
+
+## Mustafa Hajij
+
+Mustafa Hajij is a researcher and entrepreneur whose work focuses on topological deep learning, scientific machine learning, and AI for structured data. 
+He is known for contributions to the foundations of topological deep learning, including work on neural architectures for higher-order structures such as cell complexes, as well as for helping advance the broader vision of topology-aware AI.
+
+## Project
+
+Our project develops new foundations and methods at the intersection of topological deep learning and physics-informed machine learning. 
+The goal is to design learning systems that integrate higher-order topological structure with physical priors, enabling robust modeling of complex scientific systems whose behavior depends on multiscale geometry, nontrivial interactions, and governing equations. 
+By combining topology-aware representations with physics-informed learning, we aim to build models that go beyond standard neural architectures in both expressive power and scientific fidelity.

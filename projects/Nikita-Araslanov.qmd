@@ -1,0 +1,33 @@
+---
+title: "Symmetry Profiles of Vision Foundation Models: What Makes Visual Representations Useful?"
+sidebar: false
+author: "Nikita Araslanov"
+categories: []
+sortby: "Araslanov, Nikita"
+image: Nikita-Araslanov.jpg
+about:
+  id: project-profile
+  template: solana
+  links:
+    - icon: link
+      text: Nikita
+      href: https://arnike.github.io
+---
+
+## Nikita Araslanov
+
+Nikita Araslanov is a visiting researcher at the Visual Geometry Group (VGG), University of Oxford. 
+Previously, he was a postdoctoral scientist at TUM (2022–2026) and a visiting faculty researcher at Google (2024–2025). 
+His research focuses on bridging semantic and 3D visual inference using video data. 
+He received his PhD in Computer Science from TU Darmstadt in 2022 and completed his master’s degree in Computer Science at the University of Bonn.
+
+## Project
+
+Despite rapid progress in visual learning, we still lack understanding about what structural properties make some pretrained models exceptionally useful in practice while other models see limited adoption. 
+This project aims to link the observed practical success to a distinctive symmetry profile of the learned representation. 
+Using curated real-world videos with point trajectories, we will construct track-based kernels and derive a small set of mathematically grounded, low-overhead, and interpretable metrics for three transformation classes: camera motion, independent object motion, and interactions.
+
+The central hypothesis is that useful models exhibit selective invariance to nuisance changes, structured equivariance under object motion, and clear symmetry-breaking signatures at interactions. 
+Drawing on causal representation learning, object-centric vision, and kernel/spectral analysis, the project will turn these ideas into precise, testable metrics. 
+The emphasis is not on model training or large-scale benchmarking, but on understanding off-the-shelf models through carefully designed hypotheses and normalized metrics. 
+The workflow is laptop-friendly, and the annotated data will be prepared in advance.

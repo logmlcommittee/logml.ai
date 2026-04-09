@@ -1,0 +1,65 @@
+---
+title: "Neural Generative Models for Temporal Graphs"
+sidebar: false
+author: "Antonio Longa"
+categories: []
+sortby: "Longa, Antonio"
+image: Antonio-Longa.png
+about:
+  id: project-profile
+  template: solana
+  links:
+    - icon: link
+      text: Antonio
+      href: https://antoniolonga.github.io/
+---
+
+## Antonio Longa
+
+Antonio Longa is a researcher at UiT The Arctic University of Norway working on graph machine learning
+and network science. His research focuses on temporal networks, Graph Neural Networks, and explainability,
+with the goal of understanding how complex relational systems evolve over time and how these dynamics 
+can be modeled and generated.
+
+He received his PhD in Information and Communication Technology from the University of Trento, 
+where he worked on temporal network analysis and generation. His work spans both theoretical and 
+applied aspects of relational learning.
+
+Antonio has experience mentoring students on research projects in graph machine learning, many of 
+which have led to publications. He is particularly interested in open-ended research problems at 
+the intersection of structure, time, and learning.
+
+
+## Project
+
+![](Antonio-Longa-info.png){fig-align="center" width="100%"}
+
+Generating realistic temporal graphs is crucial for understanding and simulating complex systems
+where interactions evolve over time, such as social dynamics [[1]](#ref1), biological processes [[2]](#ref2), and 
+communication networks [[3]](#ref3). In many cases, real data are limited, sensitive, or incomplete, making 
+it essential to develop models that can generate realistic synthetic temporal networks for analysis, 
+prediction, and data sharing.
+
+In this project, we will investigate approaches for temporal graph generation, with a particular 
+focus on bridging different modeling paradigms. One possible direction is to start from simple 
+local temporal patterns [[4]](#ref4) (e.g., how nodes interact over short time windows) and use neural models 
+to learn how these patterns evolve and combine into larger temporal graphs.
+
+At the same time, alternative strategies are equally valid: participants may explore fully neural 
+generative models that directly learn from data or hybrid methods combining both perspectives. 
+The goal is to explore different ways of modeling temporal dependencies and understand their 
+strengths and limitations.
+
+The project is intentionally open-ended: different aspects of the problem can be explored, such as 
+modeling choices, scalability, or the evaluation of generated graphs. The goal is to design methods 
+that capture meaningful temporal patterns while balancing realism and efficiency, and with applications 
+in data augmentation and/or privacy-preserving data generation.
+
+### References
+<a name="ref1"></a>[1] Fournet, Julie, and Alain Barrat. "Contact patterns among high school students." PloS one 9.9 (2014): e107878.
+
+<a name="ref2"></a>[2] You, Chang Hun, Lawrence B. Holder, and Diane J. Cook. "Learning patterns in the dynamics of biological networks." Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining. 2009.
+
+<a name="ref3"></a>[3] Sapiezynski, Piotr, et al. "Interaction data from the copenhagen networks study." Scientific Data 6.1 (2019): 315.
+
+<a name="ref4"></a>[4] Longa, Antonio, et al. "Generating fine-grained surrogate temporal networks." Communications Physics 7.1 (2024): 22."
