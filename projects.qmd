@@ -8,7 +8,7 @@ listing:
   contents: projects
   sort-ui: false
   filter-ui: false
-  sort: title
+  sort: sortby
 page-layout: full
 title-block-banner: false 
 ---

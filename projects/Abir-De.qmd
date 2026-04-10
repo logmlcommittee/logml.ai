@@ -1,0 +1,15 @@
+---
+title: "Exchangeability-Guided Graph Condensation"
+sidebar: false
+author: "Abir De"
+categories: []
+sortby: "ZZZZ"
+image: Abir-De.jpeg
+about:
+  id: project-profile
+  template: solana
+  links:
+    - icon: link
+      text: Abir
+      href: https://abir-de.github.io/
+---
