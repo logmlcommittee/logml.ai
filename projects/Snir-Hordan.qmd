@@ -22,7 +22,7 @@ He co designed and taught the course "Deep Learning and Groups" with Asst. Prof.
 
 ## Project
 
-![](Snir-Hodan-info.png){fig-align="center" width="100%"}
+![](Snir-Hordan-info.png){fig-align="center" width="100%"}
 
 Canonicalization, mapping a 3D point cloud to a unique representative of its rotation orbit, 
 lets standard (non equivariant) architectures distinguish among rotated copies of the same molecule, 

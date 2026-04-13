@@ -212,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="project">Project</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="Snir-Hodan-info.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<p><img src="Snir-Hordan-info.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 <p>Canonicalization, mapping a 3D point cloud to a unique representative of its rotation orbit, lets standard (non equivariant) architectures distinguish among rotated copies of the same molecule, improving generalization and giving an efficiency advantage over both rotation augmentation (which multiplies training cost) and equivariant architectures (which add per layer overhead) [<a href="#ref5">5</a>, <a href="#ref8">8</a>, <a href="#ref9">9</a>]. The dominant canonicalization method is PCA: diagonalize the inertia tensor to obtain a coordinate frame. But PCA has a well-known flaw, sign ambiguity creates 8 equivalent orientations (a (Z/2)^3 orbit), and it fails entirely on symmetric point clouds whose inertia tensors have degenerate eigenvalues <a href="#ref1">[1]</a>. This matters for molecular ML because symmetric point clouds are prevalent in organic molecules: our preliminary analysis shows 16.4% of QM9 have non trivial point group symmetry, and PCA produces completely inconsistent frames on these molecules (inconsistency of 1.0 on cubes, 0.95 on tetrahedra).</p>
