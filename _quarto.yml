@@ -28,12 +28,12 @@ website:
         text: Policies
       # - href: program.qmd
       #   text: Schedule
-      # - href: sponsors.qmd
-      #   text: Sponsors
+      - href: sponsors.qmd
+        text: Sponsors
       - href: logml2025/speaker.qmd
         text: "Archives"
-      - href: call_for_sponsors.qmd
-        text: "Call for Sponsors"
+      # - href: call_for_sponsors.qmd
+      #   text: "Call for Sponsors"
       - href: apply.qmd
         text: "Apply"
  

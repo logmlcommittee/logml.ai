@@ -28,39 +28,29 @@ sidebar: false
 </style>
 
 We gratefully acknowledge funding from 
-the Heilbronn Institute for Mathematical Research and the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
-Imperial College London, the Erlangen AI Hub, LSGNT, G-research, IdeaLondon, and Prob AI.
+the Heilbronn Institute for Mathematical Research the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
+Imperial College London, Prob AI, London Mathematical Society, Circle Group, Vinci4d, IJCAI, PhysicsX, 
+Hash, and DLR Group. 
 
 <div class="sponsor-grid">
 <div class="sponsor-cell">
 <img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo">
 </div>
+
 <div class="sponsor-cell">
 <img src="img/sponsors/EPSRC.png" class="sponsor-logo">
 </div>
+
 <div class="sponsor-cell">
 <img src="img/sponsors/Imperial.png" class="sponsor-logo">
 </div>
+
 <div class="sponsor-cell">
-<img src="img/sponsors/Erlangen-Hub.png" class="sponsor-logo">
-</div>
-<div class="sponsor-cell">
-<img src="img/sponsors/LSGNT-Logo.png" class="sponsor-logo">
-</div>
-<div class="sponsor-cell">
-<img src="img/sponsors/G-Research.png" class="sponsor-logo">
+<img src="img/sponsors/ix-logo.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/IdealLondonLogo.png" class="sponsor-logo">
-</div>
-
-<div class="sponsor-cell">
-<img src="img/sponsors/UCLLogo.png" class="sponsor-logo">
-</div>
-
-<div class="sponsor-cell">
-<img src="img/sponsors/WilbeLabLogo.png" class="sponsor-logo">
+<img src="img/sponsors/lms-logo.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
@@ -68,11 +58,27 @@ Imperial College London, the Erlangen AI Hub, LSGNT, G-research, IdeaLondon, and
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/Huawei.png" class="sponsor-logo">
+<img src="img/sponsors/CIRCLEGroup.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/CIRCLEGroup.png" class="sponsor-logo">
+<img src="img/sponsors/vinci4d-logo.webp" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/ijcai-logo.jpg" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/physicsx-logo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/hash-logo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/dlr-logo.png" class="sponsor-logo">
 </div>
 
 </div>
