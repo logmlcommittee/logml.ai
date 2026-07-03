@@ -18,24 +18,24 @@ website:
     foreground: "#F0EFEB"
     width: 3000px
     left:
-      - href: people.qmd
-        text: People
       - text: Speakers
         href: speaker.qmd
       - text: "Projects & Mentors"
         href: projects.qmd
+      - href: people.qmd
+        text: People
+      - href: sponsors.qmd
+        text: Sponsors
       - href: policies.qmd
         text: Policies
       # - href: program.qmd
       #   text: Schedule
-      - href: sponsors.qmd
-        text: Sponsors
       - href: logml2025/speaker.qmd
         text: "Archives"
       # - href: call_for_sponsors.qmd
       #   text: "Call for Sponsors"
-      - href: apply.qmd
-        text: "Apply"
+      # - href: apply.qmd
+      #   text: "Apply"
  
     right: 
       - icon: envelope
