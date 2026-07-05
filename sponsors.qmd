@@ -70,6 +70,10 @@ Hash, and DLR Group.
 </div>
 
 <div class="sponsor-cell">
+<img src="img/sponsors/zenseact-logo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
 <img src="img/sponsors/physicsx-logo.png" class="sponsor-logo">
 </div>
 
