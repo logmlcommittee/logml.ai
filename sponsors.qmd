@@ -27,12 +27,28 @@ sidebar: false
 }
 </style>
 
-We gratefully acknowledge funding from 
-the Heilbronn Institute for Mathematical Research the UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
-Imperial College London, Prob AI, London Mathematical Society, Circle Group, Vinci4d, IJCAI, PhysicsX, 
-Hash, and DLR Group. 
+We gratefully acknowledge funding from Hash, Imperial College London, Zenseact, Vinci4d,
+Heilbronn Institute for Mathematical Research and UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
+Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London Mathematical Society.
 
 <div class="sponsor-grid">
+
+<div class="sponsor-cell">
+<img src="img/sponsors/hash-logo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/Imperial.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/zenseact-logo.png" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/vinci4d-logo.webp" class="sponsor-logo">
+</div>
+
 <div class="sponsor-cell">
 <img src="img/sponsors/Heilbronn-Logo.png" class="sponsor-logo">
 </div>
@@ -42,15 +58,15 @@ Hash, and DLR Group.
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/Imperial.png" class="sponsor-logo">
-</div>
-
-<div class="sponsor-cell">
 <img src="img/sponsors/ix-logo.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/lms-logo.png" class="sponsor-logo">
+<img src="img/sponsors/ijcai-logo.jpg" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/dlr-logo.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
@@ -62,27 +78,16 @@ Hash, and DLR Group.
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/vinci4d-logo.webp" class="sponsor-logo">
-</div>
-
-<div class="sponsor-cell">
-<img src="img/sponsors/ijcai-logo.jpg" class="sponsor-logo">
-</div>
-
-<div class="sponsor-cell">
-<img src="img/sponsors/zenseact-logo.png" class="sponsor-logo">
-</div>
-
-<div class="sponsor-cell">
 <img src="img/sponsors/physicsx-logo.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/hash-logo.png" class="sponsor-logo">
+<img src="img/sponsors/LSGNT-Logo.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/dlr-logo.png" class="sponsor-logo">
+<img src="img/sponsors/lms-logo.png" class="sponsor-logo">
 </div>
+
 
 </div>
