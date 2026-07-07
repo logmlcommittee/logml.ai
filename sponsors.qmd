@@ -27,7 +27,7 @@ sidebar: false
 }
 </style>
 
-We gratefully acknowledge funding from Hash, Imperial College London, Zenseact, Vinci4d,
+We gratefully acknowledge funding from Hash, Imperial College London, Zenseact, Vinci4d, Matterport,
 Heilbronn Institute for Mathematical Research and UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
 Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London Mathematical Society.
 
@@ -47,6 +47,10 @@ Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London
 
 <div class="sponsor-cell">
 <img src="img/sponsors/vinci4d-logo.webp" class="sponsor-logo">
+</div>
+
+<div class="sponsor-cell">
+<img src="img/sponsors/matterport-logo.svg" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">

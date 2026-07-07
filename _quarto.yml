@@ -28,8 +28,8 @@ website:
         text: Sponsors
       - href: policies.qmd
         text: Policies
-      # - href: program.qmd
-      #   text: Schedule
+      - href: program.qmd
+        text: Program
       - href: logml2025/speaker.qmd
         text: "Archives"
       # - href: call_for_sponsors.qmd

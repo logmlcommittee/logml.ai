@@ -4,7 +4,7 @@
   .scroll-wrapper {
     max-height: 600px;     /* Height of the schedule that is visible */
     overflow-y: auto;
-    overflow-x: auto;      
+    overflow-x: auto;
     border: 1px solid #ccc;
   }
   .schedule-table {
@@ -41,22 +41,23 @@
   .grey { background-color: #f3f3f3; }
   .peach { background-color: #fce5cd; }
   .pink { background-color: #ead1dc; }
+  .salmon { background-color: #f4cccc; }
 </style>
 
 <div class="scroll-wrapper">
 <table class="schedule-table">
     <tr>
         <th class="header">Time</th>
-        <th class="header">Monday 7 July</th>
-        <th class="header">Tuesday 8 July</th>
-        <th class="header">Wednesday 9 July</th>
-        <th class="header">Thursday 10 July</th>
-        <th class="header">Friday 11 July</th>
+        <th class="header">Monday 13 July</th>
+        <th class="header">Tuesday 14 July</th>
+        <th class="header">Wednesday 15 July</th>
+        <th class="header">Thursday 16 July</th>
+        <th class="header">Friday 17 July</th>
     </tr>
 
     <tr>
         <td class="time h80" rowspan="2">8:00 - 9:00</td>
-        <td class="green" rowspan="4">Welcome Breakfast at V&amp;A Museum</td>
+        <td class="salmon" rowspan="3">Registration + Welcome Breakfast<br><span style="font-size: 0.8em;"></span></td>
         <td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td>
     </tr>
     <tr></tr>
@@ -69,169 +70,72 @@
     </tr>
 
     <tr>
-        <td class="time h40">9:30 - 10:00</td>
-        <td class="blue" rowspan="2">Invited Tutorial:<br>Coralia Cartis<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
-        <td class="blue" rowspan="2">Invited talk:<br>Tolga Birdal<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
-        <td class="blue" rowspan="2">Invited talk:<br>Alice Barbora Tumpach<br><span style="font-size: 0.8em;">(SAF: LT G34)</span></td>
-        <td class="blue" rowspan="2">Invited talk:<br>Filippo Maria Bianchi<br><span style="font-size: 0.8em;">(Skempton: LT 201)</span></td>
-    </tr>
-
-    <tr>
-        <td class="time h40">10:00 - 10:30</td>
-        <td class="grey">Registration</td>
+        <td class="time h80">9:30 - 10:30</td>
+        <td class="blue">Tutorial:<br>Pascal Welke<br><span style="font-size: 0.8em;"><em>A Tale of Graph Representation Learning</em></span></td>
+        <td class="blue">Talk:<br>Xiaowen Dong<br><span style="font-size: 0.8em;"><em>Learning Graphs from Data</em></span></td>
+        <td class="blue">Tutorial:<br>Giovanni Marchetti<br><span style="font-size: 0.8em;"><em>Algebraic Geometry of Deep Learning</em></span></td>
+        <td class="blue">Talk:<br>Stephanie Jegelka<br><span style="font-size: 0.8em;"><em>Neural parameter symmetries: Learning on LoRAs, breaking parameter symmetries and the effect of data</em></span></td>
+        <td class="blue">Talk:<br>Olga Fink<br><span style="font-size: 0.8em;"><em>Momentum-Conserving Physics-Informed Graph Neural Networks for Dynamical Systems</em></span></td>
     </tr>
 
     <tr>
         <td class="time h40">10:30 - 11:00</td>
-        <td class="blue" rowspan="2">Invited Tutorial:<br>Marco Cuturi<br><span style="font-size: 0.8em;">(CAGB: LT 200)</span></td>
-        <td class="grey">Coffee break</td>
-        <td class="grey">Coffee break</td>
-        <td class="grey">Coffee break</td>
-        <td class="peach" rowspan="4">Project presentations<br><span style="font-size: 0.8em;">(Skempton: LT 201)</span></td>
+        <td class="grey">Tea and coffee</td>
+        <td class="grey">Tea and coffee</td>
+        <td class="grey">Tea and coffee</td>
+        <td class="grey">Tea and coffee</td>
+        <td class="peach" rowspan="3">Project presentations</td>
     </tr>
 
     <tr>
-        <td class="time h40">11:00 - 11:30</td>
-        <td class="blue" rowspan="2">Invited Tutorial:<br>Estelle Massart<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
-        <td class="blue" rowspan="2">Invited talk:<br>Bastian Rieck<br><span style="font-size: 0.8em;">(Huxley: LT 308)</span></td>
-        <td class="blue" rowspan="2">Invited talk:<br>Francisco J Ruiz<br><span style="font-size: 0.8em;">(SAF: LT G34)</span></td>
+        <td class="time h80">11:00 - 12:00</td>
+        <td class="blue">Tutorial:<br>Soledad Villar<br><span style="font-size: 0.8em;"><em>Equivariant machine learning on any-size inputs and connections to hyperparameter transfer</em></span></td>
+        <td class="blue">Talk:<br>Dorina Thanou<br><span style="font-size: 0.8em;"><em>Learning Graphs from Data</em></span></td>
+        <td class="blue">Talk:<br>Nicholas Sharp<br><span style="font-size: 0.8em;"><em>Discrete Structures in 3D Geometric Learning</em></span></td>
+        <td class="blue">Talk:<br>Ismail Ceylan<br><span style="font-size: 0.8em;"><em>Graph Foundation Models: What Transfers Across Graphs, Relations, and Tasks</em></span></td>
     </tr>
 
     <tr>
-        <td class="time h40">11:30 - 12:00</td>
-        <td class="grey">Coffee break</td>
+        <td class="time h80">12:00 - 13:00</td>
+        <td class="grey">Lunch break</td>
+        <td class="grey">Lunch break</td>
+        <td class="grey">Group photo + Lunch break</td>
+        <td class="grey">Lunch break</td>
     </tr>
 
     <tr>
-        <td class="time h40">12:00 - 12:30</td>
-        <td class="blue" rowspan="2">Invited talk:<br>Marinka Zitnik<br><span style="font-size: 0.8em;">(CAGB: LT 200)</span></td>
-        <td class="grey" rowspan="2">Lunch break</td>
-        <td class="grey" rowspan="2">12:10: Group photo<br> at Royal Albert Hall<br>Lunch break</td>
-        <td class="grey" rowspan="2">Lunch break</td>
-    </tr>
-
-    <tr>
-        <td class="time h40">12:30 - 13:00</td>
-        <td></td>
-
-    </tr>
-
-    <tr>
-        <td class="time h60">13:00 - 13:45</td>
-        <td class="grey" >Lunch break</td>
-        <td class="peach" rowspan="3">Project time</td>
-        <td class="grey" rowspan="3">Afternoon off<br>(project rooms still available for project time if desired)</td>
-        <td class="peach" rowspan="3">Project time</td>
-        <td class="green" rowspan="2">Social Event: Lunch at Chiswick House and Gardens</td>
-    </tr>
-    
-    <tr>
-        <td class="time h100">13:45 - 15:00</td>
-        <td class="peach" rowspan="2">Project time</td>
-    </tr>
-
-    <tr>
-        <td class="time h160">13:45 - 17:00</td>
+        <td class="time h320">13:00 - 17:00</td>
+        <td class="peach">Project time</td>
+        <td class="peach">Project time</td>
+        <td class="grey">Afternoon off<br>(project rooms still available for project time if desired)</td>
+        <td class="peach">Project time</td>
+        <td class="green">Picnic in Hyde Park</td>
     </tr>
 
     <tr>
         <td class="time h80" rowspan="2">17:00 - 18:00</td>
-        <td class="pink" rowspan="3">Poster session<br><span style="font-size: 0.8em;">(CAGB: CL Lvl 2)</span></td>
-        <td rowspan="3"></td>
+        <td class="pink" rowspan="3">Poster session<br><span style="font-size: 0.8em;"></span></td>
+        <td rowspan="2"></td>
+        <td class="green" rowspan="4">Social Event:<br>Company night</td>
         <td rowspan="2"></td>
         <td rowspan="2"></td>
     </tr>
     <tr></tr>
     <tr>
         <td class="time h40">18:00 - 18:30</td>
-        <td class="green" rowspan="3">Social Event:<br>Company night</td>
-        <td class="green" rowspan="3">Social Event:<br>Dinner and live music at Blues Kitchen</td>
+        <td></td>
+        <td class="green" rowspan="2">Social Event:<br>Blues night</td>
+        <td></td>
     </tr>
     <tr>
-        <td class="time h80" rowspan="2">From 18:30</td>
-        <td rowspan="2"></td>
-        <td class="green" rowspan="2">Social Event:<br>Bouldering night</td>
+        <td class="time h80">From 18:30</td>
+        <td></td>
+        <td class="green">Social Event:<br>Bouldering at White City</td>
+        <td></td>
     </tr>
 </table>
 </div>
 
-## Event Details
-
-::: {.callout-note}
-### Socials
-_(Subject to change up to the day of the event)_
-
----
-
-#### **📌 Poster Session**
-- Poster competition (prizes to be announced on the day of the event)
-- Poster presentation at Imperial College London (South Kensington Campus)
-
----
-
-#### **🥐 Welcome Breakfast at Victoria and Albert Museum**
-- Breakfast and registration in [Gamble Room]( https://www.vandaimages.com/results.asp?cat1=Gamble+Room&X8=19-02-07) inside the V&A
-- Continental breakfast provided by [Benugo](https://www.benugo.com/) for all LOGML participants
-- Private tour available for participants from 9:00
-
----
-
-#### **🧗 Bouldering Night**
-- Bouldering, DJ and dinner at [White City Bouldering](https://www.google.com/maps/place/White+City+Bouldering/@51.5094485,-0.2321965,15z/data=!3m1!5s0x48760fd07c4faf0d:0x55f0c588f4d12046!4m6!3m5!1s0x48760f2e75033aaf:0xfc392b5ae678af54!8m2!3d51.5094485!4d-0.2230555!16s%2Fg%2F11pyc5_4hk?hl=de&entry=ttu&g_ep=EgoyMDI1MDUwNi4wIKXMDSoASAFQAw%3D%3D) from 18:30 to 22:30
-- Dinner provided by [Jakobs](https://www.jakobs.co.uk/)
-- Shoes and chalk are provided
-- Introductory courses for beginners are available at the beginning of the night
-- 2 bouldering experts available throughout the night
-- Full hire of the bouldering gym - open only to LOGML participants
-
----
-
-#### **💼 Company Night at IdeaLondon**
-
-- Hosted at [IdeaLondon](https://www.idealondon.co.uk/) with snacks and drinks  
-- Includes short presentations by participating companies  
-- Followed by informal networking and discussions
-
----
-
-#### **🎷 Dinner and Live Music at Blues Kitchen**
-- Pub Food, drinks and live music provided to LOGML participants at [Blues Kitchen Shoreditch](https://maps.app.goo.gl/URzxvsk4tvRi7rBy6) from 18:00 to 2:00
-- Live music from 21, then DJ and dance floor open for the rest of the night
-- Private hire of [tequila bar room](https://hirespace.com/Spaces/London/138578/The-Blues-Kitchen-Shoreditch/Tequila-Bar/Events), accessible only to LOGML participants
-
----
-
-#### **🧺 Project Presentations**
-- Final presentations will be held from 10:30 to 12:30 at Imperial College London
-- Each group will present the results of their weekly projects (5 minutes presentation)
-- Lunch will follow from 13:00 onwards at [Chiswick House and Gardens](https://chiswickhouseandgardens.org.uk/)
-
-:::
-
----
-
-::: {.callout-note}
-### Titles of Talks  
-_(Subject to change up to the day of the event)_
-
-**Filippo Maria Bianchi** (University of Norway) - _‘Hierarchical pooling in Graph Neural Networks’_
-
-**Tolga Birdal** (Imperial College London) - _‘Topological Deep Learning: Going Beyond Graph Data’_
-
-**Coralia Cartis** (Oxford University) - _‘Introduction to Riemannian geometry and optimization for machine learning (Part I)’_
-
-**Estelle Massart** (UCLouvain) - _‘Introduction to Riemannian geometry and optimization for machine learning (Part II)’_
-
-**Marco Cuturi** (Apple / CREST-ENSAE) - _'A Survey of Optimal Transport and its Interplay with Flow Models'_ 
-
-**Bastian Rieck** (University of Fribourg) - _‘Shapes, Spaces, Simplices, and Structure: Geometry, Topology, and Machine Learning’_
-
-**Francisco J Ruiz** (Google DeepMind) - _‘AI for mathematical and algorithmic discoveries’_
-
-**Alice Barbara Tumpach** (Wolfgang Pauli Institute, Vienna) - _‘Infinite-dimensional Geometry and AI’_
-
-**Marinka Zitnik** (Harvard University) - _‘From molecules to therapies: Scientific discovery in the age of AI’_
-:::
 
 ## Directions
 
