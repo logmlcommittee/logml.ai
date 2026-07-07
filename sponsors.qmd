@@ -6,15 +6,17 @@ sidebar: false
 
 <style>
 .sponsor-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  justify-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   align-items: center;
+  gap: 2rem 3rem;
+  padding: 1rem 0;
 }
 
 .sponsor-cell {
   width: 250px;
-  height: 200px;
+  height: 180px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,11 +27,36 @@ sidebar: false
   max-height: 100%;
   object-fit: contain;
 }
+
+.tier-divider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 2.5rem 0 0.5rem 0;
+  font-size: 1.1em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.tier-divider::before,
+.tier-divider::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid #ccc;
+}
+
+.tier-diamond { color: #4a7ba6; }
+.tier-gold { color: #b8860b; }
+.tier-silver { color: #8c8c8c; }
+.tier-bronze { color: #a05a2c; }
 </style>
 
 We gratefully acknowledge funding from Hash, Imperial College London, Zenseact, Vinci4d, Matterport,
 Heilbronn Institute for Mathematical Research and UKRI/EPSRC Additional Funding Programme for Mathematical Sciences,
-Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London Mathematical Society.
+Imperial-X, IJCAI, DLR Group, Circle Group, Prob AI, PhysicsX, LSGNT, and London Mathematical Society.
+
+<div class="tier-divider tier-diamond">Diamond Sponsors</div>
 
 <div class="sponsor-grid">
 
@@ -40,6 +67,12 @@ Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London
 <div class="sponsor-cell">
 <img src="img/sponsors/Imperial.png" class="sponsor-logo">
 </div>
+
+</div>
+
+<div class="tier-divider tier-gold">Gold Sponsors</div>
+
+<div class="sponsor-grid">
 
 <div class="sponsor-cell">
 <img src="img/sponsors/zenseact-logo.png" class="sponsor-logo">
@@ -65,6 +98,12 @@ Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London
 <img src="img/sponsors/ix-logo.png" class="sponsor-logo">
 </div>
 
+</div>
+
+<div class="tier-divider tier-silver">Silver Sponsors</div>
+
+<div class="sponsor-grid">
+
 <div class="sponsor-cell">
 <img src="img/sponsors/ijcai-logo.jpg" class="sponsor-logo">
 </div>
@@ -74,12 +113,19 @@ Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/ProbAILogo.png" class="sponsor-logo">
+<img src="img/sponsors/CIRCLEGroup.png" class="sponsor-logo">
 </div>
 
 <div class="sponsor-cell">
-<img src="img/sponsors/CIRCLEGroup.png" class="sponsor-logo">
+<img src="img/sponsors/ProbAILogo.png" class="sponsor-logo">
 </div>
+
+
+</div>
+
+<div class="tier-divider tier-bronze">Bronze Sponsors</div>
+
+<div class="sponsor-grid">
 
 <div class="sponsor-cell">
 <img src="img/sponsors/physicsx-logo.png" class="sponsor-logo">
@@ -92,6 +138,5 @@ Imperial-X, IJCAI, DLR Group, Prob AI, Circle Group, PhysicsX, LSGNT, and London
 <div class="sponsor-cell">
 <img src="img/sponsors/lms-logo.png" class="sponsor-logo">
 </div>
-
 
 </div>
