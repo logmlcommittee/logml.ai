@@ -1,0 +1,34 @@
+---
+title: "Matterport"
+sidebar: false
+description: "Gold Sponsor"
+image: ../img/sponsors/matterport-logo.svg
+toc: false
+about:
+  id: sponsor-profile
+  template: jolla
+  image-shape: rounded
+---
+
+<style>
+#title-block-header .title {
+  display: none;
+}
+</style>
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../sponsors.html">Sponsors</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Matterport</li>
+  </ol>
+</nav>
+```
+
+:::{#sponsor-profile}
+:::
+
+Matterport is the leading spatial data platform, transforming physical spaces into immersive, accurate digital twins used across real estate, retail, hospitality, and industrial facilities. Our technology combines advanced computer vision, 3D reconstruction, and machine learning to turn ordinary camera and LiDAR captures into rich, navigable 3D models complete with automated floorplans, measurements, and property insights.
+Behind every Matterport space is a deep ML/CV stack: multi-view depth estimation, semantic segmentation, synthetic data generation, and generative models for tasks like privacy-preserving face blurring and image inpainting. As part of CoStar Group, Matterport's Vision & Learning team tackles novel research problems at the intersection of 3D geometry, neural rendering, and large-scale visual data — often at a scale and diversity few other companies can offer.
+We're proud to support the next generation of ML/CV talent and look forward to engaging with students tackling problems just as exciting as the ones we solve every day.

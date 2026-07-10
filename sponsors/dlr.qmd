@@ -1,0 +1,32 @@
+---
+title: "DLR Group"
+sidebar: false
+description: "Silver Sponsor"
+image: ../img/sponsors/dlr-logo.png
+toc: false
+about:
+  id: sponsor-profile
+  template: jolla
+  image-shape: rounded
+---
+
+<style>
+#title-block-header .title {
+  display: none;
+}
+</style>
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../sponsors.html">Sponsors</a></li>
+    <li class="breadcrumb-item active" aria-current="page">DLR Group</li>
+  </ol>
+</nav>
+```
+
+:::{#sponsor-profile}
+:::
+
+DLR Group is an integrated design firm delivering architecture, engineering, interiors, planning, and building optimization for new construction, renovation, and adaptive reuse. Our promise is to elevate the human experience through design. This promise inspires sustainable design for a diverse group of public and private sector clients; local communities; and our planet.

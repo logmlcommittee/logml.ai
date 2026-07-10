@@ -1,0 +1,31 @@
+---
+title: "UKRI/EPSRC Additional Funding Programme for Mathematical Sciences"
+sidebar: false
+description: "Gold Sponsor"
+image: ../img/sponsors/EPSRC.png
+toc: false
+about:
+  id: sponsor-profile
+  template: jolla
+  image-shape: rounded
+---
+
+<style>
+#title-block-header .title {
+  display: none;
+}
+</style>
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../sponsors.html">Sponsors</a></li>
+    <li class="breadcrumb-item active" aria-current="page">UKRI/EPSRC Additional Funding Programme for Mathematical Sciences</li>
+  </ol>
+</nav>
+```
+
+:::{#sponsor-profile}
+:::
+
