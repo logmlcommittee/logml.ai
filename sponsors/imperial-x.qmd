@@ -8,6 +8,10 @@ about:
   id: sponsor-profile
   template: jolla
   image-shape: rounded
+  links:
+    - icon: link
+      text: website
+      href: https://ix.imperial.ac.uk/
 ---
 
 <style>

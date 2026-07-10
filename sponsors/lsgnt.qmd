@@ -8,6 +8,10 @@ about:
   id: sponsor-profile
   template: jolla
   image-shape: rounded
+  links:
+    - icon: link
+      text: website
+      href: https://www.lsgnt-cdt.ac.uk/
 ---
 
 <style>
