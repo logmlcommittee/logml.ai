@@ -59,7 +59,7 @@ All lectures will be held at Skempton Lecture Hall (LT 164)
 
     <tr>
         <td class="time h80" rowspan="2">8:00 - 9:00</td>
-        <td class="salmon" rowspan="3">Registration + Welcome Breakfast<br><span style="font-size: 0.8em;"></span></td>
+        <td class="salmon" rowspan="3">Registration + Welcome Breakfast<br><span style="font-size: 0.8em;">Royal College of Music</span></td>
         <td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td>
     </tr>
     <tr></tr>
@@ -94,7 +94,7 @@ All lectures will be held at Skempton Lecture Hall (LT 164)
         <td class="blue">Tutorial:<br>Soledad Villar<br><span style="font-size: 0.8em;"><em>Equivariant machine learning on any-size inputs and connections to hyperparameter transfer</em></span></td>
         <td class="blue">Talk:<br>Dorina Thanou<br><span style="font-size: 0.8em;"><em>Learning Graphs from Data</em></span></td>
         <td class="blue">Talk:<br>Nicholas Sharp<br><span style="font-size: 0.8em;"><em>Discrete Structures in 3D Geometric Learning</em></span></td>
-        <td class="blue">Talk:<br>Ismail Ceylan<br><span style="font-size: 0.8em;"><em>Graph Foundation Models: What Transfers Across Graphs, Relations, and Tasks</em></span></td>
+        <td class="blue">Talk:<br>Ismail Ilkan Ceylan<br><span style="font-size: 0.8em;"><em>Graph Foundation Models: What Transfers Across Graphs, Relations, and Tasks</em></span></td>
     </tr>
 
     <tr>
@@ -116,9 +116,9 @@ All lectures will be held at Skempton Lecture Hall (LT 164)
 
     <tr>
         <td class="time h80" rowspan="2">17:00 - 18:00</td>
-        <td class="pink" rowspan="3">Poster session<br><span style="font-size: 0.8em;"></span></td>
+        <td class="pink" rowspan="3">Poster session<br><span style="font-size: 0.8em;">Snacks / Drinks</span></td>
         <td rowspan="2"></td>
-        <td class="green" rowspan="4">Social Event:<br>Company night</td>
+        <td class="green" rowspan="4">Social Event:<br>Company night at Scale Space London</td>
         <td rowspan="2"></td>
         <td rowspan="2"></td>
     </tr>
@@ -126,13 +126,13 @@ All lectures will be held at Skempton Lecture Hall (LT 164)
     <tr>
         <td class="time h40">18:00 - 18:30</td>
         <td></td>
-        <td class="green" rowspan="2">Social Event:<br>Blues night</td>
+        <td class="green" rowspan="2">Social Event:<br>Blues night at the Blues Kitchen Shoreditch</td>
         <td></td>
     </tr>
     <tr>
         <td class="time h80">From 18:30</td>
         <td></td>
-        <td class="green">Social Event:<br>Bouldering at White City</td>
+        <td class="green">Social Event:<br>Bouldering White City</td>
         <td></td>
     </tr>
 </table>

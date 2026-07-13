@@ -1,16 +1,18 @@
 ---
 title: "Topology-Aware Learning for Spatial Transcriptomics"
 sidebar: false
-author: "Lucia Testa"
+author: "Lucia Testa, Robin Khatri"
 categories: []
-sortby: "Testa, Lucia"
-image: Lucia-Testa.png
+sortby: "Testa, Lucia, Khatri, Robin"
+image: Lucia-Testa-and-Robin-Khatri.png
 about:
   id: project-profile
   template: solana
   links:
-    - text: "{{< fa brands google-scholar >}} Google Scholar"
+    - text: "{{< fa brands google-scholar >}} Lucia Testa"
       href: https://scholar.google.com/citations?user=YvnMS3gAAAAJ&hl=en
+    - text: "{{< fa brands google-scholar >}} Robin Khatri"
+      href: https://scholar.google.com/citations?user=hjdWub0AAAAJ&hl=en
 ---
 
 ## Lucia Testa
@@ -21,6 +23,21 @@ Her doctoral research introduced new approaches to topological signal processing
 
 Her current interests focus on Topological Deep Learning and its applications to Computational Biology and Computational Chemistry. 
 In 2021, she was awarded the Best Master’s Thesis Award by Fondazione Sapienza.
+
+## Robin Khatri
+
+Robin Khatri is a postdoctoral researcher at the Institute of Medical Systems
+Bioinformatics (IMSB) &amp; III Department of Medicine, University Medical Center Hamburg-
+Eppendorf (UKE), Germany. He earned his PhD in 2025 from the Faculty of Computer
+Science at the University of Hamburg, working in systems biology under the supervision of
+Prof. Stefan Bonn. His doctoral research developed deep learning methods for the
+computational estimation of cell type composition and dynamics in single-cell and spatial
+omics data. He previously completed an MSc in Computer Science with a university
+diploma in Machine Learning at Jean Monnet University, Saint-Étienne, France.
+His current research focuses on machine learning methods for spatial transcriptomics with
+applications to autoimmune kidney diseases and glioblastoma. He is an Add-on Fellow of
+the Joachim Herz Foundation for Interdisciplinary Life Sciences (2024–2026) and a fellow
+of the UKE iPrime Medical Scientist Programme (2026).
 
 ## Project
 
