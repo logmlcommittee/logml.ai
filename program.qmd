@@ -44,6 +44,8 @@
   .salmon { background-color: #f4cccc; }
 </style>
 
+All lectures will be held at Skempton Lecture Hall (LT 164)
+
 <div class="scroll-wrapper">
 <table class="schedule-table">
     <tr>
@@ -143,6 +145,10 @@
 
 ![](img/directions/SouthKensingtonCampus.png)
 
+##### Skempton Building, Level 2 Map
+
+![](img/directions/SkemptonBuildingL2.png)
+
 ##### City and Guilds Building (CAGB), Level 2 Map
 
 ![](img/directions/CityAndGuildsBuildingL2.png)
@@ -151,9 +157,6 @@
 
 ![](img/directions/HuxleyBuildingL3.png)
 
-##### Skempton Building, Level 2 Map
-
-![](img/directions/SkemptonBuildingL2.png)
 
 ##### Sir Alexander Fleming (SAF) Building Map
 
