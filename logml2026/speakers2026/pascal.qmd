@@ -1,0 +1,27 @@
+---
+title: "Pascal Welke"
+sidebar: false
+description: "Lancaster University Leipzig, TU Vienna"
+sortby: "Welke, Pascal"
+image: pascal.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://pwelke.de/
+
+---
+---
+
+:::{#person-profile}
+:::
+
+Pascal Welke is an Assistant Professor in Data Science at Lancaster University Leipzig and is also affiliated with the Machine Learning research unit at TU Wien. 
+He received his PhD from the University of Bonn. 
+After a PostDoc there he moved to TU Wien before joining LU Leipzig in early 2025. 
+In his research, he investigates learning on and with graphs. 
+In particular, he combines neural networks, graph mining, and graph theory to develop and analyze expressive graph representations, as well as efficient similarity-based learning on graphs. 
+He regularly publishes and participates in top ML conferences such as NeurIPS, ICML, or AAAI and organize workshops and regular seminars for the graph learning community. 

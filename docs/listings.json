@@ -143,6 +143,73 @@
     ]
   },
   {
+    "listing": "/logml2026/projects.html",
+    "items": [
+      "/logml2026/projects2026/project3/index.html",
+      "/logml2026/projects2026/project16/index.html",
+      "/logml2026/projects2026/project7/index.html",
+      "/logml2026/projects2026/project1/index.html",
+      "/logml2026/projects2026/project19/index.html",
+      "/logml2026/projects2026/project20/index.html",
+      "/logml2026/projects2026/project18/index.html",
+      "/logml2026/projects2026/project8/index.html",
+      "/logml2026/projects2026/project17/index.html",
+      "/logml2026/projects2026/project6/index.html",
+      "/logml2026/projects2026/project12/index.html",
+      "/logml2026/projects2026/project2/index.html",
+      "/logml2026/projects2026/project4/index.html",
+      "/logml2026/projects2026/project5/index.html",
+      "/logml2026/projects2026/project14/index.html",
+      "/logml2026/projects2026/project15/index.html",
+      "/logml2026/projects2026/project9/index.html",
+      "/logml2026/projects2026/project13/index.html",
+      "/logml2026/projects2026/project10/index.html",
+      "/logml2026/projects2026/project11/index.html"
+    ]
+  },
+  {
+    "listing": "/logml2026/people.html",
+    "items": [
+      "/logml2026/people2026/team/lennart.html",
+      "/logml2026/people2026/team/leyla.html",
+      "/logml2026/people2026/team/martin.html",
+      "/logml2026/people2026/team/maria.html",
+      "/logml2026/people2026/team/simone.html",
+      "/logml2026/people2026/team/caterina.html",
+      "/logml2026/people2026/team/yiming.html",
+      "/logml2026/people2026/team/jacob.html",
+      "/logml2026/people2026/team/mohit.html",
+      "/logml2026/people2026/team/yaman.html",
+      "/logml2026/people2026/team/nikita.html",
+      "/logml2026/people2026/team/patryk.html",
+      "/logml2026/people2026/team/pragya.html",
+      "/logml2026/people2026/team/geri.html",
+      "/logml2026/people2026/team/arne.html",
+      "/logml2026/people2026/team/kamilia.html",
+      "/logml2026/people2026/team/zhengang.html",
+      "/logml2026/people2026/advisors/tolga.html",
+      "/logml2026/people2026/advisors/johannes.html",
+      "/logml2026/people2026/advisors/miranda.html",
+      "/logml2026/people2026/advisors/smita.html",
+      "/logml2026/people2026/advisors/anthea.html",
+      "/logml2026/people2026/advisors/michael.html"
+    ]
+  },
+  {
+    "listing": "/logml2026/speaker.html",
+    "items": [
+      "/logml2026/speakers2026/ismail.html",
+      "/logml2026/speakers2026/xiaowen.html",
+      "/logml2026/speakers2026/olga.html",
+      "/logml2026/speakers2026/stefanie.html",
+      "/logml2026/speakers2026/giovanni.html",
+      "/logml2026/speakers2026/nicholas.html",
+      "/logml2026/speakers2026/dorina.html",
+      "/logml2026/speakers2026/soledad.html",
+      "/logml2026/speakers2026/pascal.html"
+    ]
+  },
+  {
     "listing": "/logml2021/people.html",
     "items": [
       "/logml2021/people2021/team/mehdi.html",

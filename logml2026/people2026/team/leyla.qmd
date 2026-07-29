@@ -1,0 +1,36 @@
+---
+title: "Leyla Roksan Caglar"
+sidebar: false
+sortby: "Caglar, Leyla Roksan"
+description: "Icahn School of Medicine at Mount Sinai"
+image: leyla.png
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: website
+      icon: link
+      href: https://www.leylaroksancaglar.com/
+---
+
+
+Leyla is a Postdoctoral Fellow in the <a href="https://icahn.mssm.edu/about/artificial-intelligence">Windreich Department for
+AI & Human Health at the Icahn School of Medicine at Mount
+Sinai</a>. Her work lies at the intersection of neuroscience, AI, and
+cognitive science, integrating approaches from geometry,
+topology, and information theory to understand how systems with
+different learning mechanisms (i.e.: biological and artificial
+neural networks) acquire, generalize, and represent perceptual
+information.
+
+After receiving her PhD in Computational Cognitive
+Neuroscience from Rutgers University’s <a href="https://sasn.rutgers.edu/rubic">Brain Imaging Center</a>,
+she was also a joint-postdoc in the <a href="https://www.cmu.edu/dietrich/psychology/caoslab/">Concepts and Actions Lab</a> at
+Carnegie Mellon University and in the <a href="https://proactionlab.fpce.uc.pt/">ProAction Lab</a> at the
+University of Coimbra. Before that, she spent multiple years
+researching how children acquire and apply causal reasoning
+and inference in the <a href="https://projects.iq.harvard.edu/ccdlab/people/elizabeth-bonawitz">Computational Cognitive Development
+Lab</a> and at the <a href="https://www.ceu.edu/unit/cognitivescience">Central European University's Cognitive Science
+Department</a>. and received an MA in linguistics from the Utrecht
+University.

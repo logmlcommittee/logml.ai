@@ -1,0 +1,29 @@
+---
+title: "Stefanie Jegelka"
+sidebar: false
+description: "MIT, TUM"
+sortby: "Jegelka, Stefanie"
+image: stefanie.webp
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://people.csail.mit.edu/stefje/
+
+---
+---
+
+:::{#person-profile}
+:::
+
+Stefanie Jegelka is a Visiting Professor at MIT EECS, and a Humboldt Professor at TU Munich. 
+Previously, she was a tenured Associate Professor at MIT, and a member of CSAIL, IDSS, the Center for Statistics and Machine Learning at MIT.
+She completed her Diplom in bioinformatics at the University of Tübingen in 2007 and her doctorate in informatics at the University of Tübingen and ETH Zurich, Switzerland, in 2012. 
+From 2012 to 2014, she was a postdoc in the Department of Electrical Engineering and Computer Science at the University of California, Berkeley, United States.
+
+Her research is in algorithmic machine learning, and spans modeling, optimization algorithms, theory and applications. 
+In particular, she has been working on exploiting mathematical structure for discrete and combinatorial machine learning problems, for robustness and for scaling machine learning algorithms.
+Her research has been supported by a Sloan Research Fellowship, an NSF CAREER Award, a DARPA Young Faculty Award, an NSF BIGDATA award, an ONR MURI, faculty research awards by Google, Two Sigma and Adobe, an STL award and other awards by NSF and DARPA.

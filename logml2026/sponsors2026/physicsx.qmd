@@ -1,0 +1,25 @@
+---
+title: "PhysicsX"
+sidebar: false
+description: "Bronze Sponsor"
+image: ../../img/sponsors/physicsx-logo.png
+toc: false
+about:
+  id: sponsor-profile
+  template: jolla
+  image-shape: rounded
+  links:
+    - icon: link
+      text: website
+      href: https://www.physicsx.ai/
+---
+
+<style>
+#title-block-header .title {
+  display: none;
+}
+</style>
+
+:::{#sponsor-profile}
+:::
+

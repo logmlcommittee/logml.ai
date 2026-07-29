@@ -1,0 +1,11 @@
+---
+title: Projects
+listing:
+  categories: true
+  fields: [author, image, title, categories]
+  contents: projects2026
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---

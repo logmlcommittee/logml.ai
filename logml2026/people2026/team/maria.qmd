@@ -1,0 +1,22 @@
+---
+title: "Maria Esteban Casadevall"
+sidebar: false
+sortby: "Casadevall, Maria Esteban"
+description: "University of Amsterdam"
+image: maria.png
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: website
+      icon: link
+      href: https://mariaestebancasadevall.github.io/
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=6ezPe7UAAAAJ
+---
+
+
+Maria is a first-year ELLIS PhD student at the University of Amsterdam (AMLab) supervised by Prof.Erik Bekkers and co-supervised by Prof.Søren Hauberg. 
+Her research interests lie in the intersection of machine learning, geometry and topology. 
+She is currently working on understanding diffusion models through the lens of information geometry.  

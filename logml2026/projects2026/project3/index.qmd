@@ -1,0 +1,61 @@
+---
+title: "An alternative perspective on Information Propagation in Graph Neural Networks"
+sidebar: false
+author: "Giuseppe Alessio D'Inverno"
+categories: []
+sortby: "D'Inverno, Giuseppe Alessio"
+image: Giuseppe-Alessio-DInverno.jpg
+about:
+  id: project-profile
+  template: solana
+  links:
+    - icon: link
+      text: Giuseppe
+      href: https://aledinve.github.io
+---
+
+## Giuseppe Alessio D'Inverno
+
+Giuseppe Alessio D'Inverno is a Postdoctoral Researcher at the Laboratoires Mathématiques d'Orsay, 
+Université Paris-Saclay,  since February 2026. He previously served as a Postdoctoral Researcher in 
+the MathLab Group at SISSA in Trieste from 2024 to early 2026. He earned his PhD in Information 
+Engineering & Science from the University of Siena in 2024, focusing his thesis on the theoretical 
+properties of Graph Neural Networks. 
+
+His primary research interests encompass the mathematical foundations of deep learning, graph 
+representation learning, numerical modeling for PDEs, and physics-informed neural networks. 
+Throughout his career, he has conducted research stays at international institutions such as 
+Concordia University, the Montréal Institute for Learning Algorithms (MILA), and EPFL. 
+
+In addition to his research, he has extensive teaching experience, serving as a lecturer for 
+doctoral courses and as a teaching assistant for undergraduate subjects. He has also co-supervised 
+several Master’s and Bachelor’s theses in applied mathematics and data science. 
+
+## Project
+
+![](Giuseppe-Alessio-DInverno-info.png){fig-align="center" width="100%"}
+
+Information Propagation through neural networks can be interpreted as the separation of different input 
+signal trajectories as they propagate through the network layers.
+
+Two regimes typically arise in Information Propagation, depending on the weight and bias initialization: 
+in the chaotic regime, even small input differences are amplified, leading to instability and poor noise 
+robustness, while in the ordered regime, all inputs are mapped to similar outputs, suppressing Information 
+Propagation. 
+ 
+[[1]](#ref1) revealed that in MLPs and CNNs the boundary between chaotic and ordered regime is fractal, 
+showing that the choice of the weight and bias initialization is crucial. The project will extend 
+this analysis to GNNs, answering to the following research questions:
+
+1. is there a link between Information Propagation and message passing/network propagation?
+2. how is Information Propagation characterized w.r.t. different graph distance metrics? 
+ 
+A key aspect of this study is examining how the notion of different metrics for distance between 
+graphs affects Information Propagation, leveraging standard results in graph theory associated to 
+such metrics. The observed insights may be used to create links with the existing literature in 
+randomly initialized MP-GNNs and closely related architectures (e.g. Graph Echo State Networks). 
+Additional comparisons between MP-GNNs and energy-based GNNs may be conducted, to investigate whether 
+IP behaves differently.
+
+### References
+<a name="ref1"></a>[1] D'Inverno et al. (2025). Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. arXiv preprint arXiv:2508.03222.

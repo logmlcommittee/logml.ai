@@ -1,0 +1,22 @@
+---
+title: "Yiming Huang"
+sidebar: false
+sortby: "Huang, Yiming"
+description: "Imperial College London"
+image: yiming.jpeg
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: website
+      icon: link
+      href: https://yimingh.top/
+---
+
+
+Yiming Huang is a PhD student and Lee Family scholar at the Department of Computing, Imperial College London. 
+Previously, he obtained an MSc in Computer Science from the University of Electronic Science and Technology of China (UESTC). 
+His research interests primarily focus on developing novel topological deep learning methods for understanding complex and higher-order graph structures. 
+His broader interests also include generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications. 
+

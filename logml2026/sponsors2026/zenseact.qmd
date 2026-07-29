@@ -1,0 +1,29 @@
+---
+title: "Zenseact"
+sidebar: false
+description: "Gold Sponsor"
+image: ../../img/sponsors/zenseact-logo.png
+toc: false
+about:
+  id: sponsor-profile
+  template: jolla
+  image-shape: rounded
+  links:
+    - icon: link
+      text: website
+      href: https://zenseact.com/
+---
+
+<style>
+#title-block-header .title {
+  display: none;
+}
+</style>
+
+:::{#sponsor-profile}
+:::
+
+Zenseact is the Nordics' leading Physical AI company, developing world-leading safety software for autonomous driving. Based in Gothenburg, Sweden,  with offices in Lund and Munich, Germany and as a part of the Volvo Cars group, we build the AI systems that power the Volvo EX90, Volvo EX60, Polestar 3 and more. With the goal of eliminating traffic accidents entirely.
+Our research spans deep learning, sensor fusion, neural rendering, and spatiotemporal perception, with publications at CVPR, ICCV, ICRA and ECCV. We collaborate with leading academic institutions through WASP and our industrial PhD programme and maintain an open dataset — Zenseact Open Dataset ZOD — used by researchers worldwide.
+
+We sponsor LOGML because the intersection of geometry and machine learning is directly relevant to the problems we solve every day. We're here to connect with the next generation of developers and researchers who want their work to matter beyond the lab.

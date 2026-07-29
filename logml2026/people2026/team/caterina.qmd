@@ -1,0 +1,26 @@
+---
+title: "Caterina Graziani"
+sidebar: false
+sortby: "Graziani, Caterina"
+description: "University of Siena"
+image: caterina.png
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=OMVOd6gAAAAJ&hl=it
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/caterina-graziani-9961a3226/
+    - text: "{{< fa brands x-twitter >}}"
+      href: https://x.com/cate_graz
+---
+
+
+Caterina Graziani is a Research Associate in Artificial Intelligence at the University of Siena from February 2024.  
+She earned both Bachelor's and Master’s degree in Mathematics and then obtained her PhD in Artificial Intelligence at the University of Siena in 2024, under the supervision of Prof. Monica Bianchini, Prof. Moreno Falaschi, and Prof. Franco Scarselli. 
+In her PhD thesis, she studied the expressive power of GNNs beyond the Weisfeiler-Lehman test. 
+During her PhD she spent four months at the Machine Learning Research Unit of the Technical University of Vienna under the supervision of Prof. Thomas Gartner.
+Her research interests lie in the Mathematics of Deep Learning, with a focus on expressivity, approximation, and generalization in Graph Neural Networks, as well as Bioinformatics applications of neuro-symbolic methods.

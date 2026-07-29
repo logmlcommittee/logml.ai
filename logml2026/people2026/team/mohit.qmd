@@ -1,0 +1,28 @@
+---
+title: "Mohit Kataria"
+sidebar: false
+sortby: "Kataria, Mohit"
+description: "Indian Institute of Technology Delhi"
+image: mohit.jpg
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: website
+      icon: link
+      href: https://web.iitd.ac.in/~aiz218327/index.html
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=et2kk78AAAAJ&hl=en
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/passenger/
+---
+
+
+Mohit is a fifth-year PhD student at IIT Delhi, advised by Prof. Sandeep Kumar. 
+His research focuses on improving the scalability of graph machine learning. 
+At IIT Delhi, his work spans graph coarsening, scalable graph structure learning, and privacy-preserving personalized federated learning for graphs. 
+He is also interested in topology-inspired graph ML, with applications in biomedical and neuroscience. 
+In addition, he has worked with Adobe Research, where he contributed to LLM-based agentic frameworks.
+

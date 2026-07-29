@@ -1,0 +1,28 @@
+---
+title: "Nicholas Sharp"
+sidebar: false
+description: "NVIDIA"
+sortby: "Sharp, Nicholas"
+image: nicholas.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://nmwsharp.com/
+
+---
+---
+
+:::{#person-profile}
+:::
+
+Nicholas Sharp is a researcher in geometry processing, computer graphics/vision, and 3D machine learning. 
+His work seeks new algorithms and new representations to make computing with geometric data easy, efficient, and reliable. 
+Currently, he is a Senior Research Scientist at NVIDIA, based out of Seattle, WA.
+
+Previously, he received his PhD in Computer Science from Carnegie Mellon University advised by Keenan Crane, and was a postdoc in the University of Toronto DGP with Alec Jacobson. 
+Even earlier, he was an undergraduate at Virginia Tech, where he worked with T.M. Murali on computational systems biology, and was active in competitive programming. 
+Outside of work, he is a big fan of long-distance running, hockey, and cooking.

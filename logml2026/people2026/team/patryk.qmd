@@ -1,0 +1,23 @@
+---
+title: "Patryk Rygiel"
+sidebar: false
+sortby: "Rygiel, Patryk"
+description: "University of Twente, Amsterdam UMC"
+image: patryk.png
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=9OizHmQAAAAJ&hl=en
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/patryk-rygiel-7b93811b9/
+---
+
+
+Patryk is a third-year PhD candidate in the EU Horizon VASCUL-AID project at the University of Twente and a guest researcher at the Amsterdam University Medical Center, supervised by dr. Jelmer M. Wolterink, prof. dr. Christoph Brune and prof. dr. Kak Khee Yeung. 
+He is a former visiting student at NVIDIA and an AI research scientist at the med-tech startup Hemolens Diagnostics with two international medical device patents to his name. 
+His current research focuses on AI for Science and Health, encompassing development of neural surrogates for complex physics simulations (i.e. hemodynamics) and geometric deep learning methods for risk assessment of cardiovascular diseases. 
+Next to his work, he is actively involved in AI community by being a member of the ML in PL Association and co-organizer of several AI events across Europe. 

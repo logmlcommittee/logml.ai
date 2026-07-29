@@ -1,0 +1,20 @@
+---
+title: "Martin Carrasco"
+sidebar: false
+sortby: "Carrasco, Martin"
+description: "University of Fribourg"
+image: martin.jpg
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: website
+      icon: link
+      href: https://martin.topology.rocks/
+---
+
+
+Martin is a first-year ELLIS PhD student at the <a href="https://aidos.group/">University of Fribourg (AIDOS Lab)</a> with supervision from <a href="https://bastian.rieck.me/">Prof. Bastian Rieck</a> and co-supervision by <a href="https://www2.compute.dtu.dk/~sohau/">Prof.Søren Hauberg</a>. 
+His research interests are applications of graph theory, topology and geometry to machine learning. 
+Currently he is working on studying metrics in the space of attributed graphs.

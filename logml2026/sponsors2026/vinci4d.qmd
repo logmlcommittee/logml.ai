@@ -1,0 +1,25 @@
+---
+title: "Vinci4d"
+sidebar: false
+description: "Gold Sponsor"
+image: ../../img/sponsors/vinci4d-logo.webp
+toc: false
+about:
+  id: sponsor-profile
+  template: jolla
+  image-shape: rounded
+  links:
+    - icon: link
+      text: website
+      href: https://www.getvinci.ai/
+---
+
+<style>
+#title-block-header .title {
+  display: none;
+}
+</style>
+
+:::{#sponsor-profile}
+:::
+

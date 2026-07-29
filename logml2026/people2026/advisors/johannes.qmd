@@ -1,0 +1,33 @@
+---
+title: "Johannes Brandstetter"
+sidebar: false
+sortby: "Brandstetter, Johannes"
+description: "Johannes Kepler University, Emmi AI"
+image: johannes.webp
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://brandstetter-johannes.github.io/
+---
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../../index.html">LOGML 2026</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Johannes Brandstetter</li>
+
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+Johannes Brandstetter leads the "AI for Data-Driven Simulations" group at the Institute for Machine Learning, JKU - Johannes Kepler Universität Linz, with the aim of advancing data-driven simulations at industry scale. 
+Additionally, he is a Co-founder and Chief Scientist at Emmi AI — a push towards the data-driven revolution in science and engineering.

@@ -1,0 +1,24 @@
+---
+title: "Xiaowen Dong"
+sidebar: false
+description: "University of Oxford"
+sortby: "Dong, Xiaowen"
+image: xiaowen.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: http://www.robots.ox.ac.uk/~xdong/
+
+---
+---
+
+:::{#person-profile}
+:::
+
+Xiaowen Dong is an associate professor in the Department of Engineering Science at the University of Oxford, where he is a member of the Machine Learning Research Group. 
+Prior to joining Oxford, he was a postdoctoral associate in the MIT Media Lab, and received his PhD degree from the Swiss Federal Institute of Technology (EPFL). 
+His main research interests concern signal processing and machine learning techniques for analysing data with complex structures, and their applications in social, urban, and financial network analysis.

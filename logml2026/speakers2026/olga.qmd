@@ -1,0 +1,24 @@
+---
+title: "Olga Fink"
+sidebar: false
+description: "EPFL"
+sortby: "Fink, Olga"
+image: olga.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://people.epfl.ch/olga.fink?lang=en
+
+---
+---
+
+:::{#person-profile}
+:::
+
+Olga Fink has been Assistant Professor of Intelligent Maintenance and Operations Systems at EPFL since March 2022. 
+She is also a research affiliate at the Massachusetts Institute of Technology and an expert at Innosuisse in the field of ICT. 
+Olga’s research focuses on hybrid algorithms fusing physics-based models and deep learning algorithms; hybrid operational digital twins; transfer learning; self-supervised learning; deep reinforcement learning; and multi-agent systems for intelligent maintenance and operations of infrastructure and complex assets.

@@ -30,7 +30,7 @@ website:
         text: Policies
       - href: program.qmd
         text: Program
-      - href: logml2025/speaker.qmd
+      - href: logml2026/speaker.qmd
         text: "Archives"
       # - href: call_for_sponsors.qmd
       #   text: "Call for Sponsors"
@@ -57,6 +57,12 @@ website:
       background: light
       search: false
       contents:
+        - section: "LOGML 2026"
+          contents:
+            - logml2026/speaker.qmd
+            - logml2026/projects.qmd
+            - logml2026/sponsors.qmd
+            - logml2026/people.qmd
         - section: "LOGML 2025"
           contents:
             - logml2025/speaker.qmd

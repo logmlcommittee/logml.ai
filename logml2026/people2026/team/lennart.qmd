@@ -1,0 +1,28 @@
+---
+title: "Lennart Bastian"
+sidebar: false
+sortby: "Bastian, Lennart"
+description: "Imperial College London"
+image: lennart.jpg
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=huXOVHgAAAAJ&hl=en
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/lennart-bastian-4a867421/
+---
+
+
+<p>
+Lennart is a Post-doctoral Research Scientist at Imperial College London, working with the <a href="https://circle-group.github.io/">Circle Group</a> of Prof. Tolga Birdal, where he pursues topics at the intersection of geometry, topology, and machine learning. 
+His research is funded by the UK Royal Society under the <a href="https://royalsociety.org/news/2025/11/early-career-fellowships-2025/">Newton International Fellowship</a>.
+</p>
+<p>
+He completed his PhD with highest distinction (<i>summa cum laude</i>) at the <a href="https://www.cs.cit.tum.de/camp/">Chair for Computer Aided Medical Procedures</a> (CAMP) in Munich, supervised by <a href="https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/">Prof. Nassir Navab</a>, where he also coordinated research of the <a href="https://www.cs.cit.tum.de/camp/research/surgical-data-science/">Surgical Data Science</a> team. 
+His M.Sc. thesis, "SDP Solvers with Optimal Storage Requirements and Applications," was completed in Applied Mathematics at the Technical University of Munich under the supervision of <a href="https://www.math.cit.tum.de/en/math/people/professors/ulbrich-michael/">Prof. Michael Ulbrich</a>. 
+He holds a Bachelor's in Mathematics and Computer Science from New York University's Courant Institute, with an emphasis on the biological sciences.
+</p>

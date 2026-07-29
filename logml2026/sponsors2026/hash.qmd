@@ -1,0 +1,26 @@
+---
+title: "Hash"
+sidebar: false
+description: "Diamond Sponsor"
+image: ../../img/sponsors/hash-logo.png
+toc: false
+about:
+  id: sponsor-profile
+  template: jolla
+  image-shape: rounded
+  links:
+    - icon: link
+      text: website
+      href: https://hash.ai/
+---
+
+<style>
+#title-block-header .title {
+  display: none;
+}
+</style>
+
+:::{#sponsor-profile}
+:::
+
+HASH is an open-source platform that helps organizations convert structured data and unstructured information alike into a strongly typed, temporal, semantic graph that is useful for process optimization and automation, as well as decision-support. HASH is also developing a "Process Foundation Model" designed to zero-shot generalize to real-world business processes with a far greater degree of accuracy than current frontier AI.

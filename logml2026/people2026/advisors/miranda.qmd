@@ -1,0 +1,33 @@
+---
+title: "Miranda Cheng"
+sidebar: false
+sortby: "Cheng, Miranda"
+description: "University of Amsterdam"
+image: miranda.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://iop.uva.nl/profile/c/h/c.n.cheng/c.n.cheng.html?origin=wDHbH2MXSOqc9NRJQJURfg
+
+---
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../../index.html">LOGML 2026</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Miranda Cheng</li>
+
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+Miranda Chih-Ning Cheng is a Taiwanese mathematician and theoretical physicist who works as an associate professor at the University of Amsterdam. She is known for formulating the umbral moonshine conjectures and for her work on the connections between K3 surfaces and string theory.

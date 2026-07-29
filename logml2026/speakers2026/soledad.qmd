@@ -1,0 +1,26 @@
+---
+title: "Soledad Villar"
+sidebar: false
+description: "Johns Hopkins University"
+sortby: "Villar, Soledad"
+image: soledad.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.ams.jhu.edu/villar/
+
+---
+---
+
+:::{#person-profile}
+:::
+
+Soledad Villar is an Assistant Professor in Applied Mathematics and Statistics at Johns Hopkins University. 
+Prior to that she worked with Joan Bruna and Afonso Bandeira at New York University and was affiliated with the Simons Foundation in New York City and UC Berkeley. 
+She received her PhD from UT Austin supervised by Rachel Ward. 
+Her research interests include equivariant machine learning, graph neural networks and mathematical foundations of deep learning. 
+She is also interest in applications to computational biology. 

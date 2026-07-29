@@ -1,0 +1,21 @@
+---
+title: "Yaman Kındap"
+sidebar: false
+sortby: "Kındap, Yaman"
+description: "Imperial College London"
+image: yaman.jpg
+toc: false
+about:
+  id: person-profile
+  template: trestles
+  links:
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=YngID0kAAAAJ&hl=en
+---
+
+
+Yaman is a Postdoctoral Research Associate in the Department of Computing at Imperial College London. 
+His research focuses on statistical signal processing and machine learning for complex dynamical systems, with particular emphasis on Bayesian modelling using non-Gaussian stochastic processes. 
+He completed his PhD at the University of Cambridge, where his work studied the use of non-Gaussian process priors for learning functions with rapid temporal variation. 
+His research lies at the intersection of learning, optimisation, and uncertainty quantification, with applications including risk management in finance and climate modelling, as well as target tracking in autonomous systems. 
+He has also worked as a data scientist in finance and retail, developing forecasting and pricing models.
